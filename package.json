@@ -1,0 +1,20 @@
+{
+  "name": "todo-list",
+  "version": "0.0.0",
+  "description": "Hello Exponent!",
+  "author": null,
+  "private": true,
+  "main": "main.js",
+  "dependencies": {
+    "@exponent/ex-navigation": "^1.6.0",
+    "@exponent/samples": "^1.0.2",
+    "@exponent/vector-icons": "^1.0.1",
+    "exponent": "^10.0.0",
+    "react": "~15.3.2",
+    "react-native": "github:exponentjs/react-native#sdk-10.1.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-plugin-react": "^6.5.0"
+  }
+}
