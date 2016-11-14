@@ -19,13 +19,14 @@ import flashcards from '../assets/flashcards';
 export default class HomeScreen extends React.Component {
   constructor(props, context) {
     super(props, context);
-      this.state = {
-        todos:[
-          { task: flashcards.flashcards[0].name },
-          { task: flashcards.flashcards[1].name },
-        ]
-      }
-    }
+    this.state = {
+      todos:[]
+      };
+
+      for (let value of flashcards.flashcards) {
+        this.state.todos.push({task: value.name });
+      };
+    };
 
   static route = {
     navigationBar: {
