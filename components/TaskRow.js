@@ -38,10 +38,6 @@ const styles = StyleSheet.create({
 
 export class TaskRow extends React.Component{
 
-  onFlashcardClicked(){
-
-  }
-
   render() {
     return(
       <TouchableHighlight
