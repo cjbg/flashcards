@@ -59,4 +59,5 @@ TaskRow.propTypes = {
   todo: React.PropTypes.shape({
     task: React.PropTypes.string.isRequired,
   }).isRequired,
+  onAddStarted: React.PropTypes.func.isRequired
 };
