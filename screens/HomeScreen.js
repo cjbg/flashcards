@@ -13,6 +13,7 @@ import {
 
 import { MonoText } from '../components/StyledText';
 import { TaskList } from '../components/TaskList';
+import { TaskForm } from '../screens/TaskForm';
 import flashcards from '../assets/flashcards';
 
 export default class HomeScreen extends React.Component {
@@ -36,13 +37,19 @@ export default class HomeScreen extends React.Component {
     this.nav.push({
       name: 'taskform',
     });
-  }
+  };
+
+  onBackStarded(){
+    this.nav.pop();
+  };
 
   renderScene(route, nav){
     switch (route.name) {
       case 'taskform':
           return (
-            <Text>Add form comes here!</Text>
+            <TaskForm
+              onBackStarded={this.onBackStarded.bind(this)}
+            />
           );
         break;
       default:
