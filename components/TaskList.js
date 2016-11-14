@@ -45,7 +45,10 @@ export class TaskList extends React.Component{
 
   renderRow(todo){
     return(
-      <TaskRow todo={todo} />
+      <TaskRow
+        todo={todo}
+        onAddStarted={this.props.onAddStarted.bind(this)}
+      />
     );
   }
 

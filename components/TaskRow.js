@@ -37,11 +37,14 @@ const styles = StyleSheet.create({
 });
 
 export class TaskRow extends React.Component{
+  constructor(props, context){
+    super(props, context);
+  }
 
   render() {
     return(
       <TouchableHighlight
-          onPress={this.props.onFlashcardClicked}
+          onPress={this.props.onAddStarted}
           style={styles.button}>
           <Text style={styles.label}>
             {this.props.todo.task}
