@@ -35,6 +35,7 @@ export default class HomeScreen extends React.Component {
   }
 
   onAddStarted(){
+    this.state.flashcardText = "asd";
     this.nav.push({
       name: 'taskform',
     });
@@ -50,6 +51,7 @@ export default class HomeScreen extends React.Component {
           return (
             <TaskForm
               onBackStarded={this.onBackStarded.bind(this)}
+              flashcardText={this.state.flashcardText}
             />
           );
         break;

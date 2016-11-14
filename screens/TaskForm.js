@@ -40,7 +40,9 @@ export class TaskForm extends React.Component{
   render(){
     return(
       <View style={styles.container}>
-        <TextInput style={styles.container} />
+        <Text style={styles.container}>
+          {this.props.flashcardText}
+        </Text>
         <TouchableHighlight
           style={styles.button}
           onPress={this.props.onBackStarded}>
