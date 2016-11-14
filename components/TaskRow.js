@@ -3,6 +3,7 @@ import{
   Text,
   View,
   StyleSheet,
+  TouchableHighlight,
 } from 'react-native';
 
 
@@ -23,15 +24,33 @@ const styles = StyleSheet.create({
     fontSize: 20,
     fontWeight: '300',
   },
+  button: {
+    height: 60,
+    borderColor: '#05A5D1',
+    borderWidth: 2,
+    backgroundColor: '#fff',
+    margin: 20,
+    justifyContent: 'center',
+    alignItems: 'center',
+  },
 
 });
 
 export class TaskRow extends React.Component{
+
+  onFlashcardClicked(){
+
+  }
+
   render() {
     return(
-      <View style={styles.container}>
-        <Text style={styles.label}>{this.props.todo.task}</Text>
-      </View>
+      <TouchableHighlight
+          onPress={this.props.onFlashcardClicked}
+          style={styles.button}>
+          <Text style={styles.label}>
+            {this.props.todo.task}
+          </Text>
+        </TouchableHighlight>
 
     );
   };
