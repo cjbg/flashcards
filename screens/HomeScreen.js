@@ -34,8 +34,14 @@ export default class HomeScreen extends React.Component {
     },
   }
 
-  onAddStarted(){
-    this.state.flashcardText = "asd";
+  onAddStarted(name){
+    let text = "";
+    for (let flashcard of flashcards.flashcards) {
+      if (flashcard.name === name) {
+        text = flashcard.text;
+      };
+    };
+    this.state.flashcardText = text;
     this.nav.push({
       name: 'taskform',
     });

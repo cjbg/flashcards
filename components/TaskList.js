@@ -53,14 +53,8 @@ export class TaskList extends React.Component{
   }
 
   render() {
-    return(
+    return(      
       <View>
-        <ListView
-          dataSource={this.state.dataSource}
-          renderRow={this.renderRow.bind(this)}
-          style={styles.container}
-        />
-
         <TouchableHighlight
           onPress={this.props.onAddStarted}
           style={styles.button}>
@@ -68,6 +62,12 @@ export class TaskList extends React.Component{
             Add one
           </Text>
         </TouchableHighlight>
+
+        <ListView
+          dataSource={this.state.dataSource}
+          renderRow={this.renderRow.bind(this)}
+          style={styles.container}
+        />
       </View>
     );
   };

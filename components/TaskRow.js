@@ -44,7 +44,7 @@ export class TaskRow extends React.Component{
   render() {
     return(
       <TouchableHighlight
-          onPress={this.props.onAddStarted}
+          onPress={() => this.props.onAddStarted(this.props.todo.task)}
           style={styles.button}>
           <Text style={styles.label}>
             {this.props.todo.task}
