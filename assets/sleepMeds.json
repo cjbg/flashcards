@@ -1,0 +1,17 @@
+{
+  "fiszka1":{
+    "name":"Benzodiazepiny jak dzialaja",
+    "text":"Agonisci gabaA, zwiekszaja wrazliwosc na GABA, dzialaja na jak dzialaja podwzgorze i uklad limbiczny, uspokajajaco,, przeciwlekowo, nasennie, przeciwdrgawkowo, te dlugo dzial ;miorelaksacyjne, amnestycznie, TYLKO DORAZNIE NIE PRZEWLEKLE, do przerwania napadu drgawek nie leczenie",
+    "learned":false
+  },
+  "fiszka2":{
+    "name":"fiszka2",
+    "text":"tekst2",
+    "learned":false
+  },
+  "fiszka3":{
+    "name":"fiszka3",
+    "text":"tekst3",
+    "learned":"false"
+  }
+};

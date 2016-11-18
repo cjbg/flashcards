@@ -6,6 +6,7 @@ import{
   TouchableHighlight,
 } from 'react-native';
 
+import sleepMeds from '../assets/sleepMeds';
 
 const styles = StyleSheet.create({
   container: {
@@ -39,25 +40,38 @@ const styles = StyleSheet.create({
 export class TaskRow extends React.Component{
   constructor(props, context){
     super(props, context);
+
+    this.state = {
+      flashcard: this.props.todo
+    };
+  }
+
+  onFlashcardPressed(){
+    let flashcardText = sleepMeds[this.props.todo];
+    console.log(flashcardText);
+    this.state.flashcardtext = flashcardText.text;
+    this.state.showFlashCard = true;
+    this.forceUpdate();
   }
 
   render() {
     return(
+      <View>
       <TouchableHighlight
-          onPress={() => this.props.onAddStarted(this.props.todo.task)}
+          onPress={this.onFlashcardPressed.bind(this)}
           style={styles.button}>
           <Text style={styles.label}>
-            {this.props.todo.task}
+            {this.state.flashcard}
           </Text>
         </TouchableHighlight>
 
+        <TouchableHighlight
+            style={styles.button}>
+            <Text style={styles.label}>
+              {this.state.flashcardtext}
+            </Text>
+          </TouchableHighlight>
+          </View>
     );
   };
-};
-
-TaskRow.propTypes = {
-  todo: React.PropTypes.shape({
-    task: React.PropTypes.string.isRequired,
-  }).isRequired,
-  onAddStarted: React.PropTypes.func.isRequired
 };

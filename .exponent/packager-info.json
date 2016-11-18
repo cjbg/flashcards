@@ -1,8 +1,8 @@
 {
   "packagerPort": 19001,
-  "packagerPid": 1012,
+  "packagerPid": 16048,
   "exponentServerNgrokUrl": "https://8y-dqk.jczabator.fiszki.exp.direct",
   "packagerNgrokUrl": "https://packager.8y-dqk.jczabator.fiszki.exp.direct",
-  "ngrokPid": 18912,
-  "exponentServerPort": 19002
+  "ngrokPid": 12488,
+  "exponentServerPort": 19000
 }

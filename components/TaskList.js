@@ -7,7 +7,8 @@ import {
   View,
  } from 'react-native';
 
-import { TaskRow }  from './TaskRow'
+import { TaskRow }  from './TaskRow';
+import sleepMeds from '../assets/sleepMeds';
 
 const styles = StyleSheet.create({
   container: {
@@ -34,47 +35,93 @@ export class TaskList extends React.Component{
   constructor(props, context){
     super(props, context);
 
-    const ds = new ListView.DataSource({
-      rowHasChanged: (r1, r2) => r1 !== r2,
-    });
+    let flashCard = this.getRandomFlashCard();
 
     this.state = {
-      dataSource: ds.cloneWithRows(props.todos),
+      currentFlashCard: flashCard
     };
+  };
+
+  getFlashCard(randomNumber){
+    let counter = 0;
+    for (var key in sleepMeds) {
+      if (counter === randomNumber) {
+        return sleepMeds[key];
+      };
+      counter++;
+    };
+  };
+
+  getRandomFlashCard(){
+    let randomNumber = 0;
+    let randomFlashCardName = "";
+    let randomFlashCardLearned = false;
+    let length = Object.keys(sleepMeds).length;
+
+    do{
+      randomNumber = this.getRandomNumber(length);
+      randomFlashCard = this.getFlashCard(randomNumber);
+    }
+    while(randomFlashCard.learned == "true");
+
+    return randomFlashCard.name;
+  };
+
+  setFlashCardLearned(flashCardName){
+    sleepMeds[flashCardName].learned = "true";
+  };
+
+  getRandomNumber(length){
+    return Math.floor((Math.random() * length) + 0);
+  };
+
+  allFlashCardsAnswered(){
+    for (var key in sleepMeds) {
+      if (sleepMeds[key].learned === false) {
+        return false;
+      };
+    };
+    return true;
   }
 
-  renderRow(todo){
-    return(
-      <TaskRow
-        todo={todo}
-        onAddStarted={this.props.onAddStarted.bind(this)}
-      />
-    );
-  }
+  onLearnedStarted(){
+    this.setFlashCardLearned(this.state.currentFlashCard);
+    if (this.allFlashCardsAnswered()) {
+      this.state.currentFlashCard = "Kuniec";
+    }
+    else {
+      this.state.currentFlashCard = this.getRandomFlashCard();
+    }
+    this.forceUpdate();
+  };
+
+  onNextStarted(){
+    this.state.currentFlashCard = this.getRandomFlashCard();
+    this.forceUpdate();
+  };
 
   render() {
-    return(      
+    return(
       <View>
+
+        <TaskRow todo={this.state.currentFlashCard} />
+
         <TouchableHighlight
-          onPress={this.props.onAddStarted}
+          onPress={this.onLearnedStarted.bind(this)}
           style={styles.button}>
           <Text style={styles.buttonText}>
-            Add one
+            Umiem
           </Text>
         </TouchableHighlight>
 
-        <ListView
-          dataSource={this.state.dataSource}
-          renderRow={this.renderRow.bind(this)}
-          style={styles.container}
-        />
+        <TouchableHighlight
+          onPress={this.onNextStarted.bind(this)}
+          style={styles.button}>
+          <Text style={styles.buttonText}>
+            Następna
+          </Text>
+        </TouchableHighlight>
       </View>
     );
   };
 };
-
-TaskList.propTypes = {
-  onAddStarted: React.PropTypes.func.isRequired,
-  todos: React.PropTypes
-          .arrayOf(React.PropTypes.object).isRequired,
-}

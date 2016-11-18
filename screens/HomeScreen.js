@@ -13,84 +13,29 @@ import {
 
 import { MonoText } from '../components/StyledText';
 import { TaskList } from '../components/TaskList';
-import { TaskForm } from '../screens/TaskForm';
-import flashcards from '../assets/flashcards';
 
 export default class HomeScreen extends React.Component {
   constructor(props, context) {
     super(props, context);
-    this.state = {
-      todos:[]
-      };
-
-      for (let value of flashcards.flashcards) {
-        this.state.todos.push({task: value.name });
-      };
     };
-
-  static route = {
-    navigationBar: {
-      visible: false,
-    },
-  }
-
-  onAddStarted(name){
-    let text = "";
-    for (let flashcard of flashcards.flashcards) {
-      if (flashcard.name === name) {
-        text = flashcard.text;
-      };
-    };
-    this.state.flashcardText = text;
-    this.nav.push({
-      name: 'taskform',
-    });
-  };
-
-  onBackStarded(){
-    this.nav.pop();
-  };
-
-  renderScene(route, nav){
-    switch (route.name) {
-      case 'taskform':
-          return (
-            <TaskForm
-              onBackStarded={this.onBackStarded.bind(this)}
-              flashcardText={this.state.flashcardText}
-            />
-          );
-        break;
-      default:
-        return (
-          <View style={styles.container}>
-            <ScrollView
-              style={styles.container}
-              contentContainerStyle={styles.contentContainer}>
-
-                <View style={styles.headerContainer}>
-                  <Text style={styles.headerText}>Todo List</Text>
-                </View>
-
-                <TaskList
-                    onAddStarted={this.onAddStarted.bind(this)}
-                    todos={this.state.todos}
-                />
-            </ScrollView>
-        </View>
-      );
-    }
-  }
 
   render() {
     return (
-      <Navigator
-        initialRoute={{ name: 'tasklist', index: 0 }}
-        ref={((nav) => {
-          this.nav = nav;
-        })}
-        renderScene={this.renderScene.bind(this)}
-        />
+      <View style={styles.container}>
+        <ScrollView
+          style={styles.container}
+          contentContainerStyle={styles.contentContainer}>
+
+            <View style={styles.headerContainer}>
+              <Text style={styles.headerText}>
+              •	Leki na OUM:
+                    o	Leki anksiolityczne,  padaczkowe i nasenne
+              </Text>
+            </View>
+
+            <TaskList />
+        </ScrollView>
+      </View>
     );
   }
 }
