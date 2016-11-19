@@ -36,9 +36,8 @@ export class TaskList extends React.Component{
     super(props, context);
 
     let flashCard = this.getRandomFlashCard();
-
     this.state = {
-      currentFlashCard: flashCard
+      currentFlashCard: flashCard,
     };
   };
 
@@ -85,14 +84,19 @@ export class TaskList extends React.Component{
   }
 
   onLearnedStarted(){
-    this.setFlashCardLearned(this.state.currentFlashCard);
-    if (this.allFlashCardsAnswered()) {
-      this.state.currentFlashCard = "Kuniec";
+
+    if (this.state.currentFlashCard === "Kuniec") {
     }
     else {
-      this.state.currentFlashCard = this.getRandomFlashCard();
+      this.setFlashCardLearned(this.state.currentFlashCard);
+      if (this.allFlashCardsAnswered()) {
+        this.state.currentFlashCard = "Kuniec";
+      }
+      else {
+        this.state.currentFlashCard = this.getRandomFlashCard();
+      }
+      this.forceUpdate();
     }
-    this.forceUpdate();
   };
 
   onNextStarted(){
@@ -104,7 +108,7 @@ export class TaskList extends React.Component{
     return(
       <View>
 
-        <TaskRow todo={this.state.currentFlashCard} />
+        <TaskRow flashCard={this.state.currentFlashCard} />
 
         <TouchableHighlight
           onPress={this.onLearnedStarted.bind(this)}

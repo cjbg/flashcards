@@ -6,7 +6,7 @@ import{
   TouchableHighlight,
 } from 'react-native';
 
-import sleepMeds from '../assets/sleepMeds';
+
 
 const styles = StyleSheet.create({
   container: {
@@ -42,36 +42,20 @@ export class TaskRow extends React.Component{
     super(props, context);
 
     this.state = {
-      flashcard: this.props.todo
+      flashcard: this.props.flashCard
     };
-  }
-
-  onFlashcardPressed(){
-    let flashcardText = sleepMeds[this.props.todo];
-    console.log(flashcardText);
-    this.state.flashcardtext = flashcardText.text;
-    this.state.showFlashCard = true;
-    this.forceUpdate();
-  }
+  };
 
   render() {
     return(
       <View>
       <TouchableHighlight
-          onPress={this.onFlashcardPressed.bind(this)}
           style={styles.button}>
           <Text style={styles.label}>
             {this.state.flashcard}
           </Text>
         </TouchableHighlight>
-
-        <TouchableHighlight
-            style={styles.button}>
-            <Text style={styles.label}>
-              {this.state.flashcardtext}
-            </Text>
-          </TouchableHighlight>
-          </View>
+      </View>
     );
   };
 };
