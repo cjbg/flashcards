@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
     borderColor: '#05A5D1',
     borderWidth: 2,
     backgroundColor: '#333',
-    margin: 20,
+    margin: 10,
     justifyContent: 'center',
     alignItems: 'center',
   },
@@ -28,6 +28,23 @@ const styles = StyleSheet.create({
     color: '#FAFAFA',
     fontSize: 20,
     fontWeight: '600',
+  },
+  label: {
+   fontSize: 20,
+   fontWeight: '300',
+  },
+  flashcardButton: {
+   height: 240,
+   borderColor: '#05A5D1',
+   borderWidth: 4,
+   backgroundColor: '#05A5D1',
+   margin: 20,
+   justifyContent: 'center',
+   alignItems: 'center',
+  },
+  flashcardBackButton: {
+    borderColor: '#50a0D1',
+    backgroundColor: '#50a0D1',
   },
 });
 
@@ -37,7 +54,10 @@ export class TaskList extends React.Component{
 
     let flashCard = this.getRandomFlashCard();
     this.state = {
-      currentFlashCard: flashCard,
+      currentFlashCard: flashCard.name,
+      currentFlashCardText: flashCard.text,
+      flashcardLearned: "Umiem",
+      showFlashcardName: true
     };
   };
 
@@ -63,7 +83,7 @@ export class TaskList extends React.Component{
     }
     while(randomFlashCard.learned == "true");
 
-    return randomFlashCard.name;
+    return randomFlashCard;
   };
 
   setFlashCardLearned(flashCardName){
@@ -83,8 +103,29 @@ export class TaskList extends React.Component{
     return true;
   }
 
-  onLearnedStarted(){
+  toggleFlashcard(){
+    this.setState({
+      showFlashcardName: !this.state.showFlashcardName
+    });
+  }
 
+  setRandomFlashcard(){
+    let randomFlashcard = this.getRandomFlashCard();
+    this.setState({currentFlashCard: randomFlashcard.name});
+    this.setState({currentFlashCardText: randomFlashcard.text});
+  };
+
+  reloadFlashcards(){
+    for (var key in sleepMeds) {
+      sleepMeds[key].learned = false;
+    };
+  };
+
+
+  onLearnedStarted(){
+    if (this.state.showFlashcardName === false) {
+      this.toggleFlashcard();
+    }
     if (this.state.currentFlashCard === "Kuniec") {
     }
     else {
@@ -93,29 +134,81 @@ export class TaskList extends React.Component{
         this.state.currentFlashCard = "Kuniec";
       }
       else {
-        this.state.currentFlashCard = this.getRandomFlashCard();
+        this.setRandomFlashcard();
       }
       this.forceUpdate();
     }
   };
 
   onNextStarted(){
-    this.state.currentFlashCard = this.getRandomFlashCard();
+    this.setRandomFlashcard();
+    if (this.state.showFlashcardName === false) {
+      this.toggleFlashcard();
+    }
     this.forceUpdate();
   };
 
-  render() {
-    return(
+  onFlashcardPressed(){
+    if (this.state.currentFlashCard !== "Kuniec") {
+      this.toggleFlashcard();
+      this.forceUpdate();
+    }
+  };
+
+  onReloadStarted(){
+    this.reloadFlashcards();
+    this.setRandomFlashcard();
+    this.setState({
+      showFlashcardName: true
+    });
+  };
+
+  renderFlashcard(){
+    if (this.state.showFlashcardName) {
+      return(
+      <TouchableHighlight
+        onPress={this.onFlashcardPressed.bind(this)}
+        style={styles.flashcardButton}>
+          <Text style={styles.label}>
+            {this.state.currentFlashCard}
+          </Text>
+        </TouchableHighlight>
+      );
+    }
+    else {
+      return(
+        <TouchableHighlight
+          onPress={this.onFlashcardPressed.bind(this)}
+          style={[styles.flashcardButton, styles.flashcardBackButton]}>
+            <Text style={styles.label}>
+              {this.state.currentFlashCardText}
+            </Text>
+          </TouchableHighlight>
+      );
+    }
+  }
+
+  renderButtons(){
+    if (this.state.currentFlashCard === "Kuniec") {
+      return(
+        <TouchableHighlight
+          onPress={this.onReloadStarted.bind(this)}
+          style={styles.button}>
+          <Text style={styles.buttonText}>
+            Od nowa
+          </Text>
+        </TouchableHighlight>
+      );
+    }
+    else {
+      return(
       <View>
-
-        <TaskRow flashCard={this.state.currentFlashCard} />
-
         <TouchableHighlight
           onPress={this.onLearnedStarted.bind(this)}
           style={styles.button}>
           <Text style={styles.buttonText}>
-            Umiem
-          </Text>
+            {this.state.flashcardLearned}
+            </Text>
         </TouchableHighlight>
 
         <TouchableHighlight
@@ -125,6 +218,16 @@ export class TaskList extends React.Component{
             Następna
           </Text>
         </TouchableHighlight>
+      </View>
+      );
+    }
+  };
+
+  render() {
+    return(
+      <View>
+        {this.renderFlashcard()}
+        {this.renderButtons()}
       </View>
     );
   };
