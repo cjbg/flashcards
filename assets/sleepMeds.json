@@ -4,14 +4,229 @@
     "text":"Agonisci gabaA, zwiekszaja wrazliwosc na GABA, dzialaja na jak dzialaja podwzgorze i uklad limbiczny, uspokajajaco,, przeciwlekowo, nasennie, przeciwdrgawkowo, te dlugo dzial ;miorelaksacyjne, amnestycznie, TYLKO DORAZNIE NIE PRZEWLEKLE, do przerwania napadu drgawek nie leczenie",
     "learned":false
   },
-  "fiszka2":{
-    "name":"fiszka2",
-    "text":"tekst2",
+  "na co nie dzialaja benzodiazep.":{
+    "name":"na co nie dzialaja benzodiazep.",
+    "text":"NIE PRZECIWDEPRESYJNIE",
     "learned":false
   },
-  "fiszka3":{
-    "name":"fiszka3",
-    "text":"tekst3",
-    "learned":"false"
-  }
+  "kiedy stosowac bzd":{
+    "name":"kiedy stosowac bzd",
+    "text":"ostre stany padaczki dl dzial, lek, zespol odstawienny, premedykacja przed zabiegiem, raczej nie nasennie",
+    "learned":false
+  },
+  "Jakie benzod.":{
+    "name":"Jakie benzod.",
+    "text":"diazepam, medazepam, lorazepam, nitrazepam, klonazepam, klorazepak, oksazepam, midazolan, alprazolam, bromazepan, estazolan",
+    "learned":false
+  },
+  "dzialania nieporzadane benzod.":{
+    "name":"dzialania nieporzadane benzod.",
+    "text":"tolerancja, zespol z odbicia, uzaleznienie, zawroty glowy, zmeczenie ataksja dyzartia zaburzenia widzenia, uposledzenie psychoruchowe, wzrost ryzyka upadkow i zlaman, zab. poznawcze",
+    "learned":false
+  },
+  "zespol abstynencyjny":{
+    "name":"zespol abstynencyjny",
+    "text":"nasilony lek, koszmary, lzawienie,katar, bezsennosc, drgawki, zapasc, dezorientacja, skurcze jelit, drzenie miesniowe, wzrost cisn tetniczego, jadlowstret",
+    "learned":false
+  },
+  "zespol z odbicia":{
+    "name":"zespol z odbicia",
+    "text":"u osob nieuzaleznionych, po odstawieniu naglym leku, nasienie leczonych objawow, moze wystapic przy tolerancji",
+    "learned":false
+  },
+  "przeciwwskazania benzod":{
+    "name":"przeciwwskazania benzod",
+    "text":"przewlekle stosowanie, leki dzialajace depresyjnie na ukl oddech, alkohol, ciaza, mysli samobojcze, prowadzenie pojaz",
+    "learned":false
+  },
+  "nterakcje i dawkowanie":{
+    "name":"nterakcje i dawkowanie",
+    "text":"sr zniecz ogoln, nasenne, psychotropowe,opioidy, zwiotczajace pdrgawk, ,alkohol,antyhistaminowe 2-4tyg zw retard,pozniej zmniejszamy -1/4 co kilka dni odstawiamy do 2 tyg chyba ze pacjent zle reaguje",
+    "learned":false
+  },
+  "FLUMAZENIL":{
+    "name":"FLUMAZENIL",
+    "text":"agonista benzodiazepin, odtrutka po przedawkowaniu, wybudzenie ze spiaczki, krotko dziala 20-30min. Anexate",
+    "learned":false
+  },
+  "LEKI NASENNE":{
+    "name":"LEKI NASENNE",
+    "text":"leki Z, nie bedace benzodiazepinami, dzialaja na recGABAA w msc BZD, krocej dzialaja, uzalezniaja, nie zaburzaja funkcj dnia nast",
+    "learned":false
+  },
+  "LEKI NASENNE jakie?":{
+    "name":"LEKI NASENNE jakie?",
+    "text":"zaleplon, zolpidem, zopiklon",
+    "learned":false
+  },
+  "BUSPIRON":{
+    "name":"BUSPIRON",
+    "text":"pobudza rec 5HT1A ktore hamuja oun, dziala przez ukl serotoninergiczne, OPOZNIONY POCZATEK DZIALANIA PO OK 2TYG, hamuje dzialalnosc neuronalna, dziala na ukl limb, nie laczy sie z BZD na GABAA, nie toruje GABA, nie reaguje z alkoholem, slabo uzaleznia, nie dzial pdrgawk i miorlaksac",
+    "learned":false
+  },
+  "HYDROKSYZYNA":{
+    "name":"HYDROKSYZYNA",
+    "text":"antagon H1, antyhistam, p. swiadowo, anksjolitycznie, sedatywnie, nie uzaleznie, p.wymiotnie w HYDROXYZINUM , ATARAXtab 0,01; 0,025, amp, syr, PRZECIWSWIADOWO, przewlekle leczenie bezsennosci 0,025 2xd na sen 1 tab wieczorem",
+    "learned":false
+  },
+  "BARBITURANY(opis)":{
+    "name":"BARBITURANY(opis)",
+    "text":"agonisci GABAA, pdrgawk - TIOPENTAL i zniecz ogolne, FENOBARBITAL - LUMINAL 0,05-0,2, nie uzywane uspokajajaco, depresyjne osr oddech",
+    "learned":false
+  },
+  "BARBITURANY(opis) radzaje":{
+    "name":"BARBITURANY(opis) radzaje",
+    "text":"tiopental, lumiinal- fenobarbital",
+    "learned":false
+  },
+  "BARBITURANY(opis) przeciwwskazania":{
+    "name":"BARBITURANY(opis) przeciwwskazania",
+    "text":"porfiria, wstrzas, ciezki chor serca i watroby zatrucie subst depres na ukl oddech",
+    "learned":false
+  },
+  "BARBITURANY dzialania nieporzad.":{
+    "name":"BARBITURANY dzialania nieporzad.",
+    "text":"depr.na.osr.odd, koszmaary, ataksja, uzaleznienie,indukcja cytp450, kardiopresyjnie ",
+    "learned":false
+  },
+  "LEKI PRZECIWPADACZKOWE":{
+    "name":"LEKI PRZECIWPADACZKOWE",
+    "text":"atak padaczki, neuralgie, epizody maniakalne, schizofrenia, agresja, zesp abstynen. lecz. swiadu",
+    "learned":false
+  },
+  "LEKI PRZECIWPADACZKOWE RODZAJE":{
+    "name":"LEKI PRZECIWPADACZKOWE RODZAJE",
+    "text":"fenyntoina, karbamazepina, diazepam, fenobarbital, primidon, kw walproinowy, klonazepam, gabapentyna, pregabalina, wigabatryna, lamotrigina, topiramat, tiagabina, zomisamid, lewetiracetam",
+    "learned":false
+  },
+  "LEKI PRZECIWPADACZKOWE RODZAJE MECHAN.DZIAL":{
+    "name":"LEKI PRZECIWPADACZKOWE RODZAJE MECHAN.DZIAL",
+    "text":"blokowanie kan na, dzialanie za posrednictwem GABA, blokowanie naplywu ca, blok. uwalniania kw asp i glut, hamow rec NMDA",
+    "learned":false
+  },
+  "KARBAMAZEPINA":{
+    "name":"KARBAMAZEPINA",
+    "text":"amizepin, tegretol,neurotop, padaczka, neuralgie.koanaalgetyk, normotymik, induktor cyt p450 przysp.jego dzialanie 2xdz o spow. uwalnian. zwykle 3xdzienn od 0,8-1,2/d",
+    "learned":false
+  },
+  "dzial.nieporz.karbamazepin":{
+    "name":"dzial.nieporz.karbamazepin",
+    "text":"sennosc,ataksja,bole zawroty, nudnosci, przy zatruciu objawy oun.oczoplas spow.ruchowe",
+    "learned":false
+  },
+  "KWAS WALPROINOWY":{
+    "name":"KWAS WALPROINOWY",
+    "text":"DEPAKINE, CONVULEXzw.stez.GABA, hamuje kan jonowe, pdaczka, zesp. abstyn. migreny, zab psychot",
+    "learned":false
+  },
+  "dzial. nieporz.kw.walpr":{
+    "name":"dzial. nieporz.kw.walpr",
+    "text":"wypadanie wlosow, przybieranie na wadze,, choroby watroby, drzenie konczyn",
+    "learned":false
+  },
+  "FENYTOINA":{
+    "name":"FENYTOINA",
+    "text":"padaczka, neuralgia n v, arytmia, induktor cytp450, jej stez musi byc monitorowane w osoczu, przerost dziasel, tradzik, nadmierne owlosienie, alergie skorne, 02-0,3g/d",
+    "learned":false
+  },
+  "LAMOTRYGINA":{
+    "name":"LAMOTRYGINA",
+    "text":"hamowanie kan jon, padaczka, chor af dwubieg, LAMEPTIL S PLEXXO",
+    "learned":false
+  },
+  "DEZOKSYBARBITURANY":{
+    "name":"DEZOKSYBARBITURANY",
+    "text":"prymidon, metab do fenobarbital,",
+    "learned":false
+  },
+  "zasady stosow lek, przeciwpadaczk.":{
+    "name":"zasady stosow lek, przeciwpadaczk.",
+    "text":"dobierany lek i dawka indywid. najpierw jeden lek od najmn dawki. dochodzimy do najmniejszej terapeutycznej dawki, jak nie dziala to drugi, pilnowac przyjmowania godz, forma retard 2xd uwazac u kobiet z antykoncepcja i ciaza-- teratogeny",
+    "learned":false
+  },
+  "LCZENIE PADACZKI W CIAZY":{
+    "name":"LCZENIE PADACZKI W CIAZY",
+    "text":"im wieksze stez i ilosc lekow tym wiekszy % wad plodu, antykonc zachowana walproinian najb teratog, lamotrygina, lewetiracetam, tiagabina, niskie dawki leku, lepiej retard, najbezpiesz - lamotrygina",
+    "learned":false
+  },
+  "LECZENIE PADACZKi":{
+    "name":"LECZENIE PADACZKi",
+    "text":"przewlekle karbamazepina, kw walproinowy, nagle diazepam klonazepam",
+    "learned":false
+  },
+  "leki nasenne kiedy przyjmowac":{
+    "name":"leki nasenne kiedy przyjmowac",
+    "text":"zaraz przed snem, zalecane 5 mg pol tabl przed snem, nie zaburzaja sprawnosci nastepnego dnia, amnestycznie, uzaleznienie rzadko lunatykowanie nie zab faz rem nrem",
+    "learned":false
+  },
+  "zolpidem":{
+    "name":"zolpidem",
+    "text":"stilnox, nasen,polsen,zolpic,hypnogen, 10mg",
+    "learned":false
+  },
+  "zopiklon":{
+    "name":"zopiklon",
+    "text":"imovane, dobroson, senzop 7,5mg",
+    "learned":false
+  },
+  "zaleplon":{
+    "name":"zaleplon",
+    "text":"morfeo 10mg",
+    "learned":false
+  },
+  "Midazolam":{
+    "name":"Midazolam",
+    "text":"krotkodzialajaca, szybko uzaleznia, , nie jako nasenny, szybciej daje efekty z odbicia, tylko w premedykacji tab 7,5 i 15 mg DORMICUM",
+    "learned":false
+  },
+  "alprazolam":{
+    "name":"alprazolam",
+    "text":"przeciwlekowo, AFOBAM tab 0,25 mg 0,5mg; XANAX tab 0,25 0,5 1,0 2,0 mgXANAX SR 0,5 1,0 2,0 mg, tabl podjezyk 0,5 1,0 mg",
+    "learned":false
+  },
+  "klorazepat":{
+    "name":"klorazepat",
+    "text":"tylko w tabl, dlugodzialajaca, cloranxen, tranxene 5,10mg( przeciwlekowo)",
+    "learned":false
+  },
+  "klonazepan":{
+    "name":"klonazepan",
+    "text":"clonazepamum tabl 5 i 2 mg, apd 10mg",
+    "learned":false
+  },
+  "diazepan":{
+    "name":"diazepan",
+    "text":"tab 2 i 5 mg; amp 10mg im iv(przerywanie premedykacja,ostrych napadow lekowych padaczka) doodbytniczo wlewki relsed 5 i 10mg do przerywania napadu drgawek",
+    "learned":false
+  },
+  "agonizm niebezposredni":{
+    "name":"agonizm niebezposredni",
+    "text":"w benzodiazepinach, sama bzd nie pobudza glownego receptore",
+    "learned":false
+  },
+  "objawy leku":{
+    "name":"objawy leku",
+    "text":"tachykardia, potliwosc,czestomocz,biegunka, mrowienie i dretwienie, przyspieszenie oddechu, suchosc w ustach, wymioty,",
+    "learned":false
+  },
+  "lek rodzaje":{
+    "name":"lek rodzaje",
+    "text":"a) uogolniony b) napadowy c) fobia",
+    "learned":false
+  },
+  "FENOBARBITAL":{
+    "name":"FENOBARBITAL",
+    "text":"przeciwpadaczkowo, w czopkach",
+    "learned":false
+  },
+  "TIOPENTAL":{
+    "name":"TIOPENTAL",
+    "text":"znieczulanie",
+    "learned":false
+  },
+  "LEKI PRZECIWLEKOWE STOSOW":{
+    "name":"LEKI PRZECIWLEKOWE STOSOW",
+    "text":"bzd, leki pdepresyjne, hydroksyzyna, buspiron-nie przerwiemy naglego stanu, opoznione dzialanie, neuroleptyki",
+    "learned":false
+  },
 };

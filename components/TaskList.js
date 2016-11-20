@@ -16,11 +16,11 @@ const styles = StyleSheet.create({
     backgroundColor: '#F7F7F7',
   },
   button: {
-    height: 60,
+    height: 50,
     borderColor: '#05A5D1',
     borderWidth: 2,
     backgroundColor: '#333',
-    margin: 10,
+    margin: 5,
     justifyContent: 'center',
     alignItems: 'center',
   },
@@ -34,7 +34,7 @@ const styles = StyleSheet.create({
    fontWeight: '300',
   },
   flashcardButton: {
-   height: 240,
+   height: 320,
    borderColor: '#05A5D1',
    borderWidth: 4,
    backgroundColor: '#05A5D1',
@@ -43,8 +43,8 @@ const styles = StyleSheet.create({
    alignItems: 'center',
   },
   flashcardBackButton: {
-    borderColor: '#50a0D1',
-    backgroundColor: '#50a0D1',
+    borderColor: '#50f0D1',
+    backgroundColor: '#50f0D1',
   },
 });
 

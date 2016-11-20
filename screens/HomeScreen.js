@@ -28,8 +28,8 @@ export default class HomeScreen extends React.Component {
 
             <View style={styles.headerContainer}>
               <Text style={styles.headerText}>
-              •	Leki na OUM:
-                    o	Leki anksiolityczne,  padaczkowe i nasenne
+              Leki na OUN:
+                    o	Leki anksiolityczne,  przeciw padaczkowe i nasenne
               </Text>
             </View>
 
@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
     marginHorizontal: 10,
   },
   headerText: {
-    fontSize: 25,
+    fontSize: 16,
   },
   homeScreenFilename: {
     marginVertical: 7,
