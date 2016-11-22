@@ -1,7 +1,7 @@
 {
-  "name": "todo-list",
+  "name": "flashcards",
   "description": "No description",
-  "slug": "todo-list",
+  "slug": "flashcards",
   "sdkVersion": "10.0.0",
   "version": "1.0.0",
   "orientation": "portrait",
@@ -17,5 +17,11 @@
   },
   "packagerOpts": {
     "assetExts": ["ttf"]
+  },
+  "ios": {
+    "bundleIdentifier": "org.rnplay.exp",
+  },
+  "android": {
+    "package": "org.rnplay.exp",
   }
 }
