@@ -12,6 +12,8 @@ import {
 } from '@exponent/samples';
 
 import { TaskList } from '../components/TaskList';
+import { HomeScreen } from '../screens/HomeScreen';
+
 import sleepMeds from '../assets/sleepMeds';
 import sleepMedsOld from '../assets/sleepMeds_Old';
 
@@ -70,12 +72,20 @@ export default class LinksScreen extends React.Component {
     switch(route.name){
       case 'sleepMeds':
         return(
-          <TaskList flashcards={sleepMeds} />
+          <TaskList
+            flashcards={sleepMeds}
+            groupTitle={"Nowe"}
+            onNavBack={this.onNavBack.bind(this)}
+          />
         );
         break;
       case 'sleepMedsOld':
         return(
-          <TaskList flashcards={sleepMedsOld} />
+          <TaskList
+            flashcards={sleepMedsOld}
+            grouptTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
+            onNavBack={this.onNavBack.bind(this)}
+          />
         );
         break;
       default:
@@ -114,6 +124,10 @@ export default class LinksScreen extends React.Component {
       );
     };
   };
+
+  onNavBack(){
+    this.nav.pop();
+  }
 
   render() {
     return (

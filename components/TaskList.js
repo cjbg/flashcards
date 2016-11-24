@@ -23,6 +23,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     alignItems: 'center',
   },
+  buttonExit: {
+    backgroundColor: 'red',
+  },
   buttonLearned: {
     borderColor: '#BCCBE0',
     backgroundColor: '#05A5D1',
@@ -129,12 +132,12 @@ export class TaskList extends React.Component{
     if (this.state.showFlashcardName === false) {
       this.toggleFlashcard();
     }
-    if (this.state.currentFlashCard === "Kuniec") {
+    if (this.state.currentFlashCard === "Koniec") {
     }
     else {
       this.setFlashCardLearned(this.state.currentFlashCard);
       if (this.allFlashCardsAnswered()) {
-        this.state.currentFlashCard = "Kuniec";
+        this.state.currentFlashCard = "Koniec";
       }
       else {
         this.setRandomFlashcard();
@@ -152,7 +155,7 @@ export class TaskList extends React.Component{
   };
 
   onFlashcardPressed(){
-    if (this.state.currentFlashCard !== "Kuniec") {
+    if (this.state.currentFlashCard !== "Koniec") {
       this.toggleFlashcard();
       this.forceUpdate();
     }
@@ -192,7 +195,7 @@ export class TaskList extends React.Component{
   }
 
   renderButtons(){
-    if (this.state.currentFlashCard === "Kuniec") {
+    if (this.state.currentFlashCard === "Koniec") {
       return(
         <TouchableHighlight
           onPress={this.onReloadStarted.bind(this)}
@@ -221,14 +224,31 @@ export class TaskList extends React.Component{
             Następna
           </Text>
         </TouchableHighlight>
+
+        <TouchableHighlight
+          onPress={this.props.onNavBack.bind(this)}
+          style={[styles.button, styles.buttonExit]}>
+          <Text style={styles.buttonText}>
+            Zakończ
+          </Text>
+        </TouchableHighlight>
       </View>
       );
     }
   };
 
+  renderTitle(){
+    return(
+        <Text>
+          {this.props.groupTitle}
+        </Text>
+    );
+  };
+
   render() {
     return(
       <View>
+        {this.renderTitle()}
         {this.renderFlashcard()}
         {this.renderButtons()}
       </View>
@@ -237,5 +257,7 @@ export class TaskList extends React.Component{
 };
 
 TaskList.propTypes = {
+  onNavBack:  React.PropTypes.func.isRequired,
   flashcards: React.PropTypes.object.isRequired,
+  groupTitle: React.PropTypes.string.isRequired,
 };
