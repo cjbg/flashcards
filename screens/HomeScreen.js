@@ -13,6 +13,8 @@ import {
 
 import { MonoText } from '../components/StyledText';
 import { TaskList } from '../components/TaskList';
+import flashcards from '../assets/sleepMeds';
+import sleepMeds_Old from '../assets/sleepMeds_Old';
 
 export default class HomeScreen extends React.Component {
   constructor(props, context) {
@@ -33,7 +35,7 @@ export default class HomeScreen extends React.Component {
               </Text>
             </View>
 
-            <TaskList />
+            <TaskList flashcards={flashcards} />
         </ScrollView>
       </View>
     );
