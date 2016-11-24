@@ -52,6 +52,9 @@ const styles = StyleSheet.create({
     borderColor: '#42F59B',
     backgroundColor: '#42F59B',
   },
+  smallText: {
+    fontSize: 10,
+  },
 });
 
 export class TaskList extends React.Component{
@@ -239,7 +242,7 @@ export class TaskList extends React.Component{
 
   renderTitle(){
     return(
-        <Text>
+        <Text style={styles.smallText}>
           {this.props.groupTitle}
         </Text>
     );

@@ -12,7 +12,6 @@ import {
 } from '@exponent/samples';
 
 import { TaskList } from '../components/TaskList';
-import { HomeScreen } from '../screens/HomeScreen';
 
 import sleepMeds from '../assets/sleepMeds';
 import sleepMedsOld from '../assets/sleepMeds_Old';
@@ -83,7 +82,7 @@ export default class LinksScreen extends React.Component {
         return(
           <TaskList
             flashcards={sleepMedsOld}
-            grouptTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
+            groupTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
           />
         );
