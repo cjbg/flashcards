@@ -409,4 +409,9 @@
 		"text": "haloperidol, chlorpromazyna",
 		"learned": false
 	},
+  "Grupy lekow przeciwdepresyjnych ze względu na działanie": {
+		"name": "Grupy lekow przeciwdepresyjnych ze względu na działanie",
+		"text": "TLPD, SSRI, SNRI(selektywne inhibitory wychwytu NA i SER...), NRI(sel inh wych NA), NDRI(inhibitory wychwytu zwrotnego dop i nor), agoniści receptora serot i słabe inh wychwytu seretoniny, antagoniści rec alfa 2 adrenergicznych i seretoninowych, selektywne odwracalne inhibitory MAOA, agonista receptorow MT1 i MT2, nasilające wychwyt seretoniny",
+		"learned": false
+	},
 };
