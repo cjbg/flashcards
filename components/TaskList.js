@@ -8,7 +8,6 @@ import {
  } from 'react-native';
 
 import { TaskRow }  from './TaskRow';
-import sleepMeds from '../assets/sleepMeds';
 
 const styles = StyleSheet.create({
   container: {
@@ -23,6 +22,9 @@ const styles = StyleSheet.create({
     margin: 3,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  buttonExit: {
+    backgroundColor: 'red',
   },
   buttonLearned: {
     borderColor: '#BCCBE0',
@@ -50,6 +52,9 @@ const styles = StyleSheet.create({
     borderColor: '#42F59B',
     backgroundColor: '#42F59B',
   },
+  smallText: {
+    fontSize: 10,
+  },
 });
 
 export class TaskList extends React.Component{
@@ -67,9 +72,9 @@ export class TaskList extends React.Component{
 
   getFlashCard(randomNumber){
     let counter = 0;
-    for (var key in sleepMeds) {
+    for (var key in this.props.flashcards) {
       if (counter === randomNumber) {
-        return sleepMeds[key];
+        return this.props.flashcards[key];
       };
       counter++;
     };
@@ -79,7 +84,7 @@ export class TaskList extends React.Component{
     let randomNumber = 0;
     let randomFlashCardName = "";
     let randomFlashCardLearned = false;
-    let length = Object.keys(sleepMeds).length;
+    let length = Object.keys(this.props.flashcards).length;
 
     do{
       randomNumber = this.getRandomNumber(length);
@@ -91,7 +96,7 @@ export class TaskList extends React.Component{
   };
 
   setFlashCardLearned(flashCardName){
-    sleepMeds[flashCardName].learned = "true";
+    this.props.flashcards[flashCardName].learned = "true";
   };
 
   getRandomNumber(length){
@@ -99,8 +104,8 @@ export class TaskList extends React.Component{
   };
 
   allFlashCardsAnswered(){
-    for (var key in sleepMeds) {
-      if (sleepMeds[key].learned === false) {
+    for (var key in this.props.flashcards) {
+      if (this.props.flashcards[key].learned === false) {
         return false;
       };
     };
@@ -120,8 +125,8 @@ export class TaskList extends React.Component{
   };
 
   reloadFlashcards(){
-    for (var key in sleepMeds) {
-      sleepMeds[key].learned = false;
+    for (var key in this.props.flashcards) {
+      this.props.flashcards[key].learned = false;
     };
   };
 
@@ -130,12 +135,12 @@ export class TaskList extends React.Component{
     if (this.state.showFlashcardName === false) {
       this.toggleFlashcard();
     }
-    if (this.state.currentFlashCard === "Kuniec") {
+    if (this.state.currentFlashCard === "Koniec") {
     }
     else {
       this.setFlashCardLearned(this.state.currentFlashCard);
       if (this.allFlashCardsAnswered()) {
-        this.state.currentFlashCard = "Kuniec";
+        this.state.currentFlashCard = "Koniec";
       }
       else {
         this.setRandomFlashcard();
@@ -153,7 +158,7 @@ export class TaskList extends React.Component{
   };
 
   onFlashcardPressed(){
-    if (this.state.currentFlashCard !== "Kuniec") {
+    if (this.state.currentFlashCard !== "Koniec") {
       this.toggleFlashcard();
       this.forceUpdate();
     }
@@ -193,7 +198,7 @@ export class TaskList extends React.Component{
   }
 
   renderButtons(){
-    if (this.state.currentFlashCard === "Kuniec") {
+    if (this.state.currentFlashCard === "Koniec") {
       return(
         <TouchableHighlight
           onPress={this.onReloadStarted.bind(this)}
@@ -222,17 +227,40 @@ export class TaskList extends React.Component{
             Następna
           </Text>
         </TouchableHighlight>
+
+        <TouchableHighlight
+          onPress={this.props.onNavBack.bind(this)}
+          style={[styles.button, styles.buttonExit]}>
+          <Text style={styles.buttonText}>
+            Zakończ
+          </Text>
+        </TouchableHighlight>
       </View>
       );
     }
   };
 
+  renderTitle(){
+    return(
+        <Text style={styles.smallText}>
+          {this.props.groupTitle}
+        </Text>
+    );
+  };
+
   render() {
     return(
       <View>
+        {this.renderTitle()}
         {this.renderFlashcard()}
         {this.renderButtons()}
       </View>
     );
   };
+};
+
+TaskList.propTypes = {
+  onNavBack:  React.PropTypes.func.isRequired,
+  flashcards: React.PropTypes.object.isRequired,
+  groupTitle: React.PropTypes.string.isRequired,
 };
