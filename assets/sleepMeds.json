@@ -1,232 +1,412 @@
 {
-  "Benzodiazepiny jak dzialaja":{
-    "name":"Benzodiazepiny jak dzialaja",
-    "text":"Agonisci gabaA, zwiekszaja wrazliwosc na GABA, dzialaja na jak dzialaja podwzgorze i uklad limbiczny, uspokajajaco,, przeciwlekowo, nasennie, przeciwdrgawkowo, te dlugo dzial ;miorelaksacyjne, amnestycznie, TYLKO DORAZNIE NIE PRZEWLEKLE, do przerwania napadu drgawek nie leczenie",
-    "learned":false
-  },
-  "na co nie dzialaja benzodiazep.":{
-    "name":"na co nie dzialaja benzodiazep.",
-    "text":"NIE PRZECIWDEPRESYJNIE",
-    "learned":false
-  },
-  "kiedy stosowac bzd":{
-    "name":"kiedy stosowac bzd",
-    "text":"ostre stany padaczki dl dzial, lek, zespol odstawienny, premedykacja przed zabiegiem, raczej nie nasennie",
-    "learned":false
-  },
-  "Jakie benzod.":{
-    "name":"Jakie benzod.",
-    "text":"diazepam, medazepam, lorazepam, nitrazepam, klonazepam, klorazepak, oksazepam, midazolan, alprazolam, bromazepan, estazolan",
-    "learned":false
-  },
-  "dzialania nieporzadane benzod.":{
-    "name":"dzialania nieporzadane benzod.",
-    "text":"tolerancja, zespol z odbicia, uzaleznienie, zawroty glowy, zmeczenie ataksja dyzartia zaburzenia widzenia, uposledzenie psychoruchowe, wzrost ryzyka upadkow i zlaman, zab. poznawcze",
-    "learned":false
-  },
-  "zespol abstynencyjny":{
-    "name":"zespol abstynencyjny",
-    "text":"nasilony lek, koszmary, lzawienie,katar, bezsennosc, drgawki, zapasc, dezorientacja, skurcze jelit, drzenie miesniowe, wzrost cisn tetniczego, jadlowstret",
-    "learned":false
-  },
-  "zespol z odbicia":{
-    "name":"zespol z odbicia",
-    "text":"u osob nieuzaleznionych, po odstawieniu naglym leku, nasienie leczonych objawow, moze wystapic przy tolerancji",
-    "learned":false
-  },
-  "przeciwwskazania benzod":{
-    "name":"przeciwwskazania benzod",
-    "text":"przewlekle stosowanie, leki dzialajace depresyjnie na ukl oddech, alkohol, ciaza, mysli samobojcze, prowadzenie pojaz",
-    "learned":false
-  },
-  "nterakcje i dawkowanie":{
-    "name":"nterakcje i dawkowanie",
-    "text":"sr zniecz ogoln, nasenne, psychotropowe,opioidy, zwiotczajace pdrgawk, ,alkohol,antyhistaminowe 2-4tyg zw retard,pozniej zmniejszamy -1/4 co kilka dni odstawiamy do 2 tyg chyba ze pacjent zle reaguje",
-    "learned":false
-  },
-  "FLUMAZENIL":{
-    "name":"FLUMAZENIL",
-    "text":"agonista benzodiazepin, odtrutka po przedawkowaniu, wybudzenie ze spiaczki, krotko dziala 20-30min. Anexate",
-    "learned":false
-  },
-  "LEKI NASENNE":{
-    "name":"LEKI NASENNE",
-    "text":"leki Z, nie bedace benzodiazepinami, dzialaja na recGABAA w msc BZD, krocej dzialaja, uzalezniaja, nie zaburzaja funkcj dnia nast",
-    "learned":false
-  },
-  "LEKI NASENNE jakie?":{
-    "name":"LEKI NASENNE jakie?",
-    "text":"zaleplon, zolpidem, zopiklon",
-    "learned":false
-  },
-  "BUSPIRON":{
-    "name":"BUSPIRON",
-    "text":"pobudza rec 5HT1A ktore hamuja oun, dziala przez ukl serotoninergiczne, OPOZNIONY POCZATEK DZIALANIA PO OK 2TYG, hamuje dzialalnosc neuronalna, dziala na ukl limb, nie laczy sie z BZD na GABAA, nie toruje GABA, nie reaguje z alkoholem, slabo uzaleznia, nie dzial pdrgawk i miorlaksac",
-    "learned":false
-  },
-  "HYDROKSYZYNA":{
-    "name":"HYDROKSYZYNA",
-    "text":"antagon H1, antyhistam, p. swiadowo, anksjolitycznie, sedatywnie, nie uzaleznie, p.wymiotnie w HYDROXYZINUM , ATARAXtab 0,01; 0,025, amp, syr, PRZECIWSWIADOWO, przewlekle leczenie bezsennosci 0,025 2xd na sen 1 tab wieczorem",
-    "learned":false
-  },
-  "BARBITURANY(opis)":{
-    "name":"BARBITURANY(opis)",
-    "text":"agonisci GABAA, pdrgawk - TIOPENTAL i zniecz ogolne, FENOBARBITAL - LUMINAL 0,05-0,2, nie uzywane uspokajajaco, depresyjne osr oddech",
-    "learned":false
-  },
-  "BARBITURANY(opis) radzaje":{
-    "name":"BARBITURANY(opis) radzaje",
-    "text":"tiopental, lumiinal- fenobarbital",
-    "learned":false
-  },
-  "BARBITURANY(opis) przeciwwskazania":{
-    "name":"BARBITURANY(opis) przeciwwskazania",
-    "text":"porfiria, wstrzas, ciezki chor serca i watroby zatrucie subst depres na ukl oddech",
-    "learned":false
-  },
-  "BARBITURANY dzialania nieporzad.":{
-    "name":"BARBITURANY dzialania nieporzad.",
-    "text":"depr.na.osr.odd, koszmaary, ataksja, uzaleznienie,indukcja cytp450, kardiopresyjnie ",
-    "learned":false
-  },
-  "LEKI PRZECIWPADACZKOWE":{
-    "name":"LEKI PRZECIWPADACZKOWE",
-    "text":"atak padaczki, neuralgie, epizody maniakalne, schizofrenia, agresja, zesp abstynen. lecz. swiadu",
-    "learned":false
-  },
-  "LEKI PRZECIWPADACZKOWE RODZAJE":{
-    "name":"LEKI PRZECIWPADACZKOWE RODZAJE",
-    "text":"fenyntoina, karbamazepina, diazepam, fenobarbital, primidon, kw walproinowy, klonazepam, gabapentyna, pregabalina, wigabatryna, lamotrigina, topiramat, tiagabina, zomisamid, lewetiracetam",
-    "learned":false
-  },
-  "LEKI PRZECIWPADACZKOWE RODZAJE MECHAN.DZIAL":{
-    "name":"LEKI PRZECIWPADACZKOWE RODZAJE MECHAN.DZIAL",
-    "text":"blokowanie kan na, dzialanie za posrednictwem GABA, blokowanie naplywu ca, blok. uwalniania kw asp i glut, hamow rec NMDA",
-    "learned":false
-  },
-  "KARBAMAZEPINA":{
-    "name":"KARBAMAZEPINA",
-    "text":"amizepin, tegretol,neurotop, padaczka, neuralgie.koanaalgetyk, normotymik, induktor cyt p450 przysp.jego dzialanie 2xdz o spow. uwalnian. zwykle 3xdzienn od 0,8-1,2/d",
-    "learned":false
-  },
-  "dzial.nieporz.karbamazepin":{
-    "name":"dzial.nieporz.karbamazepin",
-    "text":"sennosc,ataksja,bole zawroty, nudnosci, przy zatruciu objawy oun.oczoplas spow.ruchowe",
-    "learned":false
-  },
-  "KWAS WALPROINOWY":{
-    "name":"KWAS WALPROINOWY",
-    "text":"DEPAKINE, CONVULEXzw.stez.GABA, hamuje kan jonowe, pdaczka, zesp. abstyn. migreny, zab psychot",
-    "learned":false
-  },
-  "dzial. nieporz.kw.walpr":{
-    "name":"dzial. nieporz.kw.walpr",
-    "text":"wypadanie wlosow, przybieranie na wadze,, choroby watroby, drzenie konczyn",
-    "learned":false
-  },
-  "FENYTOINA":{
-    "name":"FENYTOINA",
-    "text":"padaczka, neuralgia n v, arytmia, induktor cytp450, jej stez musi byc monitorowane w osoczu, przerost dziasel, tradzik, nadmierne owlosienie, alergie skorne, 02-0,3g/d",
-    "learned":false
-  },
-  "LAMOTRYGINA":{
-    "name":"LAMOTRYGINA",
-    "text":"hamowanie kan jon, padaczka, chor af dwubieg, LAMEPTIL S PLEXXO",
-    "learned":false
-  },
-  "DEZOKSYBARBITURANY":{
-    "name":"DEZOKSYBARBITURANY",
-    "text":"prymidon, metab do fenobarbital,",
-    "learned":false
-  },
-  "zasady stosow lek, przeciwpadaczk.":{
-    "name":"zasady stosow lek, przeciwpadaczk.",
-    "text":"dobierany lek i dawka indywid. najpierw jeden lek od najmn dawki. dochodzimy do najmniejszej terapeutycznej dawki, jak nie dziala to drugi, pilnowac przyjmowania godz, forma retard 2xd uwazac u kobiet z antykoncepcja i ciaza-- teratogeny",
-    "learned":false
-  },
-  "LCZENIE PADACZKI W CIAZY":{
-    "name":"LCZENIE PADACZKI W CIAZY",
-    "text":"im wieksze stez i ilosc lekow tym wiekszy % wad plodu, antykonc zachowana walproinian najb teratog, lamotrygina, lewetiracetam, tiagabina, niskie dawki leku, lepiej retard, najbezpiesz - lamotrygina",
-    "learned":false
-  },
-  "LECZENIE PADACZKi":{
-    "name":"LECZENIE PADACZKi",
-    "text":"przewlekle karbamazepina, kw walproinowy, nagle diazepam klonazepam",
-    "learned":false
-  },
-  "leki nasenne kiedy przyjmowac":{
-    "name":"leki nasenne kiedy przyjmowac",
-    "text":"zaraz przed snem, zalecane 5 mg pol tabl przed snem, nie zaburzaja sprawnosci nastepnego dnia, amnestycznie, uzaleznienie rzadko lunatykowanie nie zab faz rem nrem",
-    "learned":false
-  },
-  "zolpidem":{
-    "name":"zolpidem",
-    "text":"stilnox, nasen,polsen,zolpic,hypnogen, 10mg",
-    "learned":false
-  },
-  "zopiklon":{
-    "name":"zopiklon",
-    "text":"imovane, dobroson, senzop 7,5mg",
-    "learned":false
-  },
-  "zaleplon":{
-    "name":"zaleplon",
-    "text":"morfeo 10mg",
-    "learned":false
-  },
-  "Midazolam":{
-    "name":"Midazolam",
-    "text":"krotkodzialajaca, szybko uzaleznia, , nie jako nasenny, szybciej daje efekty z odbicia, tylko w premedykacji tab 7,5 i 15 mg DORMICUM",
-    "learned":false
-  },
-  "alprazolam":{
-    "name":"alprazolam",
-    "text":"przeciwlekowo, AFOBAM tab 0,25 mg 0,5mg; XANAX tab 0,25 0,5 1,0 2,0 mgXANAX SR 0,5 1,0 2,0 mg, tabl podjezyk 0,5 1,0 mg",
-    "learned":false
-  },
-  "klorazepat":{
-    "name":"klorazepat",
-    "text":"tylko w tabl, dlugodzialajaca, cloranxen, tranxene 5,10mg( przeciwlekowo)",
-    "learned":false
-  },
-  "klonazepan":{
-    "name":"klonazepan",
-    "text":"clonazepamum tabl 5 i 2 mg, apd 10mg",
-    "learned":false
-  },
-  "diazepan":{
-    "name":"diazepan",
-    "text":"tab 2 i 5 mg; amp 10mg im iv(przerywanie premedykacja,ostrych napadow lekowych padaczka) doodbytniczo wlewki relsed 5 i 10mg do przerywania napadu drgawek",
-    "learned":false
-  },
-  "agonizm niebezposredni":{
-    "name":"agonizm niebezposredni",
-    "text":"w benzodiazepinach, sama bzd nie pobudza glownego receptore",
-    "learned":false
-  },
-  "objawy leku":{
-    "name":"objawy leku",
-    "text":"tachykardia, potliwosc,czestomocz,biegunka, mrowienie i dretwienie, przyspieszenie oddechu, suchosc w ustach, wymioty,",
-    "learned":false
-  },
-  "lek rodzaje":{
-    "name":"lek rodzaje",
-    "text":"a) uogolniony b) napadowy c) fobia",
-    "learned":false
-  },
-  "FENOBARBITAL":{
-    "name":"FENOBARBITAL",
-    "text":"przeciwpadaczkowo, w czopkach",
-    "learned":false
-  },
-  "TIOPENTAL":{
-    "name":"TIOPENTAL",
-    "text":"znieczulanie",
-    "learned":false
-  },
-  "LEKI PRZECIWLEKOWE STOSOW":{
-    "name":"LEKI PRZECIWLEKOWE STOSOW",
-    "text":"bzd, leki pdepresyjne, hydroksyzyna, buspiron-nie przerwiemy naglego stanu, opoznione dzialanie, neuroleptyki",
-    "learned":false
-  },
+	"noradrenalina": {
+		"name": "noradrenalina",
+		"text": "Dziala na rec alfa1 i 2 ukl wspolczulnego, Alfa1 aktywacja ukl, postsynaptycznie, w nacz krwionosnych, powoduja skurcz naczyn i wzrost cisn Alfa2 hamowanie presynaptycznie Hamowac moze tez wychwyt zwrotny ach ze szczeliny synaptycznej- reuptake; rozklad ach przez enzymy MAO i COMT",
+		"learned": false
+	},
+	") Co reguluje dopamina": {
+		"name": ") Co reguluje dopamina",
+		"text": "Emocje przez wplyw na ukl limbiczny Procesy ruchowe, koordynacje, napiecie miesniowe przez ukl pozapiram Wydzielanie horm. Prolaktyny przez wplyw na podwzgorze- hamuje;  odpowiada za odruch wymiotny ",
+		"learned": false
+	},
+	"jakie mamy rec. Dopaminergiczne": {
+		"name": "jakie mamy rec. Dopaminergiczne",
+		"text": "D1-D4 pobudz emocjonalne i motoryczne D2 presynapt - hamujace ;D1 postsynapt pobudzajace",
+		"learned": false
+	},
+	") serotonina, za co odpowiada?": {
+		"name": ") serotonina, za co odpowiada?",
+		"text": "5HT, sen, emocje Pobudzenie ruchowe, poped seksualny Laknienie, moduluje bol",
+		"learned": false
+	},
+	"przez co rozkladana serotonina i noradrenaline": {
+		"name": "przez co rozkladana serotonina i noradrenaline",
+		"text": "MAO A",
+		"learned": false
+	},
+	"COMT co to?": {
+		"name": "COMT co to?",
+		"text": "enzym rozkladajacy neuroprzekazniki serot i noradrenalin",
+		"learned": false
+	},
+	"Receptory  serotoninergiczne jak dzialaja": {
+		"name": "Receptory  serotoninergiczne jak dzialaja",
+		"text": "5HT1Pobudzenie zmniejsza uwalnianie serotoniny- hamujace presynapt 5HT2 pobudzenie nasila przekaznictwo serotoninerg. ANTAGONISCI TEGO REC ZMNIEJSZAJA UWALNIANIE DOPAMINY HWMOWANIE 5HT2 HAM DOPAMINY",
+		"learned": false
+	},
+	"Acetylocholina, za co odpowiada": {
+		"name": "Acetylocholina, za co odpowiada",
+		"text": "ruch emocje sen czuwanie pamiec, dzial pobudzajace wmozgu",
+		"learned": false
+	},
+	"jakie mamy rec dla ACh": {
+		"name": "jakie mamy rec dla ACh",
+		"text": "M , N",
+		"learned": false
+	},
+	"Antagonizm ACh i D ": {
+		"name": "Antagonizm ACh i D ",
+		"text": "Hamowanie ach wzrost dopaminy. Przy hamowaniu rec M wzrost dopaminy =w parkinsonie",
+		"learned": false
+	},
+	"Jak dzialaja neuroleptyki/ l p. Depresyjne?": {
+		"name": "Jak dzialaja neuroleptyki/ l p. Depresyjne?",
+		"text": "cholinolitycznie , blokuja rec H1",
+		"learned": false
+	},
+	"Rec. Dla histaminy": {
+		"name": "Rec. Dla histaminy",
+		"text": "H1 H2",
+		"learned": false
+	},
+	"Co spowoduje zablokowanie rec h1?": {
+		"name": "Co spowoduje zablokowanie rec h1?",
+		"text": "Dzialanie uspokajajace; maja je neuroleptyki i p.depresanty TLPD",
+		"learned": false
+	},
+	") Depresja objawy": {
+		"name": ") Depresja objawy",
+		"text": "Somatyczne: zaburz. snu laknienia, zahamowanie ruchowe Emocjonalne; anergia, anhedonia(utrata mozliwosci odczuwania przyjemnosci), obnizenie nastroju Poznawcze; niska samoocena, poczucie winy, mysli samobojcze",
+		"learned": false
+	},
+	"triada becka": {
+		"name": "triada becka",
+		"text": "Pesymistyczne myslenie o sobie, swiecie i przyszlosci",
+		"learned": false
+	},
+	"patogeneza depresji": {
+		"name": "patogeneza depresji",
+		"text": "Zmiany dotycza glownie ukl limbicznego( obszar odpow za emocje popedy fiz i seksual i stres) spadek poziomu serotoniny noradrenaliny i dopaminy w przestrz synaptycznej, obnizenie ilosci tych neuroprzek w ukl limbicznym ",
+		"learned": false
+	},
+	"mechanizm dzialania lek przeciwdepr": {
+		"name": "mechanizm dzialania lek przeciwdepr",
+		"text": "Zwiekszenie ilosci serotoniny noradrenaliny dopaminy w szzczel synaptycznej przez hamowanie enzymow rozkladajacych neuroprzekazniki, hamowanie rec presynaptycznych, pobudzanie postsynaptycznych, ",
+		"learned": false
+	},
+	"antag rec alfa2 adrenergicznego oraz serotonin": {
+		"name": "antag rec alfa2 adrenergicznego oraz serotonin",
+		"text": "mianseryna, mirtazapina",
+		"learned": false
+	},
+	") selektywne odwracalne inhib MAO A": {
+		"name": ") selektywne odwracalne inhib MAO A",
+		"text": "MOKLOBEMID",
+		"learned": false
+	},
+	"agonista rec melatoninowego MT1 i MT2": {
+		"name": "agonista rec melatoninowego MT1 i MT2",
+		"text": "agomelatyna, zwieksza sennosc",
+		"learned": false
+	},
+	"hamujacy wychwyt noradr i dopaminy": {
+		"name": "hamujacy wychwyt noradr i dopaminy",
+		"text": "bupropion",
+		"learned": false
+	},
+	"inhibitory wychwytu amin (serotoniny i noradren) NA i 5HT = TLPD": {
+		"name": "inhibitory wychwytu amin (serotoniny i noradren) NA i 5HT = TLPD",
+		"text": "Amitryptylina (glownie w psychiatrii) Doksepina Doxepin 0,01; 0,025 3x10-25mg, dziala tez p lekowo i uspokajajaco Opipramol Klomipramina (glownie w psychiatrii) ",
+		"learned": false
+	},
+	"mechanizm dzialaniaTLPD": {
+		"name": "mechanizm dzialaniaTLPD",
+		"text": "Blokuja wychwyt NA i 5HT Sa nieselektywne ( BRUDNY mech dzialania), wywieraja wplyw na inne rec H1 H2 L1 DA Ach ",
+		"learned": false
+	},
+	"dzialania nieporzadane TLPD": {
+		"name": "dzialania nieporzadane TLPD",
+		"text": "Cholinolityczne, : blokuja rec muskarynowe ukl przywspol Wysychanie bl sluz, zaburzenia widzenia, wzrost cisn wewnatrzgalkowego, zaparcia atoniczne, tachykardia zab oddawania moczu, ZABURZENIA SWIADOMOSCI i FUNKCJI POZNAWCZYCH PRZY DLUZSZYM STOSOWANIU( Blokowanie rec musk oun)P.HISTAMIN I L-ADRENOLITYCZNE sedacja, sennosc, spadek cisn tetnicz wzrost masy ciala ZWIAZANE Z WYCHW ZWR AMIN : zaburzenia erekcji i ejakulacji, biegunka nudnosci oslabienie laknienia, drzenia miesniowe, pobudzenie psychoruchowe KARDIOTOKSYCZNE  bloki pk, arytmie komorowe, ryzyko naglego zgonu, wydluzenie QT Wzmozona potliwosc",
+		"learned": false
+	},
+	"czemu wydluzony QT jest grozny?": {
+		"name": "czemu wydluzony QT jest grozny?",
+		"text": "moze prowadzic do wieloksztaltnych czestoskurczy “torsades de pointes” ktore moga prowadzic do zatrzymania akcji serca w mechanizmie migotania komor",
+		"learned": false
+	},
+	"przeciwwskazania do TLDP": {
+		"name": "przeciwwskazania do TLDP",
+		"text": "ostre stany majaczeniowe, jaskra, zatrucie srodkami dzialajacymi depresyjnie na oun,zaburzenia mikcji i przerost prostaty, OSTROZNIE: u chorych z problemami ukl krazenia i u starszych osob bo czesciej jaskra, problemy ukl krazenia, spadki cisnienia ortostatycznego, a jeszcze dodalibysmy dzialanie cholinolityczne ",
+		"learned": false
+	},
+	"dzialanie przeciwpsychotyczne opis": {
+		"name": "dzialanie przeciwpsychotyczne opis",
+		"text": "blokowanie rec D2, zahamowanie ukladu dopaminergicznego, zahamowanie ukl serotoninergicznego, ",
+		"learned": false
+	},
+	") selektywne inhibitory wychwytu serotoniny dzialanie": {
+		"name": ") selektywne inhibitory wychwytu serotoniny dzialanie",
+		"text": "5HT wychwytywane przez transporter SERT, odstawia czast przekaznika do bl presyn SSRI hamuja wychwyt zwrotny serotoniny, blokuja SERT, zwiekszaja pule serotoniny, zmniejsza sie wrazliwosc autorec 5HT1 ",
+		"learned": false
+	},
+	"kiedy stosowane SSRI": {
+		"name": "kiedy stosowane SSRI",
+		"text": "Depresja, lęki napadowe, uogolnione,nerwica natrectw, fobie Koanalgetyki w leczniu bolu przewleklego, zaburzenia laknienia, przedwczesny wytrysk PODSTAWOWA GRUPA LEKOW W TERAPII PRZEWLEKLYCH ZABURZEN LĘKOWYCH ",
+		"learned": false
+	},
+	"Najskuteczniejsze koanalgetyki w leczeniu bolu przewleklego": {
+		"name": "Najskuteczniejsze koanalgetyki w leczeniu bolu przewleklego",
+		"text": "leki p. Padaczkowe i p. Depresyjne",
+		"learned": false
+	},
+	"Dzialania nieporzadane SSRI": {
+		"name": "Dzialania nieporzadane SSRI",
+		"text": "Lęk, bezsennosc, wyraziste sny, ahedonia, apatia, zab. funkcji seksualnych, zmianybmasy ciala, ryzyko zespolu serotoninergicznego, zwiekszone ryzyko krwawien, U CHORYCH Z ZABURZENIAMI LĘKOWYMI LECZENIE ZACZYNAMY OD MALYCH DAWEK I ZWIEKSZAMY STOPNIOWO= NADMIERNA STYMULACJA REC 5HT2 POWODUJE UCZUCIE LĘKU MOZNA NA KROTKO POLACZYC Z BENZODIAZEPINAMI =SZYBSZY EFEKT USPOKAJAJACY SEROTONINA SUBST PROKOAGULACYJNE ",
+		"learned": false
+	},
+	"jak zniwelowac poczatkowo nasilony lek po SSRI?": {
+		"name": "jak zniwelowac poczatkowo nasilony lek po SSRI?",
+		"text": "dolaczamy benzodiazepine max 2 tyg, pozniej odstawiamy a po 2 tyg juz dziala SSRI, najczesciej ALPRAZOLAM, moze byc kazda inna",
+		"learned": false
+	},
+	"z jakimi lekami nie laczyc SSRI": {
+		"name": "z jakimi lekami nie laczyc SSRI",
+		"text": "Z lekami zwiekszajacymi stymulacje serotoninergiczna inhibitory MAO, TLPD, buspiron, opioidy, tramadol",
+		"learned": false
+	},
+	"zespol serotoninowy": {
+		"name": "zespol serotoninowy",
+		"text": "kazde leki powodujace wzrost stez serotoniny NIE MOGA BYC RAZEM STOSOWANe np inhib MAO +SSRI/TLPD/TRAMADOL/",
+		"learned": false
+	},
+	"dlaczego po SSRI zwiekszone krwawienie?": {
+		"name": "dlaczego po SSRI zwiekszone krwawienie?",
+		"text": "kom nie uzyskuja wystarczajacej ilosci prokoagulacyjnej serotoniny przez zahamowanie transportera. Kom same nie syntetyzuja serotoniny",
+		"learned": false
+	},
+	"jak stosowac leki przeciwdepresyjne": {
+		"name": "jak stosowac leki przeciwdepresyjne",
+		"text": "Dobieramy indywidualnie, odstawiamy powoli, szybie odstawienie= objawy odstawienne ALE P.DEPRESANTY NIE UZALEZNIAJA",
+		"learned": false
+	},
+	"czy leki p.depresyjne uzalezniaja": {
+		"name": "czy leki p.depresyjne uzalezniaja",
+		"text": "Nie",
+		"learned": false
+	},
+	"Efekt terapeutyczny lekow p.depresyjnych": {
+		"name": "Efekt terapeutyczny lekow p.depresyjnych",
+		"text": "po ok 2tyg",
+		"learned": false
+	},
+	"Czas trwania terapii ": {
+		"name": "Czas trwania terapii ",
+		"text": "Min 6 miesiecy, nie odstawiamy od razu!! ok 2 tyg moze powstac zespol dyskontynuacji, NIE UZALEZNIAJA",
+		"learned": false
+	},
+	"SSRI w padaczce": {
+		"name": "SSRI w padaczce",
+		"text": "nie obnizaja progu drgawkowego, bezpieczne TLPD obnizaja, nie w padaczce!!!",
+		"learned": false
+	},
+	"sSRI w bezsennosci": {
+		"name": "sSRI w bezsennosci",
+		"text": "umozliwia przewlekle leczenie bezsennosci; MIANSERYNA, TRAZODON AGOMELATYNA",
+		"learned": false
+	},
+	"SSRI w leczeniu nikotyzmu": {
+		"name": "SSRI w leczeniu nikotyzmu",
+		"text": "bupropion",
+		"learned": false
+	},
+	"SSRI rodzaje": {
+		"name": "SSRI rodzaje",
+		"text": "Fluoksetyna, fluwoksamina, paroksetyna, sertralina, citalopram, escitalopram",
+		"learned": false
+	},
+	"Czy TLPD i SSRI mozna przedawkowac?": {
+		"name": "Czy TLPD i SSRI mozna przedawkowac?",
+		"text": "TLPD tak, istnieje  ryzyko zgonu po przedawkowaniu SSRI nie, po przedawkowaniu wzglednie bezpieczne ",
+		"learned": false
+	},
+	"ktore maja p.depr maja wplyw na uklad krazenia?": {
+		"name": "ktore maja p.depr maja wplyw na uklad krazenia?",
+		"text": "TLPD",
+		"learned": false
+	},
+	"Najczesciej stosowane leki w zaburzeniach lękowych": {
+		"name": "Najczesciej stosowane leki w zaburzeniach lękowych",
+		"text": "TLPD,SSRI, benzodiazepiny, buspiron, hydroksyzyna",
+		"learned": false
+	},
+	"co to neuroleptyki": {
+		"name": "co to neuroleptyki",
+		"text": "Leki przeciwpsychotyczne, schizofrennia",
+		"learned": false
+	},
+	"podzial neuroleptykow": {
+		"name": "podzial neuroleptykow",
+		"text": "Klasyczne, atypowe,",
+		"learned": false
+	},
+	"kiedy stosowane sa neuroleptyki": {
+		"name": "kiedy stosowane sa neuroleptyki",
+		"text": "Schizofrenia, choroba afektywna, psychozy, stanyvmaniakalne, stany lękowe, napieciowe, wymioty, premedykacja, czkawka, otepienia",
+		"learned": false
+	},
+	"Im silniej lek blokuje rec D2 to": {
+		"name": "Im silniej lek blokuje rec D2 to",
+		"text": "Tym wieksze ryzyko dzialan nieporzadanych , objawow pozapiramidowych i hiperprolaktynemi",
+		"learned": false
+	},
+	"jak wplywa na organizm blokowanie rec D2?": {
+		"name": "jak wplywa na organizm blokowanie rec D2?",
+		"text": "przeciwpsychotycznie, p.wymiotnie, prowadzi do zaburzen pozapiramidowych, termoregulacji, do wzrostu wydzielania prolaktyny",
+		"learned": false
+	},
+	"blokowanie rec L1 adrenolitycznego przez neeuroleptyki": {
+		"name": "blokowanie rec L1 adrenolitycznego przez neeuroleptyki",
+		"text": "Hipotonia",
+		"learned": false
+	},
+	"dlaczego neuroleptyki sa podstawa w leczeniu psychoz i schizofrenii?": {
+		"name": "dlaczego neuroleptyki sa podstawa w leczeniu psychoz i schizofrenii?",
+		"text": "znosza objawy wytworcze pozytywne(omamy, urojenia) negatywne(rozszczep osobowosci, stepienie uczuciowe), znosi objawy depresyjne",
+		"learned": false
+	},
+	"przyczyny objawow psychotycznych": {
+		"name": "przyczyny objawow psychotycznych",
+		"text": "hiperaktywacja rec D, dlatego ich zablokowanie znosi psychozy, mozna to siagnac przez sprzezenia dopaminy z acetylocholina i serotonine",
+		"learned": false
+	},
+	"czym sa urojenia": {
+		"name": "czym sa urojenia",
+		"text": "Bledne przekonania niepodlegajace korekcji,nie zwiazane z kultura, duchowoscia i poziomem wyksztalcenia.",
+		"learned": false
+	},
+	"podzial urojen": {
+		"name": "podzial urojen",
+		"text": "Przesladowcze, wplywu, odsloniecia mysli, nasyłania mysli, odnoszace",
+		"learned": false
+	},
+	"dzialania nieporzadane neuroleptykow": {
+		"name": "dzialania nieporzadane neuroleptykow",
+		"text": "Zaburzenia pozapiramidowe, hiperprolaktynemia, zaburzenia rytmu i przewodnictwa, hipotonia ortostatyczna, mielotoksycznosc,leukopenia, agranulocytoza, objawy cholinolityczne, objawy z oun, wzrost masy ciala hiperglikemia, uszkodz watroby, nadwrazliwosc na uv",
+		"learned": false
+	},
+	"zaburzenia pozapiramidowe": {
+		"name": "zaburzenia pozapiramidowe",
+		"text": "Parkinsonizm polekowy - spowolnienie ruchowe,sztywnosc, maskowata twarz,drzenia miesniowe Dyskinezy, akatyzja polekowa(niepokoj ruchowy konczyn gornych dolnych i tulowia, ciagla potrzeba poruszania sie), zlosliwy zespol poneuroleptyczny (jest stanem zagrozenia zycia) ",
+		"learned": false
+	},
+	"powiklania ruchowe po neuroleptykach przy": {
+		"name": "powiklania ruchowe po neuroleptykach przy",
+		"text": "Przewlekle stosowanie, gwaltowne ich odstawienie",
+		"learned": false
+	},
+	"hiperprolaktynemia": {
+		"name": "hiperprolaktynemia",
+		"text": "Mlekotok, ginekomastia, brak miesiaczki, zaburzenia libido i owulacji, osteoporoza",
+		"learned": false
+	},
+	"objawy cholinolityczne": {
+		"name": "objawy cholinolityczne",
+		"text": "Zaburzenia mikcji, akomodacji, defekacji-zaparcia, tachykardia, suchosc w jamie ustnej",
+		"learned": false
+	},
+	"neuroleptyki klasyczne": {
+		"name": "neuroleptyki klasyczne",
+		"text": "Pochodne fenotiazyny( alifatyczne, piperydynowe, piperazynowe) pochodne butyrofenonu Pochodne tioksantenu Pochodne benzamidu ",
+		"learned": false
+	},
+	"pochodne fenotiazyny neur.klas. alifatyczne": {
+		"name": "pochodne fenotiazyny neur.klas. alifatyczne",
+		"text": "Chlorpromazyna, promazyna, lewopromazyna,",
+		"learned": false
+	},
+	"poch fenotiazyny piperidynowe": {
+		"name": "poch fenotiazyny piperidynowe",
+		"text": "- tiorydazyna, mapazyna, mezorydazyna, perymetazyna SLABE DZIALANIE P.PSYCHOTYCZNE, MALE RYZYKO OBJAWOW POZAPIRAMIDOWYCH ",
+		"learned": false
+	},
+	"pochodne fenotiazyne piperazynawe": {
+		"name": "pochodne fenotiazyne piperazynawe",
+		"text": "Perazyna, perfenazyna, prochlorperazyna, trifluoperazyna, THIETYLPERAZYNA =TORECAN W TAB AMP I CZOPK 0,0065, STOSOWANA JAKO LEK P.WYMIOTNY A NIEP.PSYCHOT, LECZENIE NUDNOSCI WYM I ZAWR GLOWY ",
+		"learned": false
+	},
+	"POCHODNE butyrofenonu": {
+		"name": "POCHODNE butyrofenonu",
+		"text": "Haloperidol, droperidol do neuroleptoanalgezji",
+		"learned": false
+	},
+	") haloperidol": {
+		"name": ") haloperidol",
+		"text": "Tabl, krople doustne, silniejszy od chlorpromazyny, p.wymiotnie, moze wywolac depresje, haloperidol ,001; 0,005, amp. 5mg haloperidol WZF 0.2% krople doustne 0.002/ml (10ml) haloperidol unia 0.002/ml; kropl 10 i 100 ml decaldol - spowolnione uwalnianie KROPLE 20 kropli to 1 ml czyli 2 mg subst czynnej",
+		"learned": false
+	},
+	"pochodne tioksantenu": {
+		"name": "pochodne tioksantenu",
+		"text": "Chlorprotiksen, flupentiksol, zuklopentiksol",
+		"learned": false
+	},
+	"pochodne benzamidu": {
+		"name": "pochodne benzamidu",
+		"text": "Sulpiryd",
+		"learned": false
+	},
+	"przeciwwskazania do neuroleptykow klasycznych": {
+		"name": "przeciwwskazania do neuroleptykow klasycznych",
+		"text": "Zatrucia srodkami dzialajacymi na oun, przebyty zespol poneuroleptyczny, niewyd serca, jaskra, chor parkinsona, przerost grucz krokowego, uszkodzenie ukl bialokrwinkowego",
+		"learned": false
+	},
+	"Neuroleptyki atypowe mech dzialania": {
+		"name": "Neuroleptyki atypowe mech dzialania",
+		"text": "Blokuja rec D i 5HT2",
+		"learned": false
+	},
+	"neuroleptyki atypowe": {
+		"name": "neuroleptyki atypowe",
+		"text": "Sulpiryd, aripiprazol, klozapina, kwetiapina, ziprasidon, OLANZAPINA, RISPERIDON, amisulprid",
+		"learned": false
+	},
+	"INNE leki blokujace rec dopaminergiczne": {
+		"name": "INNE leki blokujace rec dopaminergiczne",
+		"text": "Metoclopramid",
+		"learned": false
+	},
+	"leki normotymiczne I i II generacji": {
+		"name": "leki normotymiczne I i II generacji",
+		"text": "I gen. Lit, kw walproinowy, karbamazepina II gen. Lamotrygina, neuroleptyki atypowe ",
+		"learned": false
+	},
+	"gdzie stosowane leki normotymiczne": {
+		"name": "gdzie stosowane leki normotymiczne",
+		"text": "Chor afektywna dwubiegunowa, depresja i mania",
+		"learned": false
+	},
+	"Fluoksetyna": {
+		"name": "Fluoksetyna",
+		"text": "fluoxetyna tab 0.01; 0.02 bioxetin tab 0.02 ",
+		"learned": false
+	},
+	"Sertalina": {
+		"name": "Sertalina",
+		"text": "zoloft 0,05; 0,1 asentra 0,1 asertin 0.05; 0,1 ",
+		"learned": false
+	},
+	"citalopram": {
+		"name": "citalopram",
+		"text": "Cital 0.02",
+		"learned": false
+	},
+	"Paroksetyna": {
+		"name": "Paroksetyna",
+		"text": "seroxat tab 0.02",
+		"learned": false
+	},
+	"escitalopram": {
+		"name": "escitalopram",
+		"text": "servenon 0.01;0.015; 0,02",
+		"learned": false
+	},
+	"dzialanie neurolept klasycznych": {
+		"name": "dzialanie neurolept klasycznych",
+		"text": "blokowanie rec D2, dzialane przeciwpsychotyczne, przeciwwymiotne, zaburzenia termoregulacji (pozytywno/negatywne), wzrost wydzielania prolaktyny (N) hipotonia(n)",
+		"learned": false
+	},
+	")neuroleptyki klasyczne nasilajace depresje": {
+		"name": ")neuroleptyki klasyczne nasilajace depresje",
+		"text": "haloperidol, chlorpromazyna",
+		"learned": false
+	},
 };

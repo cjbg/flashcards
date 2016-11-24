@@ -16,13 +16,17 @@ const styles = StyleSheet.create({
     backgroundColor: '#F7F7F7',
   },
   button: {
-    height: 50,
+    height: 45,
     borderColor: '#05A5D1',
     borderWidth: 2,
     backgroundColor: '#333',
-    margin: 5,
+    margin: 3,
     justifyContent: 'center',
     alignItems: 'center',
+  },
+  buttonLearned: {
+    borderColor: '#BCCBE0',
+    backgroundColor: '#05A5D1',
   },
   buttonText: {
     color: '#FAFAFA',
@@ -30,21 +34,21 @@ const styles = StyleSheet.create({
     fontWeight: '600',
   },
   label: {
-   fontSize: 20,
+   fontSize: 18,
    fontWeight: '300',
   },
   flashcardButton: {
-   height: 320,
+   height: 370,
    borderColor: '#05A5D1',
    borderWidth: 4,
    backgroundColor: '#05A5D1',
-   margin: 20,
+   margin: 7,
    justifyContent: 'center',
    alignItems: 'center',
   },
   flashcardBackButton: {
-    borderColor: '#50f0D1',
-    backgroundColor: '#50f0D1',
+    borderColor: '#42F59B',
+    backgroundColor: '#42F59B',
   },
 });
 
@@ -205,7 +209,7 @@ export class TaskList extends React.Component{
       <View>
         <TouchableHighlight
           onPress={this.onLearnedStarted.bind(this)}
-          style={styles.button}>
+          style={[styles.button, styles.buttonLearned]}>
           <Text style={styles.buttonText}>
             {this.state.flashcardLearned}
             </Text>
