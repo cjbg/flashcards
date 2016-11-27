@@ -76,8 +76,7 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Nowe"}
             onNavBack={this.onNavBack.bind(this)}
           />
-        );
-        break;
+        );        
       case 'sleepMedsOld':
         return(
           <TaskList
@@ -85,8 +84,7 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
           />
-        );
-        break;
+        );        
       default:
       return(
         <ScrollView
