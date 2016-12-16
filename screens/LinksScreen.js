@@ -15,6 +15,7 @@ import { TaskList } from "../components/TaskList";
 
 import sleepMeds from "../assets/sleepMeds";
 import sleepMedsOld from "../assets/sleepMeds_Old";
+import meds2Updated from "../assets/meds2Updated";
 import meds3 from "../assets/meds3";
 
 const styles = StyleSheet.create({
@@ -67,6 +68,13 @@ export default class LinksScreen extends React.Component {
       name: "sleepMeds",
     });
   }
+
+  onMeds2UpdatedStarted(){
+    this.nav.push({
+      name: "meds2Updated"
+    });
+  }
+
   onMeds3Started(){
     this.nav.push({
       name: "meds3",
@@ -88,6 +96,14 @@ export default class LinksScreen extends React.Component {
           <TaskList
             flashcards={sleepMedsOld}
             groupTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
+            onNavBack={this.onNavBack.bind(this)}
+          />
+        );
+      case "meds2Updated":
+        return(
+          <TaskList
+            flashcards={meds2Updated}
+            groupTitle={"Aktualizacja - Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
           />
         );
@@ -128,6 +144,14 @@ export default class LinksScreen extends React.Component {
             style={styles.button}>
             <Text style={styles.buttonText}>
                   Drugie
+              </Text>
+          </TouchableHighlight>
+
+          <TouchableHighlight
+            onPress={this.onMeds2UpdatedStarted.bind(this)}
+            style={styles.button}>
+            <Text style={styles.buttonText}>
+                  Drugie aktualizacja
               </Text>
           </TouchableHighlight>
 

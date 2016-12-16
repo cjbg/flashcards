@@ -1,0 +1,352 @@
+{
+	"1) Neuroprzekazniki w oun ": {
+		"name": "1) Neuroprzekazniki w oun ",
+		"text": "acetylocholinaNoradrenalinaDopaminaHistaminaserotoninaAdrenalinaGabaGlicynapeptydyKw glut i asp",
+		"learned": false
+	},
+	" 2) noradrenalina ": {
+		"name": " 2) noradrenalina ",
+		"text": "Dziala na rec alfa1 i 2 ukl wspolczulnego,Alfa1 aktywacja ukl, postsynaptycznie, w nacz krwionosnych, powoduja skurcz naczyn iwzrost cisnAlfa2 hamowanie presynaptycznieHamowac moze tez wychwyt zwrotny ach ze szczeliny synaptycznej- reuptake; rozklad achprzez enzymy MAO i COMT",
+		"learned": false
+	},
+	" 3) Co reguluje dopamina ": {
+		"name": " 3) Co reguluje dopamina ",
+		"text": "Emocje przez wplyw na ukl limbicznyProcesy ruchowe, koordynacje, napiecie miesniowe przez ukl pozapiramWydzielanie horm. Prolaktyny przez wplyw na podwzgorze- hamuje; odpowiada za odruchwymiotny",
+		"learned": false
+	},
+	" 4) jakie mamy rec. Dopaminergiczne ": {
+		"name": " 4) jakie mamy rec. Dopaminergiczne ",
+		"text": "D1-D4 pobudz emocjonalne i motoryczneD2 presynapt - hamujace ;D1 postsynapt pobudzajace",
+		"learned": false
+	},
+	" 5) serotonina, za co odpowiada? ": {
+		"name": " 5) serotonina, za co odpowiada? ",
+		"text": "5HT,sen, emocjePobudzenie ruchowe, poped seksualnyLaknienie, moduluje bol",
+		"learned": false
+	},
+	" 6) przez co rozkladana serotonina i noradrenaline ": {
+		"name": " 6) przez co rozkladana serotonina i noradrenaline ",
+		"text": "MAO A",
+		"learned": false
+	},
+	" 6)COMT co to? ": {
+		"name": " 6)COMT co to? ",
+		"text": "enzym rozkladajacy neuroprzekazniki serot i noradrenalin",
+		"learned": false
+	},
+	" 7) Receptory serotoninergiczne jak dzialaja ": {
+		"name": " 7) Receptory serotoninergiczne jak dzialaja ",
+		"text": "5HT1Pobudzenie zmniejsza uwalnianie serotoniny- hamujace presynapt5HT2 pobudzenie nasila przekaznictwo serotoninerg. ANTAGONISCI TEGO RECZMNIEJSZAJA UWALNIANIE DOPAMINY HWMOWANIE 5HT2 HAM DOPAMINY",
+		"learned": false
+	},
+	" 8) Acetulocholina, za co odpowiada ": {
+		"name": " 8) Acetulocholina, za co odpowiada ",
+		"text": "ruch emocje sen czuwanie pamiec, dzial pobudzajace wmozgu",
+		"learned": false
+	},
+	" 9) jakie mamy rec dla ACh ": {
+		"name": " 9) jakie mamy rec dla ACh ",
+		"text": "M , N",
+		"learned": false
+	},
+	" 10) Antagonizm ACh i D ": {
+		"name": " 10) Antagonizm ACh i D ",
+		"text": "Hamowanie ach wzrost dopaminy. Przy hamowaniu rec M wzrost dopaminy =w parkinsonie",
+		"learned": false
+	},
+	" 11) Jak dzialaja neuroleptyki/ l p. Depresyjne? ": {
+		"name": " 11) Jak dzialaja neuroleptyki/ l p. Depresyjne? ",
+		"text": "cholinolitycznie , blokuja rec H1",
+		"learned": false
+	},
+	" 12) Rec. Dla histaminy ": {
+		"name": " 12) Rec. Dla histaminy ",
+		"text": "H1 H2",
+		"learned": false
+	},
+	" 13) Co spowoduje zablokowanie rec h1?  ": {
+		"name": " 13) Co spowoduje zablokowanie rec h1?  ",
+		"text": "Dzialanie uspokajajace; maja je neuroleptyki i p.depresanty TLPD",
+		"learned": false
+	},
+	" 14) Depresja objawy ": {
+		"name": " 14) Depresja objawy ",
+		"text": "Somatyczne: zaburz. snu laknienia, zahamowanie ruchoweEmocjonalne; anergia, anhedonia(utrata mozliwosci odczuwania przyjemnosci), obnizenienastrojuPoznawcze; niska samoocena, poczucie winy, mysli samobojcze",
+		"learned": false
+	},
+	" 15) triada becka ": {
+		"name": " 15) triada becka ",
+		"text": "Pesymistyczne myslenie o sobie, swiecie i przyszlosci",
+		"learned": false
+	},
+	" 17) patogeneza depresji ": {
+		"name": " 17) patogeneza depresji ",
+		"text": "Zmiany dotycza glownie ukl limbicznego( obszar odpow za emocje popedy fiz i seksual istres)spadek poziomu serotoniny noradrenaliny i dopaminy w przestrz synaptycznej, obnizenieilosci tych neuroprzek w ukl limbicznym",
+		"learned": false
+	},
+	" 18) mechanizm dzialania lek przeciwdepr ": {
+		"name": " 18) mechanizm dzialania lek przeciwdepr ",
+		"text": "Zwiekszenie ilosci serotoniny noradrenaliny dopaminy w szzczel synaptycznej przezhamowanie enzymow rozkladajacych neuroprzekazniki, hamowanie rec presynaptycznych,pobudzanie postsynaptycznych,",
+		"learned": false
+	},
+	" 18) antag rec alfa2 adrenergicznego oraz serotonin ": {
+		"name": " 18) antag rec alfa2 adrenergicznego oraz serotonin ",
+		"text": "mianseryna, mirtazapina",
+		"learned": false
+	},
+	" 18) selektywne odwracalne inhib MAO A ": {
+		"name": " 18) selektywne odwracalne inhib MAO A ",
+		"text": "MOKLOBEMID",
+		"learned": false
+	},
+	" 18) agonista rec melatoninowego MT1 i MT2 ": {
+		"name": " 18) agonista rec melatoninowego MT1 i MT2 ",
+		"text": "agomelatyna, zwieksza sennosc",
+		"learned": false
+	},
+	" 18) hamujacy wychwyt noradr i dopaminy ": {
+		"name": " 18) hamujacy wychwyt noradr i dopaminy ",
+		"text": "bupropion",
+		"learned": false
+	},
+	" 19) inhibitory wychwytu amin (serotoniny i noradren) NA i 5HT = TLPD ": {
+		"name": " 19) inhibitory wychwytu amin (serotoniny i noradren) NA i 5HT = TLPD ",
+		"text": "Amitryptylina (glownie w psychiatrii)Doksepina Doxepin 0,01; 0,025 3x10-25mg, dziala tez p lekowo i uspokajajacoOpipramolKlomipramina (glownie w psychiatrii)",
+		"learned": false
+	},
+	" 20) mechanizm dzialaniaTLPD ": {
+		"name": " 20) mechanizm dzialaniaTLPD ",
+		"text": "Blokuja wychwyt NA i 5HTSa nieselektywne ( BRUDNY mech dzialania), wywieraja wplyw na inne rec H1 H2 L1 DA AchH1 na kom tucznych i w oun",
+		"learned": false
+	},
+	" 21) dzialania nieporzadane TLPD ": {
+		"name": " 21) dzialania nieporzadane TLPD ",
+		"text": "Cholinolityczne, : blokuja rec muskarynowe ukl przywspolWysychanie bl sluz, zaburzenia widzenia, wzrost cisn wewnatrzgalkowego, zaparciaatoniczne, tachykardia zab oddawania moczu, ZABURZENIA SWIADOMOSCI i FUNKCJIPOZNAWCZYCH PRZY DLUZSZYM STOSOWANIU( Blokowanie rec musk oun)P.HISTAMIN I L-ADRENOLITYCZNE sedacja, sennosc, spadek cisn tetnicz wzrost masy cialaZWIAZANE Z WYCHW ZWR AMIN : zaburzenia erekcji i ejakulacji, biegunka nudnoscioslabienie laknienia, drzenia miesniowe, pobudzenie psychoruchoweKARDIOTOKSYCZNE bloki pk, arytmie komorowe, ryzyko naglego zgonu, wydluzenie QTWzmozona potliwosc",
+		"learned": false
+	},
+	" 22) czemu wydluzony QT jest grozny? ": {
+		"name": " 22) czemu wydluzony QT jest grozny? ",
+		"text": "moze prowadzic do wieloksztaltnych czestoskurczy “torsades de pointes” ktore mogaprowadzic do zatrzymania akcji serca w mechanizmie migotania komor",
+		"learned": false
+	},
+	" 23) przeciwwskazania do TLDP ": {
+		"name": " 23) przeciwwskazania do TLDP ",
+		"text": "ostre stany majaczeniowe, jaskra, zatrucie srodkami dzialajacymi depresyjnie na oun,zaburzenia mikcji i przerost prostaty,OSTROZNIE: u chorych z problemami ukl krazenia i u starszych osob bo czesciej jaskra,problemy ukl krazenia, spadki cisnienia ortostatycznego, a jeszcze dodalibysmy dzialaniecholinolityczne",
+		"learned": false
+	},
+	" 24) dzialanie przeciwpsychotyczne opis ": {
+		"name": " 24) dzialanie przeciwpsychotyczne opis ",
+		"text": "blokowanie rec D2, zahamowanie ukladu dopaminergicznego, zahamowanie uklserotoninergicznego,dopamina i ACh ANTAGONIZM; serotonina i dopamina synergizm",
+		"learned": false
+	},
+	" 24) selektywne inhibitory wychwytu serotoniny dzialanie ": {
+		"name": " 24) selektywne inhibitory wychwytu serotoniny dzialanie ",
+		"text": "5HT wychwytywane przez transporter SERT, odstawia czast przekaznika do bl presynSSRI hamuja wychwyt zwrotny serotoniny, blokuja SERT,zwiekszaja pule serotoniny, zmniejsza sie wrazliwosc autorec 5HT1",
+		"learned": false
+	},
+	" 25) kiedy stosowane SSRI ": {
+		"name": " 25) kiedy stosowane SSRI ",
+		"text": "Depresja, lęki napadowe, uogolnione,nerwica natrectw, fobieKoanalgetyki w leczniu bolu przewleklego, zaburzenia laknienia, przedwczesny wytryskPODSTAWOWA GRUPA LEKOW W TERAPII PRZEWLEKLYCH ZABURZEN LĘKOWYCH",
+		"learned": false
+	},
+	" 26) Najskuteczniejsze koanalgetyki w leczeniu bolu przewleklego ": {
+		"name": " 26) Najskuteczniejsze koanalgetyki w leczeniu bolu przewleklego ",
+		"text": "leki p. Padaczkowe i p. Depresyjne",
+		"learned": false
+	},
+	" 27) Dzialania nieporzadane SSRI ": {
+		"name": " 27) Dzialania nieporzadane SSRI ",
+		"text": "Lęk, bezsennosc, wyraziste sny, ahedonia, apatia, zab. funkcji seksualnych, zmianybmasyciala, ryzyko zespolu serotoninergicznego, zwiekszone ryzyko krwawien, U CHORYCH ZZABURZENIAMI LĘKOWYMI LECZENIE ZACZYNAMY OD MALYCH DAWEK I ZWIEKSZAMYSTOPNIOWO= NADMIERNA STYMULACJA REC 5HT2 POWODUJE UCZUCIE LĘKUMOZNA NA KROTKO POLACZYC Z BENZODIAZEPINAMI =SZYBSZY EFEKT USPOKAJAJACYSEROTONINA SUBST PROKOAGULACYJNE",
+		"learned": false
+	},
+	" 28) jak zniwelowac poczatkowo nasilony lek po SSRI? ": {
+		"name": " 28) jak zniwelowac poczatkowo nasilony lek po SSRI? ",
+		"text": "dolaczamy benzodiazepine max 2 tyg, pozniej odstawiamy a po 2 tyg juz dziala SSRI,najczesciej ALPRAZOLAM, moze byc kazda inna",
+		"learned": false
+	},
+	" 28) z jakimi lekami nie laczyc SSRI ": {
+		"name": " 28) z jakimi lekami nie laczyc SSRI ",
+		"text": "Z lekami zwiekszajacymi stymulacje serotoninergiczna inhibitory MAO, TLPD, buspiron,opioidy, tramadol",
+		"learned": false
+	},
+	" 28)zespol serotoninowy ": {
+		"name": " 28)zespol serotoninowy ",
+		"text": "kazde leki powodujace wzrost stez serotoniny NIE MOGA BYC RAZEM STOSOWANe np inhibMAO +SSRI/TLPD/TRAMADOL/",
+		"learned": false
+	},
+	" 28)dlaczego po SSRI zwiekszone krwawienie? ": {
+		"name": " 28)dlaczego po SSRI zwiekszone krwawienie? ",
+		"text": "kom nie uzyskuja wystarczajacej ilosci prokoagulacyjnej serotoniny przez zahamowanietransportera. Kom same nie syntetyzuja serotoniny",
+		"learned": false
+	},
+	" 29) jak stosowac leki przeciwdepresyjne ": {
+		"name": " 29) jak stosowac leki przeciwdepresyjne ",
+		"text": "Dobieramy indywidualnie, odstawiamy powoli, szybie odstawienie= objawy odstawienneALE P.DEPRESANTY NIE UZALEZNIAJA",
+		"learned": false
+	},
+	" 30) czy leki p.depresyjne uzalezniaja ": {
+		"name": " 30) czy leki p.depresyjne uzalezniaja ",
+		"text": "Nie",
+		"learned": false
+	},
+	" 31)Efekt terapeutyczny lekow p.depresyjnych ": {
+		"name": " 31)Efekt terapeutyczny lekow p.depresyjnych ",
+		"text": "po ok 2tyg",
+		"learned": false
+	},
+	" 32)Czas trwania terapii ": {
+		"name": " 32)Czas trwania terapii ",
+		"text": "Min 6 miesiecy, nie odstawiamy od razu!! ok 2 tyg moze powstac zespol dyskontynuacji, NIEUZALEZNIAJA",
+		"learned": false
+	},
+	" 34) SSRI w padaczce ": {
+		"name": " 34) SSRI w padaczce ",
+		"text": "nie obnizaja progu drgawkowego, bezpieczne TLPD obnizaja, nie w padaczce!!!",
+		"learned": false
+	},
+	" 33) sSRI w bezsennosci ": {
+		"name": " 33) sSRI w bezsennosci ",
+		"text": "umozliwia przewlekle leczenie bezsennosci; MIANSERYNA, TRAZODON AGOMELATYNA",
+		"learned": false
+	},
+	" 33) SSRI w leczeniu nikotyzmu ": {
+		"name": " 33) SSRI w leczeniu nikotyzmu ",
+		"text": "bupropion",
+		"learned": false
+	},
+	" 3)SSRI rodzaje ": {
+		"name": " 3)SSRI rodzaje ",
+		"text": "Fluoksetyna, fluwoksamina, paroksetyna, sertralina, citalopram, escitalopram",
+		"learned": false
+	},
+	" 34) Czy TLPD i SSRI mozna przedawkowac? ": {
+		"name": " 34) Czy TLPD i SSRI mozna przedawkowac? ",
+		"text": "TLPD tak, istnieje ryzyko zgonu po przedawkowaniuSSRI nie, po przedawkowaniu wzglednie bezpieczne",
+		"learned": false
+	},
+	" 35) ktore maja p.depr maja wplyw na uklad krazenia? ": {
+		"name": " 35) ktore maja p.depr maja wplyw na uklad krazenia? ",
+		"text": "TLPD",
+		"learned": false
+	},
+	" 36) Najczesciej stosowane leki w zaburzeniach lękowych ": {
+		"name": " 36) Najczesciej stosowane leki w zaburzeniach lękowych ",
+		"text": "TLPD,SSRI, benzodiazepiny, buspiron, hydroksyzyna",
+		"learned": false
+	},
+	" 37) co to neuroleptyki ": {
+		"name": " 37) co to neuroleptyki ",
+		"text": "Leki przeciwpsychotyczne, schizofrennia",
+		"learned": false
+	},
+	" 38) podzial neuroleptykow ": {
+		"name": " 38) podzial neuroleptykow ",
+		"text": "Klasyczne, atypowe,",
+		"learned": false
+	},
+	" 38) kiedy stosowane sa neuroleptyki ": {
+		"name": " 38) kiedy stosowane sa neuroleptyki ",
+		"text": "Schizofrenia, choroba afektywna, psychozy, stanyvmaniakalne, stany lękowe, napieciowe,wymioty, premedykacja, czkawka, otepienia",
+		"learned": false
+	},
+	" 39) Im silniej lek blokuje rec D2 to ": {
+		"name": " 39) Im silniej lek blokuje rec D2 to ",
+		"text": "Tym wieksze ryzyko dzialan nieporzadanych , objawow pozapiramidowych ihiperprolaktynemi",
+		"learned": false
+	},
+	" 40) jak wplywa na organizm blokowanie rec D2? ": {
+		"name": " 40) jak wplywa na organizm blokowanie rec D2? ",
+		"text": "przeciwpsychotycznie, p.wymiotnie, prowadzi do zaburzen pozapiramidowych,termoregulacji, do wzrostu wydzielania prolaktyny",
+		"learned": false
+	},
+	" 41) blokowanie rec L1 adrenolitycznego przez neeuroleptyki ": {
+		"name": " 41) blokowanie rec L1 adrenolitycznego przez neeuroleptyki ",
+		"text": "Hipotonia",
+		"learned": false
+	},
+	" 42) dlaczego neuroleptyki sa podstawa w leczeniu psychoz i schizofrenii? ": {
+		"name": " 42) dlaczego neuroleptyki sa podstawa w leczeniu psychoz i schizofrenii? ",
+		"text": "znosza objawy wytworcze pozytywne(omamy, urojenia) negatywne(rozszczep osobowosci,stepienie uczuciowe), znosi objawy depresyjne",
+		"learned": false
+	},
+	" 43) przyczyny objawow psychotycznych ": {
+		"name": " 43) przyczyny objawow psychotycznych ",
+		"text": "hiperaktywacja rec D, dlatego ich zablokowanie znosi psychozy, mozna to siagnac przezsprzezenia dopaminy z acetylocholina i serotonine",
+		"learned": false
+	},
+	" 43) czym sa urojenia ": {
+		"name": " 43) czym sa urojenia ",
+		"text": "Bledne przekonania niepodlegajace korekcji,nie zwiazane z kultura, duchowoscia ipoziomem wyksztalcenia.",
+		"learned": false
+	},
+	" 44) podzial urojen ": {
+		"name": " 44) podzial urojen ",
+		"text": "Przesladowcze, wplywu, odsloniecia mysli, nasyłania mysli, odnoszace",
+		"learned": false
+	},
+	" 45)dzialania nieporzadane neuroleptykow ": {
+		"name": " 45)dzialania nieporzadane neuroleptykow ",
+		"text": "Zaburzenia pozapiramidowe, hiperprolaktynemia, zaburzenia rytmu i przewodnictwa,hipotonia ortostatyczna, mielotoksycznosc,leukopenia, agranulocytoza, objawycholinolityczne, objawy z oun, wzrost masy ciala hiperglikemia, uszkodz watroby, nadwrazliwosc na uv",
+		"learned": false
+	},
+	" 46) zaburzenia pozapiramidowe ": {
+		"name": " 46) zaburzenia pozapiramidowe ",
+		"text": "Parkinsonizm polekowy - spowolnienie ruchowe,sztywnosc, maskowata twarz,drzeniamiesnioweDyskinezy, akatyzja polekowa(niepokoj ruchowy konczyn gornych dolnych i tulowia, ciaglapotrzeba poruszania sie), zlosliwy zespol poneuroleptyczny (jest stanem zagrozenia zycia)",
+		"learned": false
+	},
+	" 47) powiklania ruchowe po neuroleptykach przy ": {
+		"name": " 47) powiklania ruchowe po neuroleptykach przy ",
+		"text": "Przewlekle stosowanie, gwaltowne ich odstawienie",
+		"learned": false
+	},
+	" 48) hiperprolaktynemia ": {
+		"name": " 48) hiperprolaktynemia ",
+		"text": "Mlekotok, ginekomastia, brak miesiaczki, zaburzenia libido i owulacji, osteoporoza",
+		"learned": false
+	},
+	" 49) objawy cholinolityczne ": {
+		"name": " 49) objawy cholinolityczne ",
+		"text": "Zaburzenia mikcji, akomodacji, defekacji-zaparcia, tachykardia, suchosc w jamie ustnej",
+		"learned": false
+	},
+	" 50) neuroleptyki klasyczne ": {
+		"name": " 50) neuroleptyki klasyczne ",
+		"text": "Pochodne fenotiazyny( alifatyczne, piperydynowe, piperazynowe)pochodne butyrofenonuPochodne tioksantenuPochodne benzamidu",
+		"learned": false
+	},
+	" 51) pochodne fenotiazyny neur.klas. alifatyczne- ": {
+		"name": " 51) pochodne fenotiazyny neur.klas. alifatyczne- ",
+		"text": "Chlorpromazyna, promazyna, lewopromazyna,",
+		"learned": false
+	},
+	" 52) poch fenotiazyny piperidynowe ": {
+		"name": " 52) poch fenotiazyny piperidynowe ",
+		"text": "- tiorydazyna, mapazyna, mezorydazyna, perymetazynaSLABE DZIALANIE P.PSYCHOTYCZNE, MALE RYZYKO OBJAWOW POZAPIRAMIDOWYCH",
+		"learned": false
+	},
+	" 52)pochodne fenotiazyne piperazynawe ": {
+		"name": " 52)pochodne fenotiazyne piperazynawe ",
+		"text": "Perazyna, perfenazyna, prochlorperazyna, trifluoperazyna,THIETYLPERAZYNA =TORECAN W TAB AMP I CZOPK 0,0065, STOSOWANA JAKO LEKP.WYMIOTNY A NIEP.PSYCHOT, LECZENIE NUDNOSCI WYM I ZAWR GLOWY",
+		"learned": false
+	},
+	" 53) POCHODNE butyrofenonu ": {
+		"name": " 53) POCHODNE butyrofenonu ",
+		"text": "Haloperidol, droperidol do neuroleptoanalgezji",
+		"learned": false
+	},
+	" 54) haloperidol ": {
+		"name": " 54) haloperidol ",
+		"text": "Tabl, krople doustne, silniejszy od chlorpromazyny, p.wymiotnie, moze wywolac depresje,haloperidol ,001; 0,005, amp. 5mghaloperidol WZF 0.2% krople doustne 0.002/ml (10ml)haloperidol unia 0.002/ml; kropl 10 i 100 mldecaldol - spowolnione uwalnianieKROPLE 20 kropli to 1 ml czyli 2 mg subst czynnej",
+		"learned": false
+	},
+	" 55) pochodne tioksantenu ": {
+		"name": " 55) pochodne tioksantenu ",
+		"text": "Chlorprotiksen, flupentiksol, zuklopentiksol",
+		"learned": false
+	},
+	" 56) pochodne benzamidu ": {
+		"name": " 56) pochodne benzamidu ",
+		"text": "Sulpiryd",
+		"learned": false
+	},
+}
