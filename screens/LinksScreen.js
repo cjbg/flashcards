@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 import {
   ScrollView,
   StyleSheet,
@@ -6,15 +6,16 @@ import {
   Navigator,
   Text,
   View,
-} from 'react-native';
+} from "react-native";
 import {
   ExponentLinksView,
-} from '@exponent/samples';
+} from "@exponent/samples";
 
-import { TaskList } from '../components/TaskList';
+import { TaskList } from "../components/TaskList";
 
-import sleepMeds from '../assets/sleepMeds';
-import sleepMedsOld from '../assets/sleepMeds_Old';
+import sleepMeds from "../assets/sleepMeds";
+import sleepMedsOld from "../assets/sleepMeds_Old";
+import meds3 from "../assets/meds3";
 
 const styles = StyleSheet.create({
   container: {
@@ -23,25 +24,25 @@ const styles = StyleSheet.create({
   },
   button: {
     height: 45,
-    borderColor: '#05A5D1',
+    borderColor: "#05A5D1",
     borderWidth: 2,
-    backgroundColor: '#333',
+    backgroundColor: "#333",
     margin: 3,
-    justifyContent: 'center',
-    alignItems: 'center',
+    justifyContent: "center",
+    alignItems: "center",
   },
   buttonText: {
-    color: '#FAFAFA',
+    color: "#FAFAFA",
     fontSize: 20,
-    fontWeight: '600',
+    fontWeight: "600",
   },
   headerContainer: {
-    alignItems: 'flex-start',
+    alignItems: "flex-start",
     marginHorizontal: 10,
     marginTop: 20,
     marginBottom: 20,
     borderBottomWidth: 2,
-    borderBottomColor: 'black',
+    borderBottomColor: "black",
   },
   headerText: {
     fontSize: 26,
@@ -57,19 +58,24 @@ export default class LinksScreen extends React.Component {
 
   onSleepMedsOldStarted(){
     this.nav.push({
-      name: 'sleepMedsOld',
+      name: "sleepMedsOld",
     });
   }
 
   onSleepMedsStarted(){
     this.nav.push({
-      name: 'sleepMeds',
+      name: "sleepMeds",
+    });
+  }
+  onMeds3Started(){
+    this.nav.push({
+      name: "meds3",
     });
   }
 
   renderScene(route, nav){
     switch(route.name){
-      case 'sleepMeds':
+      case "sleepMeds":
         return(
           <TaskList
             flashcards={sleepMeds}
@@ -77,14 +83,22 @@ export default class LinksScreen extends React.Component {
             onNavBack={this.onNavBack.bind(this)}
           />
         );        
-      case 'sleepMedsOld':
+      case "sleepMedsOld":
         return(
           <TaskList
             flashcards={sleepMedsOld}
             groupTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
           />
-        );        
+        );
+      case "meds3":
+        return(
+          <TaskList
+            flashcards={meds3}
+            groupTitle={"Trzecia część"}
+            onNavBack={this.onNavBack.bind(this)}
+          />
+        );       
       default:
       return(
         <ScrollView
@@ -105,7 +119,7 @@ export default class LinksScreen extends React.Component {
             onPress={this.onSleepMedsOldStarted.bind(this)}
             style={styles.button}>
             <Text style={styles.buttonText}>
-                  Stare
+                  Pierwsze
               </Text>
           </TouchableHighlight>
 
@@ -113,8 +127,16 @@ export default class LinksScreen extends React.Component {
             onPress={this.onSleepMedsStarted.bind(this)}
             style={styles.button}>
             <Text style={styles.buttonText}>
-                  Nowe
+                  Drugie
               </Text>
+          </TouchableHighlight>
+
+          <TouchableHighlight
+            onPress={this.onMeds3Started.bind(this)}
+            style={styles.button}>
+            <Text style={styles.buttonText}>
+                  Trzecie
+            </Text>
           </TouchableHighlight>
 
         </ScrollView>
@@ -129,7 +151,7 @@ export default class LinksScreen extends React.Component {
   render() {
     return (
       <Navigator
-        initialRoute={{name: 'tasklist', index: 0 }}
+        initialRoute={{name: "tasklist", index: 0 }}
         ref={( (nav) => {
           this.nav = nav;
         })}

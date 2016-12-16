@@ -1,0 +1,722 @@
+{
+	"neuroleptoanalgezja": {
+		"name": "neuroleptoanalgezja",
+		"text": "	znieczulenie bez utraty przytomnosci, skladalasie z neuroleptyku+ opioidu",
+		"learned": false
+	},
+	"obecna analgosedacja sklada sie z": {
+		"name": "obecna analgosedacja sklada sie z",
+		"text": "	fenantyl+ np midazolam",
+		"learned": false
+	},
+	"kiedy i jakie ampulki haloperidolu?": {
+		"name": "kiedy i jakie ampulki haloperidolu?",
+		"text": "	nagle napady, przewlekle DECALDOL amp0,05/ml w leczeniu przewleklym, 1 zastrzyk na30 dni",
+		"learned": false
+	},
+	"jak pacjent wymiotuje to leki": {
+		"name": "jak pacjent wymiotuje to leki",
+		"text": " p.wymiotne w amp i czopkach, omijanie drogi pokarmowej",
+		"learned": false
+	},
+	"chlorpromazyna": {
+		"name": "chlorpromazyna",
+		"text": "	fenactil amp 0.025/5ml; 0,05/2ml im",
+		"learned": false
+	},
+	"promazyna": {
+		"name": "promazyna",
+		"text": "	promazin tab 0,025; 0,05; 0,1",
+		"learned": false
+	},
+	" thietylperazyna": {
+		"name": " thietylperazyna",
+		"text": "	TORECAN p.wymiotne tabl, amp,czopki0.0065(3x1) nie P.PSYCHOTYCZNIE, jezeliaktywnie wymiotuje to czopki/amp",
+		"learned": false
+	},
+	"chlorprotiksen": {
+		"name": "chlorprotiksen",
+		"text": "	Chlorprothixen tabl 0,015; 0,05 p/depresyjnie,p/lekowe, p/psychotycznie slabo;",
+		"learned": false
+	},
+	"Sulpiryd": {
+		"name": "Sulpiryd",
+		"text": "	sulpiryd tab 0.05; 0,1; 0,2 ( i klasyczna iatypowa)",
+		"learned": false
+	},
+	"tiapryd": {
+		"name": "tiapryd",
+		"text": "	Tiapryd tab 0,1 pochodna benzamidu, neurol.Klasyczny",
+		"learned": false
+	},
+	"Olanzapina": {
+		"name": "Olanzapina",
+		"text": "	zolafren j.nolzapin tabl 0,005; 0,01; 1xdzienniezyprexa j.wzolafren swift- rozpad w ustach 0,005; 0,01; 0,015; 0,02 (1 tab do ssania)ma tez dzialanie przeciwwymiotnie w leczeniu onkologicznym 5-20 mg na dobe",
+		"learned": false
+	},
+	"przeciwwymiotnie": {
+		"name": "przeciwwymiotnie",
+		"text": "	haloperidol, thetylperazyna, metoclopramid,olanzapina( ale nie przy ciezkich wymiotach bodostepna tylko w tabletkach)",
+		"learned": false
+	},
+	"jak dzielimy bol": {
+		"name": "jak dzielimy bol",
+		"text": "	czas trwania (ostry<3msc< przewlekly);patomechanizm (receptorowy- podraznienienerwow, neuropatyczny- uszkodzenie nerwow)",
+		"learned": false
+	},
+	"podzial lekow przeciwbolowych": {
+		"name": "podzial lekow przeciwbolowych",
+		"text": "	opioidy - slabe i silne; nieopioidowe",
+		"learned": false
+	},
+	"nieopioidowe analgetyki": {
+		"name": "nieopioidowe analgetyki",
+		"text": "	NLPZ paracetamol metamizol",
+		"learned": false
+	},
+	"drabina analgetyczna": {
+		"name": "drabina analgetyczna",
+		"text": "	bol slaby - nieopioidowe; sredni - slabe `opioidy(tramadol), silny bol - silne opioidy",
+		"learned": false
+	},
+	"silne opioidy": {
+		"name": "silne opioidy",
+		"text": "	morfina fenantyl buprenorfina oksykodonmetadon",
+		"learned": false
+	},
+	" Koanalgetyki": {
+		"name": " Koanalgetyki",
+		"text": "	zmniejszaja odczucie bolu, mozna laczyc z	analgetykiem na kazdym stopniu, p/depresyjne i	p/padaczkowe",
+		"learned": false
+	},
+	"slabe opioidy": {
+		"name": "slabe opioidy",
+		"text": "	kodeina, dihdrokodeina, tramadol",
+		"learned": false
+	},
+	"dzialania nlpz": {
+		"name": "dzialania nlpz",
+		"text": "	przeciwzapalne, przeciwgoraczkowe, przeciwbolowe,	antyagregacyjne, inhibicja COX 1,2,3 prederencyjnie,	wybiorczo, selektywnie i nieselektywnie",
+		"learned": false
+	},
+	"COX-1": {
+		"name": "COX-1",
+		"text": "	konstytutywna, caly czas istnieje w organizmie,	odpowiada za tworzenie txa2, pgi2 pge2; pge2	nefroprotekcyjnie; pgi2 gastroprotekcyjnie",
+		"learned": false
+	},
+	"COX-2": {
+		"name": "COX-2",
+		"text": "	indukowana, powstaje w odp na czynnik wywolujacy	zapalenie, charakterystyczna dla zapalenia; PGI2	antyagregacyjne, zmniejsza przepuszczalnosci,	rozszerza naczynia, dlatego cox2 na stale obecna w	Naczyniach",
+		"learned": false
+	},
+	"	COX-3": {
+		"name": "	COX-3",
+		"text": "	wystepuje w OUN, hamowana przez paracetamol i	Metamizol",
+		"learned": false
+	},
+	"	hamowanie cox1 selektywnie": {
+		"name": "	hamowanie cox1 selektywnie",
+		"text": "	ASA- przeciwagregacyjnie",
+		"learned": false
+	},
+	"COX nieselektywnie hamuja": {
+		"name": "COX nieselektywnie hamuja",
+		"text": "	ibuprofen, naproxen, ketoprofen, diklofenak, proxican,	indometacyna	",
+		"learned": false
+	},
+	"COX2 preferencyjne": {
+		"name": "COX2 preferencyjne",
+		"text": "	nimesulid, meloksykam",
+		"learned": false
+	},
+	"COX2 wysoko selektywne": {
+		"name": "COX2 wysoko selektywne",
+		"text": "	Celokoksyb",
+		"learned": false
+	},
+	"	wskazania nlpz": {
+		"name": "	wskazania nlpz",
+		"text": "	ostre i przewlekle zespoly bolowe o malym i	umiarkowanym nasileniu, bole kostno stawowe,	prewencja chorob zakrzepowych",
+		"learned": false
+	},
+	"objawy niepozadane przewod pokarmowy": {
+		"name": "objawy niepozadane przewod pokarmowy",
+		"text": "	uszkodzenie bl sluzowej przew		pokarmowego, bole nudnosci,		owrzodzenia i wrzody w calym odcinku		przew pokarmowego, krwawienia,		anemia, wieksze ryzyko ze strony COX1",
+		"learned": false
+	},
+	"ktory nlpz najbardziej gastrotoksycznie?": {
+		"name": "ktory nlpz najbardziej gastrotoksycznie?",
+		"text": "	ketoprofen, najbardziej uszkadz przew		pokarmowy, nawet przy krotkiej terapi,		nie zalezy od drogi podania",
+		"learned": false
+	},
+	"Laczenie nlpz": {
+		"name": "Laczenie nlpz",
+		"text": "		nie laczymy, nie daja wiekszego		dzialania tylko nasila sie ilosc dzialan		Nieporzadanych",
+		"learned": false
+	},
+	"zmniejszenie ryzyka gastropatii	": {
+		"name": "zmniejszenie ryzyka gastropatii	",
+		"text": "	przyjmowac z posilkiem, popicie duzailoscia plynu, stosowanie IPP przy NLPZchroni przed uszkodzeniem bl sluzgornych drog pok, wybieranie NLPZnajmniej drazniacego p pok wybiorczegoCOX 1",
+		"learned": false
+	},
+	"nefrotoksycznosc NLPZ": {
+		"name": "nefrotoksycznosc NLPZ",
+		"text": "	zablokowanie COX, zmniejszanie przsaczaniaklebuszkowego, niewydolnosc nerek, retencjasodu i wody, obrzeki, nadcisnienie,niewydolnosc serca",
+		"learned": false
+	},
+	"nlpz w chorobach ukl krazenia": {
+		"name": "nlpz w chorobach ukl krazenia",
+		"text": "	zmniejszaja skutecznosc bblok, sartanow,diuretykow, nasilaja obrzeki, zwiekszeniecisnienia, moga nasilac objawy niewydolnoscserca, na nadcisnienie najgorzej IBUPROFEN,niedokrwistosc aplastyczna i agranulocytoza -mielotoksyczne",
+		"learned": false
+	},
+	"nlpz a toksycznosc dla watroby": {
+		"name": "nlpz a toksycznosc dla watroby",
+		"text": "	wzrost aminotransferaz",
+		"learned": false
+	},
+	"nlpz a oun": {
+		"name": "nlpz a oun",
+		"text": "	ototksycznosc ale nie stala, bole i szumy wuszach, bole glowy, drzenia miesni",
+		"learned": false
+	},
+	"reakcje nadwrazliwosci NLPZ": {
+		"name": "reakcje nadwrazliwosci NLPZ",
+		"text": "	pokrzywka, fotodermatoza, astma oskrzelowa-aspirynowa( najczesciej na wiekszosc nlpz);przez to Ketoprofen na recepte, nie  wychodzicna slonce,",
+		"learned": false
+	},
+	"Najmniejsze ryzyko chorobserc-nacz zatorowo zakrzepowych ma ": {
+		"name": "Najmniejsze ryzyko chorobserc-nacz zatorowo zakrzepowych ma ",
+		"text": "    Naproksen",
+		"learned": false
+	},
+	"ktore nlpz zwiekszaja ryzyko chorob zakrzepowych?": {
+		"name": "ktore nlpz zwiekszaja ryzyko chorob zakrzepowych?",
+		"text": "	hamujacy glownie COX2",
+		"learned": false
+	},
+	"ASA kw acetylosalic": {
+		"name": "ASA kw acetylosalic",
+		"text": "	hamuje wybiorczo COX1, nieodwracalniehamuje cox1, w dawkach 75mg ma dzialanieantyagregacyjnie, hamuje plytkowa syntezeTXA2; zniesienie dzialania na 5-7dni bo tylezyja plytki. PROFLAKTYKA PO ZAWALACH(odstawiany ok tygodnia przed zabiegami operacyjnymi, nie musimy odstawiac przed zabiegami stomatologicznymi, w dawce 2-3g p/bolowo ip/goraczkowo; 4-6 p/zapalnie)",
+		"learned": false
+	},
+	"pacjenci z chns": {
+		"name": "pacjenci z chns",
+		"text": "	asa do konca zycia 1x75mg",
+		"learned": false
+	},
+	"ASA": {
+		"name": "ASA",
+		"text": "	acard, polocard, cardiopirin 75mg, zawsze ok 2h przedinnymi NLPZ, unikac ibuprofenu i naproxenu, jak trzebato stosowac sie do godzin przyjmowaniapolopiryna tab 500mg; polopiryna s 300mg",
+		"learned": false
+	},
+	"ibuprofen informacje": {
+		"name": "ibuprofen informacje",
+		"text": "	slaby, krotkodzialajacy, zmniejsza dzialanieantyagregacyjne ASA, podawac 8h przed lub 0,5h poasa;",
+		"learned": false
+	},
+	"ibuprofen dawk.": {
+		"name": "ibuprofen dawk.",
+		"text": "	4-6x 200-400mg, max 2,4g/dnurofen 200 i 400mg",
+		"learned": false
+	},
+	"ketoprofen informacje": {
+		"name": "ketoprofen informacje",
+		"text": "	silniep/zapal, krotko dziala,fotodermatozy nadmiernej ekspozycji na uv,GASTROTOKSYCZNIE",
+		"learned": false
+	},
+	"Ketoprofen": {
+		"name": "Ketoprofen",
+		"text": "	ketonal/ ketonal forte 100 x2/d duo1xdziennie ampulki 100mgprofenid czopki100mg, tabl o przedl uw200mg",
+		"learned": false
+	},
+	"deksketoprofen": {
+		"name": "deksketoprofen",
+		"text": "	mniej gastrotoksyczny, mniejsza dawka wystarczy, DEXAK25,50mg tabl",
+		"learned": false
+	},
+	"naproksen inform": {
+		"name": "naproksen inform",
+		"text": "	lek pierwszego wyboru u pacjentow kardiologicznych,dlugodzialajacy, toksyczny ototoksyczny, dawkowanie2-3x dziennie,",
+		"learned": false
+	},
+	" Naproksen": {
+		"name": " Naproksen",
+		"text": "	apo-napro 250,500mg; naxii 220mg, max 1g/d ",
+		"learned": false
+	},
+	" diclofenac inf": {
+		"name": " diclofenac inf",
+		"text": "	blokuje COX1 i COX2, nieselektywne inhibitory, najbardziejhepatotoksyczny, duze ryzyko zdarzen zakrzepowych, mimo ze jestnieselektywny to w praktyce daje powiklania jak wysoko selektywneinh COX2, u pacjentow z powikl serc-naczyniowymi trzeba siezastanowic, NIE WCHODZI W INTERAKCJE Z ASA",
+		"learned": false
+	},
+	"diclofenac": {
+		"name": "diclofenac",
+		"text": "	diclac czopki 50,100mgdiclac tab 50mgdiclac duo combi ( z inh h+) 75mg + 20mg",
+		"learned": false
+	},
+	"nimesulid inf": {
+		"name": "nimesulid inf",
+		"text": "	hamuje cox zwlaszcza 2, hamuje aktywacje neutrofilow, migracje,hamuje produkcje cytokin, zmniejsza wrazenia bolowe na subst P, NIEREDUKUJE P/PLYTKOWEGO DZIALANIA ASA",
+		"learned": false
+	},
+	"Nimesulid": {
+		"name": "Nimesulid",
+		"text": "	NIMESIL, AULIN- granulat do sporz r-r 100mg, 2x100/d",
+		"learned": false
+	},
+	"kardiologiczni pacjenci ": {
+		"name": "kardiologiczni pacjenci ",
+		"text": "najlepiej naproxen (egzamin), jezeli w zyciu pacjent bierze asa p/zakrz to najlepiej nimesulid",
+		"learned": false
+	},
+	"flurbiprofen": {
+		"name": "flurbiprofen",
+		"text": "	w tabl do ssania, STREPSIL",
+		"learned": false
+	},
+	"LORNOKSYKAM": {
+		"name": "LORNOKSYKAM",
+		"text": "	XefoRapid 8mg 2x1tabl",
+		"learned": false
+	},
+	"Koksyby": {
+		"name": "Koksyby",
+		"text": "	COX-2 wybiorcze NLPZ, mniejsze prawdopod powiklan ze str przewpok i nerek, wieksze ryzyko powiklan zatorowo-zakrzepowych,zwiekszenie ilosci zawalow, udarow, na rynku pozotal jeden produkt,CELEKOKSYB",
+		"learned": false
+	},
+	"CELEKOKSYB": {
+		"name": "CELEKOKSYB",
+		"text": "	Celebrex tabl 100; 200 mg 1-2xdziennie",
+		"learned": false
+	},
+	"wypisywanie NLPZ": {
+		"name": "wypisywanie NLPZ",
+		"text": "   osoba bez powiklan - dowolnyosoba po zawale- naproxenosoba z chor pokarm- koksybyzawal + p pokarm – paracetamol",
+		"learned": false
+	},
+	"w praktyce, gdy pacjentchory na wszystko": {
+		"name": "w praktyce, gdy pacjentchory na wszystko",
+		"text": "	najmniej szkodliwe diclofenac i nimesulid",
+		"learned": false
+	},
+	" efekt pulapowy NLPZ": {
+		"name": " efekt pulapowy NLPZ",
+		"text": "	po przekroczeniu pewnej dawki max po ktorejnie osiagamy zwieksz sily p/bolowch tylkopzwiekszamy dzial nieporzadane",
+		"learned": false
+	},
+	"interakcje NLPZ": {
+		"name": "interakcje NLPZ",
+		"text": "	oslabiaja leki hipotensyjne imoczopedne b blok IKA, sartanow, diuretykowzwiekszaja dzialanie doustnych koagul,antyagregacyjnych, hipoglikemizujacych, sterydow,mukolitykow, SSRI, spironolaktonu",
+		"learned": false
+	},
+	"METAMIZOL inf": {
+		"name": "METAMIZOL inf",
+		"text": "	hamowanie COX 3 i COX-2 selektywnie; najsilniejszylek przeciwbolowy, duzo dzialan nieporzadanych -agranulocytoza, wstrzas anafilaktyczny,bezwzglednieprzeciwwskazany w ciazy, NIE PRZECIWZAPALNY!!",
+		"learned": false
+	},
+	"metamizol preparaty": {
+		"name": "metamizol preparaty",
+		"text": "	pyralgin 500mg, scopolan amp500mg+0,02mg+2mg/5ml- z butylobromkiem hioscyny",
+		"learned": false
+	},
+	"PARACETAMOL inf": {
+		"name": "PARACETAMOL inf",
+		"text": "	hamuje COX-3 w oun, NIE MA DZIALANIA P/ZAP,mozna stosowac w ciazy, nie ma dzialaniaantyagregacyjnego, nie uszkadza ppok i nerek, dawkamax 4g/d; toksyczna 10g, alkoholicy, chorzy zuszkodzana watroba mniejsza dawka jest toksyczna.Przy przedawkowaniu= niewydolnosc watroby",
+		"learned": false
+	},
+	"Paracetamol": {
+		"name": "Paracetamol",
+		"text": "	panadol, apap 500mg",
+		"learned": false
+	},
+	"N-actetylocysteina": {
+		"name": "N-actetylocysteina",
+		"text": "	odtrutka na zatrucie paracetamolu np ACC na kaszel,10-15h po przyjeciu toksycznej dawki.",
+		"learned": false
+	},
+	"NEFOPAM informacje": {
+		"name": "NEFOPAM informacje",
+		"text": "	hamuje wychwyt zwrotny 5HT i NA; ma to wplywantynocyceptywny, nie ma dzialania p/zap iantyagregacyjnego; 2-gi szczebel drabinyanalgetycznej,",
+		"learned": false
+	},
+	"NEFOPAM dz niep": {
+		"name": "NEFOPAM dz niep",
+		"text": "	tachykardia, sennosc, sedacja",
+		"learned": false
+	},
+	"II szczebel drabiny analget prepar  ": {
+		"name": "II szczebel drabiny analget prepar  ",
+		"text": " slabe opioidy(tramadol, kodeina nefopam) i male dawkisilnych opioidow morfiny i oksykodonu",
+		"learned": false
+	},
+	"opioidy podzial": {
+		"name": "opioidy podzial",
+		"text": "	czysci agonisci rec u(mi), mieszani agonisci iantagonisci; czesciowi agonisci; czysci antagonisci",
+		"learned": false
+	},
+	" opioidy wskazania": {
+		"name": " opioidy wskazania",
+		"text": "	bole ostre, pooperacyjne, przewlekle umiarkowane isilne, nowotworowe, nienowotworowe,neuropatie, inne-biegunki, kaszel, uzaleznienie, znoszenie depresji osroddech, obrzek pluc kardiogenny! (zawal-morfina)",
+		"learned": false
+	},
+	"opioidy przeciwko biegunce": {
+		"name": "opioidy przeciwko biegunce",
+		"text": "	loperamid, difenoksylat",
+		"learned": false
+	},
+	"opioidy przeciwkaszlowe": {
+		"name": "opioidy przeciwkaszlowe",
+		"text": "	kodeina, dekstrometorfan",
+		"learned": false
+	},
+	"opioidy w uzaleznieniu": {
+		"name": "opioidy w uzaleznieniu",
+		"text": "	metadon, czasem buprenorfina",
+		"learned": false
+	},
+	"jaki receptor blokuja/pobudzaja opioidy? ": {
+		"name": "jaki receptor blokuja/pobudzaja opioidy? ",
+		"text": "  u - glowny rec opioidowy, (delta, kappa)",
+		"learned": false
+	},
+	"gdzie sa rec u?": {
+		"name": "gdzie sa rec u?",
+		"text": "	oun, p/pokarmowy- stad zaparcia po ich pobudzeniu",
+		"learned": false
+	},
+	"czysci agonisci rodzaje": {
+		"name": "czysci agonisci rodzaje",
+		"text": "	morfina i inne alkaloidy opium; leki polsyntetyczne;",
+		"learned": false
+	},
+	"syntetycznemorfina i inne alkaloidy opium ": {
+		"name": "syntetycznemorfina i inne alkaloidy opium ",
+		"text": "     alk. fenantrenowe- morfina kodeina; alkbenzyloizochinolinowe – papaweryna",
+		"learned": false
+	},
+	"leki opioid polsyntet czysci agonisci ": {
+		"name": "leki opioid polsyntet czysci agonisci ",
+		"text": "      oksykodon",
+		"learned": false
+	},
+	"czysci agonisci- syntetyczne   ": {
+		"name": "czysci agonisci- syntetyczne   ",
+		"text": "    dekstrometorfan; fenantyl; petydyna; difenoksylat;loperamid, metadon, propoksyfen lewoproksyfen",
+		"learned": false
+	},
+	"mieszani agon/antag": {
+		"name": "mieszani agon/antag",
+		"text": "	pentacytozyna",
+		"learned": false
+	},
+	"czesciowi agonisci": {
+		"name": "czesciowi agonisci",
+		"text": "	buprenorfina",
+		"learned": false
+	},
+	"leki antagonistyczne opioid.": {
+		"name": "leki antagonistyczne opioid.",
+		"text": "	nalokson, naltrekson",
+		"learned": false
+	},
+	"dzialanie osrodkowe morfiny   ": {
+		"name": "dzialanie osrodkowe morfiny   ",
+		"text": "    przeciwbolowe - swoiste, wystepuje w kazdej dawcenawet jesli nie wplywaja na inne doznania,uspokajajace, sennosc, sedacja spowolnienie myslenia,przeciwkaszlowe, depr. osr oddech- oslabia wrazliwosc na pco2, wplyw na osr wymiotny - dwufazowo najpierw pobudza, pozniej hamuje, zwezenie zrenic, obnizenie progu drgawkowego, zwieksza wydz ADH",
+		"learned": false
+	},	
+	"metoclopramid": {
+		"name": "metoclopramid",
+		"text": "	blokuje d2 - przeciwwymiotnie, pobudzaja perystaltykedlatego stosowane chetnie z morfina ktora rozleniwiaorganizm",
+		"learned": false
+	},
+	" wplyw morfiny na nastroj": {
+		"name": " wplyw morfiny na nastroj",
+		"text": "	poczatkowo sennosc, obnizenie nastroju, przydluzszym stosowaniu podwyzszenie nastroju, euforia -NIE PO POSTACI DDOUSTNEJ, tylko dozylnie",
+		"learned": false
+	},
+	"dawka max morfiny": {
+		"name": "dawka max morfiny",
+		"text": "	nie istnieje, max to taka jak dziala p/bolowo i nieusmiercimy pacjenta",
+		"learned": false
+	},
+	"proces miareczkowania": {
+		"name": "proces miareczkowania",
+		"text": "	silne opioidy morfina fentanyl - nie maja efektupulapowego, powolne zwiekszanie dawki zawszepociaga zwiekszone dzialanie",
+		"learned": false
+	},
+	"dzialanie obwodowe morfiny    ": {
+		"name": "dzialanie obwodowe morfiny    ",
+		"text": "   dziala na miesnie gladkie - skurcz; zaparcia NIESTOSOWAC W KOLCE NERKOWEJ I WATROBOWEJ,skurcze macicy - hamowanie, uwalnianie histaminy, alerozkurcz miesniowki naczyn!!",
+		"learned": false
+	},
+	"metabolizm morfiny": {
+		"name": "metabolizm morfiny",
+		"text": "	silny efekt pierwszego przejscia w watrobie;w watrobie przeksztalcana do morfino-6-glukuronianuktory ma wieksza sile dzialania niz zwykla morfina;preferowana droga podania doustna, podskorna, NIEDOMIESNIOWO BO BARDZO BOLI",
+		"learned": false
+	},
+	"dawkowanie morfiny": {
+		"name": "dawkowanie morfiny",
+		"text": "	p.o, podskornie, dawka dobierana indywidualnie, przezmiareczkowanie, po ustaleniu dawki przechodzimy natabl o kontrolowanym uwalnianiu, poczatkowo ok30mg/d podzielone na 6 dawek czyli jednorazowo5mg!!! - preparaty krotkodzial; tabl o przedl dzialaniu2xdziennie",
+		"learned": false
+	},
+	"roztwory morfiny": {
+		"name": "roztwory morfiny",
+		"text": "	0,5% r-r = 5mg morfiny; 1% = 10mg morfiny,krotkodzialajace, co 4-6h; dawki zwiekszamystopniowo",
+		"learned": false
+	},
+	"co stosowac w bolach porodowych ": {
+		"name": "co stosowac w bolach porodowych ",
+		"text": "petydyna i pentacytozyna, NIE WOLNO MORFINY I FENTANANYLU",
+		"learned": false
+	},
+	"dzial niep morfiny- ukl pok": {
+		"name": "dzial niep morfiny- ukl pok",
+		"text": "	nudnosci, wymioty,zaparcia",
+		"learned": false
+	},
+	"dzial niep morfinu oun": {
+		"name": "dzial niep morfinu oun",
+		"text": "	sennosc, uposledzenie czynnosci poznawczych,halucynacje, majaczenie, depresja osr oddech, drgawki",
+		"learned": false
+	},
+	"dzial niep morfiny skora": {
+		"name": "dzial niep morfiny skora",
+		"text": "	swiad, potliwosc",
+		"learned": false
+	},
+	"przeciwwskazania morfina": {
+		"name": "przeciwwskazania morfina",
+		"text": "	astma oskrzelowa bo nasila uwalnianie histaminy,niewyd oddech, urazy czaszki i oun, nadcisnieniesrodczaszkowe, alkoholizm, psychozy, kolka zolciowa inerkowa, porod, ciaza - ostatnie 2 tyg, zab rytmu serca",
+		"learned": false
+	},
+	"preparaty morfiny": {
+		"name": "preparaty morfiny",
+		"text": "	SEVREDOL 20mg tabl zwykle DOLTARD - przedl dzial (10,30,60,100mg) 2xd; MTS CONTINUS VENDAL ret. 10,30,60,100,200mg - tabl o przedl uwalnianiu nie wolno rozgryzac ani rozgniatac Morphini sulfas amp 10,20mg; dawkujemy podskornie na poczatku 10mg czyli jedna amp na dzien i jedna ampulke dzielimy na 4-6 dawek",
+		"learned": false
+	},
+	"przy wlaczaniu opioidow zawsze dodajemy?": {
+		"name": "przy wlaczaniu opioidow zawsze dodajemy?",
+		"text": "      subst rzeczyszczajace np lactulosa",
+		"learned": false
+	},
+	"przeliczanie dawek morf z doustnej na dozylna": {
+		"name": "przeliczanie dawek morf z doustnej na dozylna",
+		"text": "    pozajelitowe mniejsze o 1/2 lubstanowia 1/3",
+		"learned": false
+	},
+	"recepty na opioidy": {
+		"name": "recepty na opioidy",
+		"text": "	powt dawki slownie, Rpw!!RpwMorphini hydrochloridi 2,0Aquae destilatae ad 400,0MfsolutioDS 1ml lub {20 kropli} (5mg) co 4hLacznie dwa gramy morfiny",
+		"learned": false
+	},
+	"oksykodon preparaty": {
+		"name": "oksykodon preparaty",
+		"text": "	Oxydolor, Oxynorm 5;10;20;40;80mg, preparat zlozony -Targin(oksykodon + nalokson) - nalokson blokuje rec uantyzaparciowo, oksykodon przeciwbolowo dlategotakie polaczenie",
+		"learned": false
+	},
+	"kodeina informacje	": {
+		"name": "kodeina informacje	",
+		"text": "metabolizowana do morfiny, glownie wykorzystywanajako lek p/kaszlowy, wchodzi w sklad lekow zlozonychz NLPZ lub paracetamolem - nurofen, efferalgan,thicodin; nie wykorzystywana jako prep. p/bolowy;wchodzi w sklad lekow zlozonych z NLPZ",
+		"learned": false
+	},
+	"efekt przeciwkaszlowy": {
+		"name": "efekt przeciwkaszlowy",
+		"text": "	maja kazde opioidy",
+		"learned": false
+	},
+	"kodeina preparaty": {
+		"name": "kodeina preparaty",
+		"text": "	antidol(paracetamol+ codeina)500mg+15mg; daflagancodeine(500mg+30mg);",
+		"learned": false
+	},
+	"dekstrometorfan informacje": {
+		"name": "dekstrometorfan informacje",
+		"text": "	p/kaszlowy, UZALEZNIA, bezpieczny w dawkachterapeutycznych - 90mg/d, srodek psychoaktywny wdawce 225-1500mg; wystepuje w preparatachzlozonych gripex max/ noc; grypolek, dexapico,dexapini",
+		"learned": false
+	},
+	"dekstrometorfan preparaty": {
+		"name": "dekstrometorfan preparaty",
+		"text": "	Acodin tab 15mg; Mucotussin syrop 2mg/ml 190ml;Tussidex kapsulki 15mg",
+		"learned": false
+	},
+	"Fentanyl": {
+		"name": "Fentanyl",
+		"text": "	silne dialaniep/bolowe, 100xsilniejszy od morfiny, podawany dozylnie, przezskornie, przezsluzowkowo; wanastezjologi, p/bolowo przewlekle,",
+		"learned": false
+	},
+	"fentanyl preparaty": {
+		"name": "fentanyl preparaty",
+		"text": "	durogesic 12,5 ;25; 50; 75; 100ug/h (2,1mg; 4,2; 8,4;12,6; 16,8mg w plastrze); effentora tab100/200/400/600/800ug, fenantyl wzf amp 50ug/mlamp po 2ml i 100ml",
+		"learned": false
+	},
+	"fentanyl": {
+		"name": "fentanyl",
+		"text": " przezsluzowkowo do usmiezania bolow przebijajacych,",
+		"learned": false
+	},
+	"opioidy w niwyd nerek": {
+		"name": "opioidy w niwyd nerek",
+		"text": "	buprenorfina i fentanyl",
+		"learned": false
+	},
+	"pisanie plastrow durogesic": {
+		"name": "pisanie plastrow durogesic",
+		"text": "	na rpw, calkowita ilosc i szybkosc uwalnianiaRpw.Durogesic 12,5ug/h10 plastrow/ in emplastro no 10laczna dawka fentanylu dwadziescia jeden mgS. zmieniamy plaster co 72h12,5ug/h= 2,1 w jwdnym plastrze25ug/h = 4,2 mg w jednym plastrze",
+		"learned": false
+	},
+	"petydyna inf": {
+		"name": "petydyna inf",
+		"text": "	GLOWNIE DO LECZENIA KOLKI NERKOWEJ IWATROBOWEJ,ALE NIE PIERWSZY WYBOR W KOLKACH- pierwszy wybor NLPZ diclofenac lub jais rozkurczowy,przechodzi przez lozysko, nie hamuje czynnosciskurczowej macicy, jej metabolit jest neurotoksyczny,do leczenia silnych boli pooperacyjnych, NIE DONOWOTWOROWYCH, stosowana w bolach porodowych",
+		"learned": false
+	},
+	"petydyna preparaty": {
+		"name": "petydyna preparaty",
+		"text": "	dolocontral amp 50mg/ml;",
+		"learned": false
+	},
+	"difenoksylat inf": {
+		"name": "difenoksylat inf",
+		"text": "	nie dziala p/bolowo, ma silne dzialanie zapierajace,przenika do oun",
+		"learned": false
+	},
+	"difenoksylat preparaty": {
+		"name": "difenoksylat preparaty",
+		"text": "	reasec tabl (difenoksylat +atropina) 2,5mg +25ug",
+		"learned": false
+	},
+	"loperamid inf": {
+		"name": "loperamid inf",
+		"text": "	nie dziala p/bolowo, bardzo silne dzialanie zapierajace,nie przenika do oun=nie powoduje depresji os oddech,nie uzaleznia, nie wystepuje tolerancja na dzialaniezapierajace",
+		"learned": false
+	},
+	"loperamid preparaty": {
+		"name": "loperamid preparaty",
+		"text": "	laremid 2mg; stoperan 2mg tabl",
+		"learned": false
+	},
+	"metadon inf": {
+		"name": "metadon inf",
+		"text": "	agonista rec u, antagonista dla NMDA, hamuje wychwytzwrotny serotoniny, do leczenia uzaleznien od morfiny, heroiny, znosi objawy abstynencji, leczenie bolu p.o ipozajelitowo, b dobrze wchlania sie z p.pok, mozepowodowac torsade de pointes, zespol serotoninowy,",
+		"learned": false
+	},
+	"metadon preparat": {
+		"name": "metadon preparat",
+		"text": "	Methadone hydrochloride Molteni syrop 10mg/10ml",
+		"learned": false
+	},
+	"buprenorfina inf": {
+		"name": "buprenorfina inf",
+		"text": "	pochodna fenantrenu, dobrze wchlania sie z p.pok iblon sluzowych, male niebezpieczenstwo zaleznoscifizycznej, zaparc, nudnosci, depresji oddech,bezpieczne u pacj z niewyyd nerek, mozna podawacpodjezykowo, przezskornie, dozylnie, pobudza rec uczesciowy agonista, pobudza rec OLRI a antag k, MAEFEKT PULAPOWY teoretycznie",
+		"learned": false
+	},
+	"efekt pulapkowy buprenorfiny": {
+		"name": "efekt pulapkowy buprenorfiny",
+		"text": "      przy dawce >niz 16mg/d, antagonizowanie dzialaniap/bolowego",
+		"learned": false
+	},
+	"buprenorfina preparaty": {
+		"name": "buprenorfina preparaty",
+		"text": "	bunondol amp 0,3mg/ml; bunondol tabl podjezyk0,2mg; melodyn; transtec 20mg w plastrze 35; 30mg wplastrze 52,5; 40mg w plastrze 70ug/h",
+		"learned": false
+	},
+	"buprenorfina recepty": {
+		"name": "buprenorfina recepty",
+		"text": "	RpTranstec 35 ug/h10 plastrowlaczna dawka buprenorfiny dwiescie mgS, zmieniac plaster co 96h35ug/h = 20mg; 52,5ug/h = 30mg",
+		"learned": false
+	},
+	"buprenorfina kiedy najskuteczniejsza   ": {
+		"name": "buprenorfina kiedy najskuteczniejsza   ",
+		"text": "   bole kostne i neuropatyczne",
+		"learned": false
+	},
+	"powtorzenie + Rpw": {
+		"name": "powtorzenie + Rpw",
+		"text": "	morfina, fentanyl, oksykodon, metadon",
+		"learned": false
+	},
+	"Rp+ powtorzenie dawki": {
+		"name": "Rp+ powtorzenie dawki",
+		"text": "	buprenorfina benzodiazepina i leki z",
+		"learned": false
+	},
+	"Rp tylko": {
+		"name": "Rp tylko",
+		"text": "	reszta Tramadol, NLPZ,p/depresyjne,Neuroleptyki",
+		"learned": false
+	},
+	"kojarzenie lekow przeciwbolowych	": {
+		"name": "kojarzenie lekow przeciwbolowych	",
+		"text": "laczenie opioidow silnych- NIE w leczeniuprzewleklym mozna w bolach przebijajacych npna fentanylu i mamy bol przewlekly to mozemymorfine w kroplach lub tramadol; w leczeniuprzewleklym nie laczymy opioidow slabych isilnych;",
+		"learned": false
+	},
+	"opioidy w systemach transdermalnych    ": {
+		"name": "opioidy w systemach transdermalnych    ",
+		"text": " buprenorfina= TRANSTEC na Rp, fenantyl=DUROGESIC na Rpw, efekt przeciwbolowy po 12h, plastry zmieniamy co 72h - fenantyl/ 96h- buprenorfina; na rrecepcie okreslamy rodzaj plastra (ug/h) oraz slownie ilosc subst cznnej",
+		"learned": false
+	},
+	"czysci antagonisci opioidowe": {
+		"name": "czysci antagonisci opioidowe",
+		"text": "nalokson; naltrekson; znosza objawy przedawkowania opioidow, znosza toksyczne zatrucie alkoholem etylowym",
+		"learned": false
+	},
+	"nalokson inf": {
+		"name": "nalokson inf",
+		"text": "droga pozajelitowo, do zwalczania wymiotow pomorfinowych,",
+		"learned": false
+	},
+	"nalokson preparaty": {
+		"name": "nalokson preparaty",
+		"text": " Naloxonum hydrochloridum wzf 400ug/ml amp 1ml ; Targin (oksykodon + nalokson 10+5mg)",
+		"learned": false
+	},
+	"naltrekson": {
+		"name": "naltrekson",
+		"text": "doustnie, do detoksykacji u osob uzaleznionych od morfiny, heroiny, alkoholu",
+		"learned": false
+	},
+	"naltrekson preparaty": {
+		"name": "naltrekson preparaty",
+		"text": "Adepend tabl 50mg; Relistor amp12mg/0,6ml",
+		"learned": false
+	},
+	" tramadol informacje": {
+		"name": " tramadol informacje",
+		"text": " slaby opioid, slia dzialania podobna do pentacytozyny, ma podwojny mechanizm dzialania 1opioidowy-jest agonista rec opioidowych 2nieopioidowy- aktywuje uklad hamowania bolu na poziomie rdzenia(hamuje wychwyt ser i noradrenaliny) bol o srednim i malym nasileniu",
+		"learned": false
+	},
+	"  kiedy stosowany tramadol": {
+		"name": "  kiedy stosowany tramadol",
+		"text": "  sredni i silne bole przewlekle i ostre",
+		"learned": false
+	},
+	"  z czym mozna laczyc tramadol?": {
+		"name": "  z czym mozna laczyc tramadol?",
+		"text": "  paracetamol, DORETA 37,5/325 lub 75/650; DORETA SR 75mg/650mg; nie ma kompon przeciwzapalnej i innymi NLPZ-ami mozna!!",
+		"learned": false
+	},
+	"  tramadol dzialania nieporz": {
+		"name": "  tramadol dzialania nieporz",
+		"text": "  nudnosci, zawroty glowy, wymioty, pocenie sie, suchosc w jamie ustnej, uszk bl sluz ppokarmowego, ryzyko zespolu serotoninowego, mozliwosc uzaleznienia!!!potencjalnie depresja osr oddech",
+		"learned": false
+	},
+	"  tramadol preparaty": {
+		"name": "  tramadol preparaty",
+		"text": "  poltram 50,100 amp 50mg/ml i 100mg/mlpoltram kaps 50mg, poltram retard 100mg; poltram krople doustne 100mg/ml butelka 10ml;tramal kaps 50mg - co 4-6h; tramal retard tabl o przedl dzial 50,100,150,200mg co 12h; max 400mg",
+		"learned": false
+	},
+	"lek bezpieczny dla chorych z powikllaniamigastrologicznymi i serc-nacz PRZECIWZAPALNY": {
+		"name": "lek bezpieczny dla chorych z powikllaniamigastrologicznymi i serc-nacz PRZECIWZAPALNY",
+		"text": "nimesulid, diclofenac + IPP; NIEPARACETAMOL, bo on nie jestPrzeciwzapalny",
+		"learned": false
+	},
+	"ibuprom+epinefryna": {
+		"name": "ibuprom+epinefryna",
+		"text": "leczenie zak. zatok - ibuprom zatoki, nurofen zatoki",
+		"learned": false
+	},
+	"paracetamol +ibuprofen": {
+		"name": "paracetamol +ibuprofen",
+		"text": "mozna laczyc, ale 2 NLPZ nie!!!",
+		"learned": false
+	},
+}

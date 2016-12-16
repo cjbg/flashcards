@@ -1,7 +1,8 @@
 {
   "packagerPort": 19001,
-  "exponentServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
-  "exponentServerPort": 19000
+  "exponentServerNgrokUrl": "https://8y-dqk.jczabator.flashcards.exp.direct",
+  "packagerNgrokUrl": "https://packager.8y-dqk.jczabator.flashcards.exp.direct",
+  "ngrokPid": 11064,
+  "exponentServerPort": 19000,
+  "packagerPid": 15080
 }
