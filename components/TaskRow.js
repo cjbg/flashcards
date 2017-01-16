@@ -6,7 +6,7 @@ import{
   TouchableHighlight,
 } from 'react-native';
 
-
+{/* Remove this component when LinkRowComponent will be created */}
 
 const styles = StyleSheet.create({
   container: {

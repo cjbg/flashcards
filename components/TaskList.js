@@ -1,61 +1,15 @@
-import React from 'react';
+import React from "react";
 import {
   ListView,
   StyleSheet,
   TouchableHighlight,
   Text,
   View,
- } from 'react-native';
+ } from "react-native";
 
-import { TaskRow }  from './TaskRow';
-
-const styles = StyleSheet.create({
-  container: {
-    paddingTop: 40,
-    backgroundColor: '#F7F7F7',
-  },
-  button: {
-    height: 45,
-    borderColor: '#05A5D1',
-    borderWidth: 2,
-    backgroundColor: '#333',
-    margin: 3,
-    justifyContent: 'center',
-    alignItems: 'center',
-  },
-  buttonExit: {
-    backgroundColor: 'red',
-  },
-  buttonLearned: {
-    borderColor: '#BCCBE0',
-    backgroundColor: '#05A5D1',
-  },
-  buttonText: {
-    color: '#FAFAFA',
-    fontSize: 20,
-    fontWeight: '600',
-  },
-  label: {
-   fontSize: 18,
-   fontWeight: '300',
-  },
-  flashcardButton: {
-   height: 370,
-   borderColor: '#05A5D1',
-   borderWidth: 4,
-   backgroundColor: '#05A5D1',
-   margin: 7,
-   justifyContent: 'center',
-   alignItems: 'center',
-  },
-  flashcardBackButton: {
-    borderColor: '#42F59B',
-    backgroundColor: '#42F59B',
-  },
-  smallText: {
-    fontSize: 10,
-  },
-});
+import { TaskRow }  from "./TaskRow";
+import { styles } from "../constants/Styles";
+import { flashcardStyles } from "../constants/Styles";
 
 export class TaskList extends React.Component{
   constructor(props, context){
@@ -177,8 +131,8 @@ export class TaskList extends React.Component{
       return(
       <TouchableHighlight
         onPress={this.onFlashcardPressed.bind(this)}
-        style={styles.flashcardButton}>
-          <Text style={styles.label}>
+        style={flashcardStyles.flashcardButton}>
+          <Text style={flashcardStyles.label}>
             {this.state.currentFlashCard}
           </Text>
         </TouchableHighlight>
@@ -188,8 +142,8 @@ export class TaskList extends React.Component{
       return(
         <TouchableHighlight
           onPress={this.onFlashcardPressed.bind(this)}
-          style={[styles.flashcardButton, styles.flashcardBackButton]}>
-            <Text style={styles.label}>
+          style={[flashcardStyles.flashcardButton, flashcardStyles.flashcardBackButton]}>
+            <Text style={flashcardStyles.label}>
               {this.state.currentFlashCardText}
             </Text>
           </TouchableHighlight>
@@ -203,7 +157,7 @@ export class TaskList extends React.Component{
         <TouchableHighlight
           onPress={this.onReloadStarted.bind(this)}
           style={styles.button}>
-          <Text style={styles.buttonText}>
+          <Text style={styles.ButtonText}>
             Od nowa
           </Text>
         </TouchableHighlight>
@@ -214,24 +168,24 @@ export class TaskList extends React.Component{
       <View>
         <TouchableHighlight
           onPress={this.onLearnedStarted.bind(this)}
-          style={[styles.button, styles.buttonLearned]}>
-          <Text style={styles.buttonText}>
+          style={[flashcardStyles.button, flashcardStyles.buttonLearned]}>
+          <Text style={styles.ButtonText}>
             {this.state.flashcardLearned}
             </Text>
         </TouchableHighlight>
 
         <TouchableHighlight
           onPress={this.onNextStarted.bind(this)}
-          style={styles.button}>
-          <Text style={styles.buttonText}>
+          style={flashcardStyles.button}>
+          <Text style={styles.ButtonText}>
             Następna
           </Text>
         </TouchableHighlight>
 
         <TouchableHighlight
           onPress={this.props.onNavBack.bind(this)}
-          style={[styles.button, styles.buttonExit]}>
-          <Text style={styles.buttonText}>
+          style={[flashcardStyles.button, flashcardStyles.buttonExit]}>
+          <Text style={styles.ButtonText}>
             Zakończ
           </Text>
         </TouchableHighlight>
@@ -242,7 +196,7 @@ export class TaskList extends React.Component{
 
   renderTitle(){
     return(
-        <Text style={styles.smallText}>
+        <Text style={flashcardStyles.smallText}>
           {this.props.groupTitle}
         </Text>
     );
