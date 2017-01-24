@@ -18,6 +18,7 @@ import sleepMedsOld from "../assets/sleepMeds_Old";
 import meds2Updated from "../assets/meds2Updated";
 import meds3 from "../assets/meds3";
 import anticoagulants from "../assets/anticoagulants";
+import steroids from "../assets/steroids";
 
 export default class LinksScreen extends React.Component {
   constructor(props) {
@@ -64,6 +65,12 @@ export default class LinksScreen extends React.Component {
     })
   }
 
+  onSteroidsStarted(){
+    this.nav.push({
+      name: "steroids",
+    })
+  }
+
   renderScene(route, nav) {
     switch (route.name) {
       case "sleepMeds":
@@ -107,6 +114,15 @@ export default class LinksScreen extends React.Component {
           <TaskList
             flashcards={anticoagulants}
             groupTitle={"Antykogulanty"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+            />
+        );
+      case "steroids":
+        return (
+          <TaskList
+            flashcards={steroids}
+            groupTitle={"Sterydy"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
             />
@@ -164,6 +180,14 @@ export default class LinksScreen extends React.Component {
               style={styles.button}>
               <Text style={styles.buttonText}>
                 Antykogulanty
+                </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onSteroidsStarted.bind(this)}
+              style={styles.button}>
+              <Text style={styles.buttonText}>
+                Sterydy
                 </Text>
             </TouchableHighlight>
 

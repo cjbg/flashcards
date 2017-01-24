@@ -14,7 +14,7 @@ module.exports = StyleSheet.create({
     backgroundColor: "#05A5D1",
   },
   label: {
-    fontSize: 18,
+    fontSize: 16,
     fontWeight: "300",
   },
   flashcardButton: {

@@ -1,0 +1,467 @@
+{
+	"rodzaje sterydow produkowane przez k nadn": {
+		"name": "rodzaje sterydow produkowane przez k nadn",
+		"text": "	glikokortykosteroidy, mineralokortykoidy",
+		"learned": false
+	},
+	"natuiralne GKS i MKS	": {
+		"name": "natuiralne GKS i MKS	",
+		"text": "				kortyzol, aldosteron",
+		"learned": false
+	},
+	"dobowe  wydzielanie kortyzolu": {
+		"name": "dobowe  wydzielanie kortyzolu",
+		"text": "			20-30mg w stersie 10x wiecej",
+		"learned": false
+	},
+	"kiedy najwiecej sterydow": {
+		"name": "kiedy najwiecej sterydow",
+		"text": "				rano max 6-9; najnizsze w nocy, tabletki sterydow dajemy rrano, staramy sie nie zaburzyc rytmu dobowego, podajac wieczorem mozemy doprowadzic do przelomu nadnerczy, przytlumiamy os podwzg-przysadke, moze zaniknac dzialalnosc przysadki",
+		"learned": false
+	},
+	"odstawianie	": {
+		"name": "odstawianie	",
+		"text": "					powoli, zespol z odstawienia",
+		"learned": false
+	},
+	"regulacja uwalniania GS": {
+		"name": "regulacja uwalniania GS",
+		"text": "			os podwzg-przysadkowa- nadnercza; CRP pobudza przysadke, ACTH pobudza nadnerccza",
+		"learned": false
+	},
+	"mechanizm dzialania sterydow": {
+		"name": "mechanizm dzialania sterydow",
+		"text": "		1) mech genowo swoisty zaposrednictwem rec wewnatrzkomorkowych, GKS laczy sie z rec cytoplazmatycznym, przenika do jadra kom i reguluje ekspresje bialek pobudzajac lub hamujac 2) pozagenowo swoiscie oddzialujac bezposredzio z czast jadrowymi NK kB czy AP-1 czasteczki te moduluja aktywnosc genow warunkujacych rozwoj reakcji zapalnej 3) pozagenowo nieswoiscie na bl komorkowe",
+		"learned": false
+	},
+	"dzialanie glikokortykosteroidow": {
+		"name": "dzialanie glikokortykosteroidow",
+		"text": "				nie dzialaja od razu, potrzebuja czasu, 1)najsilniejsze dzialanie przeciwzapalne, immunosupresyjnie i antyproliferacyjnie, przeciwalergiczne, 2)zwiekszaja ilosc plytek krwi, erytrocytow i neutrofilow, zmniejszaja ilosc limfocytow i eozynofili, 3)wiekszaja poziom glukozy we krwi, nasilaja glukoneogeneze, zmniejszaja wychwyt i wykorzystanie glukozy, 4)powoduja retencje NA i wydalanie K, zmniejszaja wchlanianie Ca w nerkach i p.pok, 5)hamuja osteoblasty, aktywuja osteoklasty, 6)zwiekszaja reakcje naczyn na katecholaminy, dzialaja euforyzujaca ale moga depresyjnie, 7)zwiekszaja pobudliwosc mozgu, 8)obnizaja prog drgawkowy,9) dzialaja katabolicznie zwiekszajac rozklad bialek miesni, 10)p/wymiotnie,11) zmniejszaja wydzielanie ACTH",
+		"learned": false
+	},
+	"dzialanie kataboliczne GS": {
+		"name": "dzialanie kataboliczne GS",
+		"text": "			zmniejszenie masy miesniowej, redystrybucja tk tluszcz, pajecze chude nogi, bawoli kark okragle glowy, ",
+		"learned": false
+	},
+	"choroby w wyniku dlugotrw stosow GS": {
+		"name": "choroby w wyniku dlugotrw stosow GS",
+		"text": "	osteoporoza posterydowa, cukrzyca posterydowa, jaskra posterydowa, zacma posterydowa glownie po kroplach, ",
+		"learned": false
+	},
+	"dzialanie przeciwzapalne sterydow	": {
+		"name": "dzialanie przeciwzapalne sterydow	",
+		"text": "	hamoowanie cox2 i fosfolipazy A2, powoduje to zmniejszenie uwalniania AA i  syntezy PG i LT, hamowanie syntezy czynn zap IL i TNF, hamuja migracja neutrofilow, zmniejszaja przepuszczalnosc naczyn, zmniejszaja produkcje przeciwcial, hamuja proces zapalny na wszystkich etapach od indukcji do ekspresji",
+		"learned": false
+	},
+	"Leukotrieny": {
+		"name": "Leukotrieny",
+		"text": "					lacza sie z receptorami powodujac skurcz oskrzeli, wzrost sekrecji sluzu i przepuszczalnosci naczyc, dzial pro-proliferacyjne- przebudowa scian oskrzeli, ",
+		"learned": false
+	},
+	"dzialanie immunosupres. GS": {
+		"name": "dzialanie immunosupres. GS",
+		"text": "			hamowanie podzialu limf T, i hamowanie syntezy IL2",
+		"learned": false
+	},
+	"dzialanie antyprolifer. GS": {
+		"name": "dzialanie antyprolifer. GS",
+		"text": "			hamowanie synt kolagenu i podzialu fibroblastow",
+		"learned": false
+	},
+	"dzialanie przeciwalergiczne GS": {
+		"name": "dzialanie przeciwalergiczne GS",
+		"text": "		stabilizuja blone komorkowa  kom tucznych hamujac degranulacje i uwalnianie histaminy",
+		"learned": false
+	},
+	"kiedy stosowane GS": {
+		"name": "kiedy stosowane GS",
+		"text": "			substytucyjnie w niewydolnosci kory nadnerczy, objawowo",
+		"learned": false
+	},
+	"wskazania GS przyklady": {
+		"name": "wskazania GS przyklady",
+		"text": "			choroby na tle autoimmunologicznym, zapalnym, alergicznym, nowotwory, po przeszczepach, atopowe zap skory RZS, astma oskrzelowa, sarkoidoza, colitis ulcerosa, ch lesniowskiego -crohna, plamica maloplytkowa, anemia hemolityczna, obrzek mozgu, wstrzas, reakcje anafilaktyczne nie I wybor, przelom nadnerczowy",
+		"learned": false
+	},
+	"pacjent z astma leczenie": {
+		"name": "pacjent z astma leczenie",
+		"text": "		b2mimetyk + GKS wziewnie!! pierwszy wybor",
+		"learned": false
+	},
+	"GKS w reakcji anafilakt": {
+		"name": "GKS w reakcji anafilakt",
+		"text": "		hamowanie 2 i 3 fazy reakcj, hamuja uklad dopelniacza",
+		"learned": false
+	},
+	"GKS": {
+		"name": "GKS",
+		"text": "				likwiduja obrzeki wewnatrzustrojowe obrzek mozgu i pluc, ale powoduja obrzeki obwodowe i pod oczami",
+		"learned": false
+	},
+	"dzialania nieporzadane GKS": {
+		"name": "dzialania nieporzadane GKS",
+		"text": "		uaktywnienie utajonych ognisk zakazen, nadkazenia skory, opoznione gojenie sie ran, tradzik, zaniki skorne, przebarwienia, bielactwo, rozstepy, nadmierne owlosienie, teleangiektazje- rozszrzenie powierzch nacz skornych- pajaczki, zap mieszkow wlosowych, alergia kontaktowa, atrofia miesni i miopatia, oslabienie sily miesni, redystrybucja tk tluszcz, zahamowanie wzrostu  u dzieci, osteoporoza, zap trzustki, hiperglikemia, ujawnienie utajonej cukrzycy, choroba wrzodowa, zwiekszaja wlasciwosci gastrotoksyczne NLPZ chrypka w sterydach wziewnych, retencja Na i h2o, obrzeki, nadcisnienie, hipokaliemia, jaskra, zacma, wzrost cisnienia srodczaszkowego, psychozy zaburzenia snu, jatrogenny zespol Cushinga",
+		"learned": false
+	},
+	"dlacczego chrypka w GS": {
+		"name": "dlacczego chrypka w GS",
+		"text": "	zachamowanie/ zmniejszenie sily miesni krtani",
+		"learned": false
+	},
+	"co dodajemy do GKS	": {
+		"name": "co dodajemy do GKS	",
+		"text": "	inhibitor pompy H+, zwlaszzcza gdy pacjent ma GKS+ NLPZ",
+		"learned": false
+	},
+	"Co z GKS w podejrzeniu chorob bakt/ grzybiczych/wirusowych": {
+		"name": "Co z GKS w podejrzeniu chorob bakt/ grzybiczych/wirusowych",
+		"text": "		w zakazeniiach typu grzybice, gruzlica, moga aktywowac ognisko, mozna stosowac jesli pacjenci sa leczeni przyczynowo, mozna stosowac z oslona np lekiem antygrzybicznym, lekiem przeciwgruzliczym, w polpascu z lekami przeciwwirusowymi zeby nie powodowac rozsiewu",
+		"learned": false
+	},
+	"odstawianie GKS": {
+		"name": "odstawianie GKS",
+		"text": "		powoli, ok 2 tyg, ",
+		"learned": false
+	},
+	"przeciwwskazania GKS": {
+		"name": "przeciwwskazania GKS",
+		"text": "	grzybice, choroby wirusowe, czynna gruzlica, choroba wrzodowa, niekontrolowana cukrzyca, osteoporoza, psychozy - o ile sytuacja nie wymaga ich podania np ze wzgl na zagrozenie zycia np przelom nadnerczowy ",
+		"learned": false
+	},
+	"interakcje GKS": {
+		"name": "interakcje GKS",
+		"text": "		oslabiaja dzialanie lekow hipoglikemizujacych, antykoagulantow, z NLPZ zwiekszaja ryzyko krwawien z p. pok, makrolidy, leki p/grzybicze, leki antykoncepcyjne zwiekszaja stez GKS, diuretyki bo nasilenie hipokaliemi, GKS nasilaja dzialanie proarytmiczne glikozydow i fluorochinolonow",
+		"learned": false
+	},
+	"podzial GKS": {
+		"name": "podzial GKS",
+		"text": "			krotkodzialajace ponizej 12h - hydrokortyzon, kortyzon; dlugodzialajace, duzo silniejsze powyzej 36h deksametazon, betametazon; sredniodzialajace prednizon, prednizolon, metylprednizolon, triamcinolon",
+		"learned": false
+	},
+	"hydrokortyzol": {
+		"name": "hydrokortyzol",
+		"text": "			corhydron 25, 100  w formie proszku z rozpuszczalnikiem do sporzadzenia roztworu do inj i infuzji; jest to hemibursztynian hydrokortyzonu, wskazania we wstrzasie anafilaktycznym 200-400mg i.v, ostre reakcje nadwrazliwosci, przelom nadnerczowy- 100mg i.v pozniej we wlewie; hydrocortisonum tabl 10, 20mg w niewydolnosci kory nadnercze 20- 30 mg/d np choroba Addisona",
+		"learned": false
+	},
+	"Prednizon": {
+		"name": "Prednizon",
+		"text": "		encorton 1,5,10,20  w tabletkach u osob w zaostrzeniu astmy		rp na lek w zaostrzeniu astmyrpEncorton 20mgin tabulettis1 ops. Stosowac 2 tabletki rano !!!! - pamietac ze rano, ewentualnie jezeli b duza to rano i w poludnie",
+		"learned": false
+	},
+	"Metylprednizolon": {
+		"name": "Metylprednizolon",
+		"text": "		Medrol, Metylpred 4 i 16mg; octan metylprednizolonu- do i.m i okolostawowo w ortopedii!! Depo-Medrol, hemibursztynian - w proszku do inj i infuzji",
+		"learned": false
+	},
+	"jesli hemibursztynian": {
+		"name": "jesli hemibursztynian",
+		"text": "		to inj i infuzji, we wstrzasie, mamy metylprednizolonu i kortyzonu				lek zapobiegajacy poznej reakcji anafilaktycznejrpcorhydron 100		100mgproszek do sporzadzania roztworu1ops. 2 ampulki dozylnie po rozpuszczeniu zawartosci w rozpuszczalniku",
+		"learned": false
+	},
+	"ktore GKS bezpieczniejsze?": {
+		"name": "ktore GKS bezpieczniejsze?",
+		"text": "			krotkodzialajace, bo nie hamuja osi podwzg-przysadka w nocy, dlugodzialajace moga caly czas blokowac, wiecej dzialan nieporz",
+		"learned": false
+	},
+	"dexametazon	": {
+		"name": "dexametazon	",
+		"text": "	Pabi-dexamethason tabl 0,5 i 1mg, np w obrzeku mozgu, guzy mozgu,  dexaven, demezon amp 4,8mg ",
+		"learned": false
+	},
+	"betametazon": {
+		"name": "betametazon",
+		"text": "		diphrophos amp, do podania okolostawowego, lek zlozony z 2 form betametazonu",
+		"learned": false
+	},
+	"zwyrodnienia stawow, ortopedia GKS": {
+		"name": "zwyrodnienia stawow, ortopedia GKS",
+		"text": "	betametazon, metylprednizol, jako blokady dostawowe, nie sa do konca bezpieczne,",
+		"learned": false
+	},
+	"zasady dawkowania GKS": {
+		"name": "zasady dawkowania GKS",
+		"text": "		dawka indywidualna zalezna od pacjenta, 1x dziennie rano, jak najkrocej mozna ok 1-2tyg, preferowane krotkodzialajace, odstawiamy powoli bo moze nastapic zanik kory nadnerczy w wyniku dlugiego stosowania, nagle odstawienie moze spowodowac przelom nadnerczowy, monitorujemy mase ciala, wzrost u dzieci, RR, profil lipidowy, poziom glukozy, wykonujemy badania okulistyczne",
+		"learned": false
+	},
+	"zasady odstawiania GS": {
+		"name": "zasady odstawiania GS",
+		"text": "		terapia do 10 dni= krotka, odstawiamy bez stopniowego zmniejszania dawki; 10-30 dni - wycofujemy przez 2 tyg zmniejszajac dawki co 4 dni; powyzej 30 dni zmieniamy GKS dlugodzialajacy na krotko lub srednio i dopiero zaczynamy odstawiac, zmniejszamy ilosc dawek do 1/d, stopniowo zmniejszamy co 4 dni",
+		"learned": false
+	},
+	"GKS w dermatologi": {
+		"name": "GKS w dermatologi",
+		"text": "		zwrocic uwage na sile dzialania, im silniejszy tym krocej, klasyfikowane w 7 grupach pierwsza, najsilniejsze 7 najbezpieczniejsze, najslabsze; mogawywolac ogolnoustrojowe dzialania nieporzadane; 2x dziennie przez tydzien, po odstawieniu nasilenie objawow, zcienczenie naskorka,przebarwienia , kremy stosujemy na wilgotne stany zapalne a masci na suche,",
+		"learned": false
+	},
+	"wskazania do GS miejscowych": {
+		"name": "wskazania do GS miejscowych",
+		"text": "		zmiany alergiczne, atopowe zap skory, lojotokowe zap skory, liszaj plaski, liszaj rumieniowaty",
+		"learned": false
+	},
+	"GS miejscowe": {
+		"name": "GS miejscowe",
+		"text": "			betametazon- diprolene masc, clobetazol - dermovate masc,krem, deksametazon- dexapolcort aerozol",
+		"learned": false
+	},
+	"od czego zalezy wchlanianie GKS": {
+		"name": "od czego zalezy wchlanianie GKS",
+		"text": "		stany skory, postaci leku najsilniej masc, slabiej aerozol, krem, miejsca i powierzchni, ",
+		"learned": false
+	},
+	"polaczenia z GKS": {
+		"name": "polaczenia z GKS",
+		"text": "		antybiotyki gentamycyna, neomycyna np oxycort; z lekamip/grzybicznymi natamycyna polimycyna c; z kw salicylowym- dzialanie zluszczajace,",
+		"learned": false
+	},
+	"oxycort": {
+		"name": "oxycort",
+		"text": "		hydrocortison z oxytetracyklinoa, aerozol i masc",
+		"learned": false
+	},
+	"atecortin": {
+		"name": "atecortin",
+		"text": "		hydrocortison, oxytetracyclina i polimyksynac- krople i zawiesina do leczenia zap ucha",
+		"learned": false
+	},
+	"dexapolcort N	": {
+		"name": "dexapolcort N	",
+		"text": "	dexametazon i neomycyna",
+		"learned": false
+	},
+	"diprogenta": {
+		"name": "diprogenta",
+		"text": "		betametazon i gentamycyna",
+		"learned": false
+	},
+	"Triderm ": {
+		"name": "Triderm ",
+		"text": "		betametazon, klotrimazol, gentamycyna -masc i krem",
+		"learned": false
+	},
+	"GKS w pulmonologi": {
+		"name": "GKS w pulmonologi",
+		"text": "	pierwszy wybor w astmie kontroluja przebieg choroby, wykorzystywane dzial p/zapalne, wykorzystywane w pochp ale nbie wplywaja naturalny przebieg choroby, preferowane wziewne, beclometazon, budesonid, flutikazon, Mometazon, cyklezonid",
+		"learned": false
+	},
+	"mometazon": {
+		"name": "mometazon",
+		"text": "		Asmanex twisthaler, proszek do inhalacji 200/400ug/d",
+		"learned": false
+	},
+	"dawkowanie GKS wziewnych": {
+		"name": "dawkowanie GKS wziewnych",
+		"text": "		2xdziennie, cyklezonid moze byc 1x",
+		"learned": false
+	},
+	"hydrocortison w tabl": {
+		"name": "hydrocortison w tabl",
+		"text": "			do leczenia przewleklego w niedoczynnosci kory nadnerczy rano!!, w przelomie w ampulkach",
+		"learned": false
+	},
+	"dzialania nieporzadane GKS wziewnych": {
+		"name": "dzialania nieporzadane GKS wziewnych",
+		"text": "	kaszel, odruchowy skurcz oskrzeli, chrypka, bol gardla, wzrost ryzyka grzybic i plesniawek",
+		"learned": false
+	},
+	"lek w postaci proleku	": {
+		"name": "lek w postaci proleku	",
+		"text": "		cyklezonid, aktywowany dopiero w drogach oddechowych",
+		"learned": false
+	},
+	"GKS + b2mim	": {
+		"name": "GKS + b2mim	",
+		"text": "		fostex, symbicort turbuhaler( budezonid i formoterol) 160/4.5; 320/9; laczone bo zapobiegaja down regulation, uwrazliwiaja rec b2, zwiekszaja liczbe rec GKS, przyspieszaja penetracje do tkanek, ALE NIE SA BRONCHODILATACYJNE, zmniejszenie stanu zapalnego posrednio wplywa na rozszerzenie oskrzeli ale nie bezposredio",
+		"learned": false
+	},
+	"leki bronchodilatacyjne": {
+		"name": "leki bronchodilatacyjne",
+		"text": "		cholinolityki i b2 mimetyki",
+		"learned": false
+	},
+	"dzialanie mineralokortykosteroidowe": {
+		"name": "dzialanie mineralokortykosteroidowe",
+		"text": "	kortyzon, hydrokortyzon, prednizon, zatrzymuja Na i h2o, retencja wody i obrzeki, zwiekszaja wydalanie K+ i  H+",
+		"learned": false
+	},
+	"naturalne mineralokortykosteroidy": {
+		"name": "naturalne mineralokortykosteroidy",
+		"text": "		aldosteron, kortekson",
+		"learned": false
+	},
+	"jezeli pacjent ma objawy z zatrzymania wody i sodu": {
+		"name": "jezeli pacjent ma objawy z zatrzymania wody i sodu",
+		"text": "	lepiej metylprednizolon		pacjent z astma rpFostexin aerosolo1ops. 2razy dziennie 1 wdechLEKI  PRZECIWHISTAMINOWE",
+		"learned": false
+	},
+	"leki przeciwhistaminowe": {
+		"name": "leki przeciwhistaminowe",
+		"text": " 	kompetytywni antagonisci rec h1, ",
+		"learned": false
+	},
+	"histamina": {
+		"name": "histamina",
+		"text": "			mediator reakcji zapalnej, dziala za posrednictwem rec H1,2,3,4",
+		"learned": false
+	},
+	"pobudzenie rec H1": {
+		"name": "pobudzenie rec H1",
+		"text": "		skurcz m gladkich, rozszerzenie naczyn i spadek cisnienia, wzrost przepuszczalnosci naczyn, swiad skory i obrzek, stymulacja wydzieliny sluzowej w nosie, zwiekszenie napiecia ukl przywspolczulnego, przyspieszenie czynnosci serca",
+		"learned": false
+	},
+	"pobudzenie rec H2": {
+		"name": "pobudzenie rec H2",
+		"text": "		wzrost wydzielania soku zoladkowego, wzrost wydzielania sluzu w drogach oddechowych",
+		"learned": false
+	},
+	"H2 blokery": {
+		"name": "H2 blokery",
+		"text": "		stosowane w leczeniu schorzen ukl pokarmowego, celem jest zmniejszenie wydzielania kwasu solnego",
+		"learned": false
+	},
+	"I generacja ": {
+		"name": "I generacja ",
+		"text": "			niewybiorcza,bolkuja tez D,M, 5HT, alfa1, sa lipofilne, przenikaja do oun, wydluzaja QT, blokujac h1 powoduja sennosc i sedacje, podawane p.o iv, poczatek dzialania po 30 min, krotko dzialaja, nie maja dzialania przeciwzapalnego",
+		"learned": false
+	},
+	"II generacja": {
+		"name": "II generacja",
+		"text": "			nie wydluza qt- moze po loratadynie, nie powoduje sedacji, nie przenika do oun, wybiorcze, podawane p.o; dlugi czas dzialania, maja dzialanie przeciwzapalne, poczatek dzialania pozniej niz po 30 min, dobrze wchlaniaja sie z p.pokarmowego, powoduja tachyfilaksje, metabolizowane do czynnych metabolitow, niektore maja dzialanie pozareceptorowe, nie powinny powodowac sennosci ani wchodzic z interakcje z alkoholem, nie maja dzialania cholinolitycznego",
+		"learned": false
+	},
+	"ktore antyhistaminiki w jaskrze i przeroscie gr krokowego?": {
+		"name": "ktore antyhistaminiki w jaskrze i przeroscie gr krokowego?",
+		"text": "		II generacja",
+		"learned": false
+	},
+	"dzialanie pozareceptorowe atyhist II gen": {
+		"name": "dzialanie pozareceptorowe atyhist II gen",
+		"text": "	hamuja chemotaksje eozynofili, zmniejszaja produkcje IL6, TNF, inaktywuja PAF, daje to efekt przeciwzapalny",
+		"learned": false
+	},
+	"receptory h1 i h2": {
+		"name": "receptory h1 i h2",
+		"text": "		h1 w kom tucznych , h2 w kom okladzinowych",
+		"learned": false
+	},
+	"leki p/histaminowe": {
+		"name": "leki p/histaminowe",
+		"text": "		tylko oddzialujace na h1",
+		"learned": false
+	},
+	"leki p/wrzodowe": {
+		"name": "leki p/wrzodowe",
+		"text": "		antyhistaminowe   oddzialujace na h2",
+		"learned": false
+	},
+	"dzial nieporzadane lek I generacji": {
+		"name": "dzial nieporzadane lek I generacji",
+		"text": "	sennosc, wzrost laknienia, przyrost masy ciala blopkowanie 5HT, dzialania atropinopodobne suchosc w jamie ustnej, zaburzenia widzenia, trudnosci w oddawaniu moczu, tachykardia zatokowa, kardiotoksyczne, blokowanie kanalow K+, ryzyko arytmi, hipotonia, zawroty glowy, omdlenia ortostatyczne, dzialaja depresyjnie na oun, ",
+		"learned": false
+	},
+	"zalety ze lek jest I gen": {
+		"name": "zalety ze lek jest I gen",
+		"text": "		moze byc stosowany uspokajajaco,p/lekowo i nasennie - hydroksyzyna, lagodzi swiad wiec pierwsza generacja w chorobach z silnym swiadem, potencjalnie p/wymiotne przez blokowania rec muskarynowych i dopaminergicznych np   prometazyna i hydroksyzyna, poprawa laknienia przez blokowanie rec 5HT - cyproheptadyna",
+		"learned": false
+	},
+	"leki I gen rodzaje": {
+		"name": "leki I gen rodzaje",
+		"text": "		antazolina, hydroksyzyna, prometazyna, clemastyna, difenhydramina, ketotifen, cyproheptadyna, dimetynden, dimenhydrinat, difenhydramina",
+		"learned": false
+	},
+	"hydroxyzyna	": {
+		"name": "hydroxyzyna	",
+		"text": "		atarax tabl 10 i 25mg i amp 100mg; Hydroxyzinum tab 10 i 25mg; p/swiadowo, uspokajajaco, nasennie, w celu sedacji podawana pozajelitowo",
+		"learned": false
+	},
+	"klemastyna": {
+		"name": "klemastyna",
+		"text": "			dziala silnie przeciwswiadowe, dlugo dziala do 24h, Clemastinum tabl 1mg, amp 2mg",
+		"learned": false
+	},
+	"prometazyna": {
+		"name": "prometazyna",
+		"text": "			diphergan drazetki 10 i 25 mg, ostre odczyny alergiczne ze swiadem, choroba lokomocyjna",
+		"learned": false
+	},
+	"antazolina": {
+		"name": "antazolina",
+		"text": "			wstrzas anafilaktyczny; phenazolinum roztw do inj, moze byc w preparacie zlozonym allertec ukaszenia naphazolina obkurczanie naczyn i antazolina przeciwswiadowo",
+		"learned": false
+	},
+	"wstrzas anafilakt leczenie": {
+		"name": "wstrzas anafilakt leczenie",
+		"text": "	adrenalina + steryd+ antyhistaminik( klemastyna 2mg iv, phenazolina)",
+		"learned": false
+	},
+	"ketotifen": {
+		"name": "ketotifen",
+		"text": "			stabilizuje kom tuczne, Ketotifen syrop 0,2mg/ml i tabl 1mg",
+		"learned": false
+	},
+	"dimetynden": {
+		"name": "dimetynden",
+		"text": "			fenistil, p/obrzekowo, znieczulajaca",
+		"learned": false
+	},
+	"dimenhydrinat": {
+		"name": "dimenhydrinat",
+		"text": "			aviomarin, choroba lokomocyjna",
+		"learned": false
+	},
+	"wskazania do antyhistaminikow": {
+		"name": "wskazania do antyhistaminikow",
+		"text": "		pokrzywka i alergiczny niezyt nosa i spojowek- zmniejszaja swiad, kichanie, zmniejszaja produkcje wodnistej wydzieliny, NIE WPLYWAJA NA BLOKADE NOSA, ale stosowane pomocniczo w ukaszeniu owadow, wstrzasie anafilakt",
+		"learned": false
+	},
+	"antyhistaminiki II generacji rodzaje": {
+		"name": "antyhistaminiki II generacji rodzaje",
+		"text": "		cetyryzyna, lewocetyryzyna, loratadyna, desloratadyna, azelastyna, feksofenadyna, biladyna, rupatadyna, mizolastyna",
+		"learned": false
+	},
+	"Azelastyna": {
+		"name": "Azelastyna",
+		"text": "		allergodil - krople do nosa i spojowek; dziala miejscowo",
+		"learned": false
+	},
+	"cetyryzyna": {
+		"name": "cetyryzyna",
+		"text": "		Allertec, Zyrtec, od 2rz mozna stosowac",
+		"learned": false
+	},
+	"lewocetyryzyna": {
+		"name": "lewocetyryzyna",
+		"text": "	Xyzal tabl od 2 roku zycia",
+		"learned": false
+	},
+	"loratadyna": {
+		"name": "loratadyna",
+		"text": "		Claritine tabl od 2 r.z",
+		"learned": false
+	},
+	"desloratadyna": {
+		"name": "desloratadyna",
+		"text": "		deslodyna tabl od 1rz",
+		"learned": false
+	},
+	"feksofenadyna": {
+		"name": "feksofenadyna",
+		"text": "	Telfexo, telfast powyzej 12 r.z",
+		"learned": false
+	},
+	"Bilastyna": {
+		"name": "Bilastyna",
+		"text": "		Clatra powyzej 12rz",
+		"learned": false
+	},
+	"Rupatadyna": {
+		"name": "Rupatadyna",
+		"text": "		Rupafin tabl, powyzej 12 rz, dziala przeciwzapalne, jest antagonista PAF",
+		"learned": false
+	},
+	"dzialania antyhistaminnikow	": {
+		"name": "dzialania antyhistaminnikow	",
+		"text": "	zmniejszaja swiad oczu i nosa, zmniejszaja produkcje wodnistej wydzieliny ale nie zmniejszaja blokady nosa . na blokade steryd np budesonid ",
+		"learned": false
+	},
+}
