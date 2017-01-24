@@ -9,13 +9,14 @@ import {
 } from "react-native";
 
 import { ExponentLinksView } from "@exponent/samples";
+import styles from "../constants/Styles.js";
 
 import { TaskList } from "../components/TaskList";
 import sleepMeds from "../assets/sleepMeds";
 import sleepMedsOld from "../assets/sleepMeds_Old";
 import meds2Updated from "../assets/meds2Updated";
 import meds3 from "../assets/meds3";
-import styles from "../constants/Styles.js";
+import anticoagulants from "../assets/anticoagulants";
 
 export default class LinksScreen extends React.Component {
   static route = {
@@ -24,6 +25,7 @@ export default class LinksScreen extends React.Component {
     },
   }
 
+  //TODO: Simplify
   onSleepMedsOldStarted() {
     this.nav.push({
       name: "sleepMedsOld",
@@ -46,6 +48,12 @@ export default class LinksScreen extends React.Component {
     this.nav.push({
       name: "meds3",
     });
+  }
+
+  onAnticogulantsStarted() {
+    this.nav.push({
+      name: "anticoagulants",
+    })
   }
 
   renderScene(route, nav) {
@@ -82,6 +90,14 @@ export default class LinksScreen extends React.Component {
             onNavBack={this.onNavBack.bind(this)}
             />
         );
+      case "anticoagulants":
+        return (
+          <TaskList
+            flashcards={anticoagulants}
+            groupTitle={"Antykogulanty"}
+            onNavBack={this.onNavBack.bind(this)}
+          />
+        )
       default:
         return (
           <ScrollView
@@ -128,6 +144,14 @@ export default class LinksScreen extends React.Component {
               <Text style={styles.buttonText}>
                 Trzecie
             </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onAnticogulantsStarted.bind(this)}
+              style={styles.button}>
+                <Text style={styles.buttonText}>
+                  Antykogulanty
+                </Text>
             </TouchableHighlight>
 
           </ScrollView>

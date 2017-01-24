@@ -1,9 +1,9 @@
-import React from "react";
+import { React } from "react";
 import { StyleSheet } from "react-native";
 
 module.exports = StyleSheet.create({
     container: {
-        flex: 1,
+    flex: 1,
         paddingTop: 15,
     },
     button: {

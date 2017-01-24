@@ -1,0 +1,412 @@
+{
+	"zjawiska kluczowe dla homeostazy": {
+		"name": "zjawiska kluczowe dla homeostazy",
+		"text": "	agregacja i adhezja plytek, powstawaniezakrzepu z fibryny czynnik (IIa)",
+		"learned": false
+	},
+	"rodzaje zakrzepow": {
+		"name": "rodzaje zakrzepow",
+		"text": "	tetniczy i zylny",
+		"learned": false
+	},
+	"zakrzep tetniczy": {
+		"name": "zakrzep tetniczy",
+		"text": "	przyczyny to zmiany miazdzycowe npzaqwal serca czy choroba wiencowa, glowne znaczenie nadmierna agregacja plytekleczenie lekami antyagrregacyjnymmi",
+		"learned": false
+	},
+	"zakrzep zylny": {
+		"name": "zakrzep zylny",
+		"text": "	przyczyny zastoj zylny, np lotsamolotem, ciaza ucisk struktur anatomicznych choroba zakrzepowo-zatorowa konczyn dolnych, glowna przyczyna aktywacja czynnikow krzepniecia, leczenie antykoagulantami",
+		"learned": false
+	},
+	"kliniczne manifestacje zakrzepow/zatorow": {
+		"name": "kliniczne manifestacje zakrzepow/zatorow",
+		"text": "	zawal serca, zakrzepica zyl glebokich,zatorowosc plucna, udar mozgu",
+		"learned": false
+	},
+	"pacjent z migotaniem przedsionkow": {
+		"name": "pacjent z migotaniem przedsionkow",
+		"text": "	potrzebuje lekowprzeciwzakrzepowych profilaktycznie zeby zapobiegac udarom mozgu",
+		"learned": false
+	},
+	"pacjent z choroba wiencowa": {
+		"name": "pacjent z choroba wiencowa",
+		"text": "	ASA profilaktyczniel",
+		"learned": false
+	},
+	"eki zmniejszajace krzepliwosc": {
+		"name": "eki zmniejszajace krzepliwosc",
+		"text": "	hamujace agregacje- p/plytkowe,antykoagulanty- hamujace powstawanie skrzepow, fibrynolityczne-rozpuszczajace zakrzep",
+		"learned": false
+	},
+	"co pobudza agregacje plytek": {
+		"name": "co pobudza agregacje plytek",
+		"text": "	TXA2, ADP pobudza przez rec P2Y12",
+		"learned": false
+	},
+	"co jest efektem pobudzenia trombocytow": {
+		"name": "co jest efektem pobudzenia trombocytow",
+		"text": " ekspresja na ich powierzchni GP IIb/IIIa dlafibrynogenu, aktywowane plytki tworza mostki pomiedzy receptorami GP IIb/IIa sasiednich plytek, fibrynogen reagujac z GP IIb/IIa sasiednich plytek spina je jak zamek",
+		"learned": false
+	},
+	"leki hamujace agregacje mech.dzial": {
+		"name": "leki hamujace agregacje mech.dzial",
+		"text": " inhibitory COX1- hamowanie powstawanie TXA2, inhibitory rec dla ADP- klopidrogel,prasugrel,tikagrelor, antagonisci rec GP IIb/IIIa- abciksimab, tirofiban, eptifibatid",
+		"learned": false
+	},
+	"ASA": {
+		"name": "ASA",
+		"text": " selektywny nieodwracalny inh COX1, acyluje resztuy serynowe centrum aktywnego COX, hamuje tworzenie TXA2, zahamowanie jest trwale az do obumarcia plytek ok 7dni, dawka antyagreg 75-150mg, odstawiany na tydzien przed zabiegiem",
+		"learned": false
+	},
+	"wskazania do ASA": {
+		"name": "wskazania do ASA",
+		"text": "	profilaktyka powiklan zatorowo-zakrzepowych; rozpoznanaChNS 75-150mg do konca zycia; przebyty zawal serca j.w.; STEMI i NSTEMI 150-300jednorazowo w momencie rozpoznania, zakrzepica zyl konczyn dolnych, przebyty udarniedokrwienny mozgu",
+		"learned": false
+	},
+	"ChNS": {
+		"name": "ChNS",
+		"text": "	ASA+ bbloker+ statyny+ IKA",
+		"learned": false
+	},
+	"inhibitory P2Y12": {
+		"name": "inhibitory P2Y12",
+		"text": "	blokuja wiazanie ADP z receptorami plytkowymi, brak ekspresjiGP IIb/IIa, Tiklopidyna, Klopidogrel, Prasugrel 5 i 10mg, Tikagrelor 90mg",
+		"learned": false
+	},
+	"Klopidogrel": {
+		"name": "Klopidogrel",
+		"text": "	Plavix, Clopidix 75mg; pierwsza dawka nasycajaca 600mg podtrzymujaca 75mg",
+		"learned": false
+	},
+	"Duoplavin": {
+		"name": "Duoplavin",
+		"text": "	75mg klopidrogelu i 75 mg ASA",
+		"learned": false
+	},
+	"Tiklopidyna": {
+		"name": "Tiklopidyna",
+		"text": "	obecnie nie stosowana, powoduje neutropenie",
+		"learned": false
+	},
+	"wskazania dla klopidrogelu": {
+		"name": "wskazania dla klopidrogelu",
+		"text": "	CHW przy nietolerancji ASA, po ostrym zespwiencowym przez 12 miesiecy razem z ASA, udar niedokrwienny mozgu, choroba tetnic obwodowych",
+		"learned": false
+	},
+	"dzialania nieporz klopidogrelu": {
+		"name": "dzialania nieporz klopidogrelu",
+		"text": "	nasilone krwawienia biegunka bole brzucha",
+		"learned": false
+	},
+	"kiedy wracaja funkcje plytek po lekach": {
+		"name": "kiedy wracaja funkcje plytek po lekach",
+		"text": "	ASA po 7 dniach; klopidogrel 5dni Prasugrel7dni		",
+		"learned": false
+	},
+	"inhibitory rec GP IIb/IIa": {
+		"name": "inhibitory rec GP IIb/IIa",
+		"text": "		Abciksimab; Eptifibatid; Tirofiban; krotkotrwale,podawane tylko iv najpierw we wstrzyknieciu pozniej we wlewie",
+		"learned": false
+	},
+	"rodzaje antykoagulantow": {
+		"name": "rodzaje antykoagulantow",
+		"text": "	parenteralne- heparyna niefrakcjonowana UFH idrobnoczasteczkowa LMWH, pentasacharydy- fondaparynux; doustne antykoagulanty-antagonisci wit K VKA, NDA(NOAC) niezalezne od wit K doustne koagulanty",
+		"learned": false
+	},
+	"podwojna terapia przeciwplytkowa": {
+		"name": "podwojna terapia przeciwplytkowa",
+		"text": "	kazdy pacjent po zawale, niezaleznie odleczenia i postaci zawalu otrzymuje 1 tabl klopidogrelu i ASA przez 12m",
+		"learned": false
+	},
+	"heparyna inf": {
+		"name": "heparyna inf",
+		"text": "	wytwarzana w kom tucznych, reaguja z wytworzonymiczynnikami krzepniecia, aktywuja antytrombine III, kompleks heparyna- ATIII hamuja czynnik IIa i Xa",
+		"learned": false
+	},
+	"heparyna standardowa": {
+		"name": "heparyna standardowa",
+		"text": " niefrakcjonowana; duza masa czast, zroznicowana farmakokinetyka czyli nie wiemy ile jej podac zeby osiagnac efekt, hamuje trombine i cz Xa, podawana dozylnie ew podskornie, dziala szybko i krotko, wymaga monitorowania koagulologicznego, dawki ustalone wg masy ciala, wiecej dzialan nieporz",
+		"learned": false
+	},
+	"jakie badania przy stosowaniu UFH": {
+		"name": "jakie badania przy stosowaniu UFH",
+		"text": "	APTT 1,5 - 2,5x wyzsze niz wartosc wyjsciowa",
+		"learned": false
+	},
+	"kiedy UFH z wyboru": {
+		"name": "kiedy UFH z wyboru",
+		"text": "	niewydolnosc nerek bo jest metabolizowana wwatrobie, nie jest wydalana w postaci niezmienionej, ciaza w mniejszym stopniu przenika przez lozysko",
+		"learned": false
+	},
+	"UFH leki": {
+		"name": "UFH leki",
+		"text": " coaparin- 25 000jm/ml, heparinum wzf 5000jm/ml roztw do inj, we wlewach, w zatorowosci plucne i zakrzepicy zyl glebokich zele lioton 1000, heparin hasco wspomagajaco w terapi zakrzep zap powierzch zyl konczyn dolnych, zylakach, krwiakach podskornych, stluczeniach i obrzekach",
+		"learned": false
+	},
+	"antidotum na UFH": {
+		"name": "antidotum na UFH",
+		"text": "	siarczan protaminy 1mg SP neutralizuje 100j. heparyny,przeliczamy to na ilasc podanej heparyny w ciagu ostatnich 2h",
+		"learned": false
+	},
+	"heparyna drobnoczasteczkowa": {
+		"name": "heparyna drobnoczasteczkowa",
+		"text": "	mala masa czast, krotkie lancuch, dluzszy okrespoltrwania, hamuje glownie czynnik Xa, podawana podskornie sc!!! 1-2xd, bezpieczniejsza, przewidywana farmakokinetyka, nie trzeba monitorowac ukl krzepniecia ale przy dluzszym stosowaniu kontrolujemy plytki, wydalane przez nerki, nie metabolizowana w watrobie - nie w niewydolnosci nerek",
+		"learned": false
+	},
+	"ktora heparyna w niewyd nerek?": {
+		"name": "ktora heparyna w niewyd nerek?",
+		"text": "	preferowana wielkoczasteczkowa",
+		"learned": false
+	},
+	"wskazania do hep drobnocz": {
+		"name": "wskazania do hep drobnocz",
+		"text": "	profilaktycznie w zlamaniach, zabiegach, chorobienowotworowej; leczniczo w zakrzep zapalen zyl glebokich, zatorowosci plucnej, zatorow tt. obwodowych, ChW, zawaly, hemodializa",
+		"learned": false
+	},
+	"stosowanie LMWH": {
+		"name": "stosowanie LMWH",
+		"text": " profilaktycznie 40mg przed i 7-10 dni po zabiegu, leczniczo dawka wg masy ciala 0d 1 -1,5 mg/kg mc, jezeli 1x masa ciala to na dwie dawki, jezeli 1,5x to jedna",
+		"learned": false
+	},
+	"ktore heparyny leczniczo a ktore dodatkowo profilaktycznie?": {
+		"name": "ktore heparyny leczniczo a ktore dodatkowo profilaktycznie?",
+		"text": "	tylko leczniczo- UFH + wprzypadku niewydolnosci nerek; leczniczo i profilaktycznie LMWH	",
+		"learned": false
+	},
+	"preparaty LMWH": {
+		"name": "preparaty LMWH",
+		"text": "	enoksaparyna; nadroparyna, dalteparyna",
+		"learned": false
+	},
+	"Nadroparyna": {
+		"name": "Nadroparyna",
+		"text": "	Fraxiparine roztw do inj iv i sc; 0,3; 0,4; 0,6; 0,8; 1,0 ml Fraxodiroztw do inj sc 0,6; 0,8; 1,0 ml	",
+		"learned": false
+	},
+	"Endoksaparyna": {
+		"name": "Endoksaparyna",
+		"text": "	Clexane ampulkostrzykawki 20;40;60;80 mg Clexan forte120;150mg		",
+		"learned": false
+	},
+	"rp na lek profilaktycznie przed zabiegiem": {
+		"name": "rp na lek profilaktycznie przed zabiegiem",
+		"text": "rpClexane 40mg5 ampulkostrzykaweks. i ampulkostrzykawke wstrzykiwac podskornie w przednia pow brzucha",
+		"learned": false
+	},
+	"rp pacjent z zylna chor zat-zakrzepowa, zalecona hep niskoczasteczk, 80 kg": {
+		"name": "rp pacjent z zylna chor zat-zakrzepowa, zalecona hep niskoczasteczk, 80 kg",
+		"text": "rpClexane 40mg10 ampulkostrzykaweks. wstrzykiwac podskornie 1 ampulkostrzykawke 2xd",
+		"learned": false
+	},
+	"przeciwwskazania do heparyn": {
+		"name": "przeciwwskazania do heparyn",
+		"text": "	podejrzenie krwawienia, krwotoczny udarmozgu, choroba wrzodowa zoladka i dwunastnicy, poronienie zagrazajace",
+		"learned": false
+	},
+	"dzialania niep heparyn": {
+		"name": "dzialania niep heparyn",
+		"text": "	krwawienia- siniaki, z przew pok, srodczaszkowe,trombocytopenia typ I i II, reakcje alergiczne, osteoporoza po dlugotrwalym stosowaniu, lagodny hiperaldosteronizm, wzrost ALAT i ASPAT, lysienie, rzadziej po LMWH",
+		"learned": false
+	},
+	"co to HIT": {
+		"name": "co to HIT",
+		"text": " maloplytkowosc indukowana heparyna, wyrozniamy dwa rodzaje, pierwszy na tle nieimmunologicznym, drugi na tle immunologicznym w typie 1 mozna kontynuowac podawanie heparyny",
+		"learned": false
+	},
+	"HIT II": {
+		"name": "HIT II",
+		"text": " przyczyna IgG, kompleks heparyna PF4- IgG aktywuje PLT i srodblonek, plt uwalniaja duze ilosci PF4, efektem jest nasilona agregacja PLT, tworzenie trombiny zakrzepow,dalszy ubytek PLT wzrasta ryzyko zakrzepicy mimo ze malo plytek, ilosc PLT ok, czas wystepowania 5-10 dni, 30-50 tys plytek lub zmniejszenie o 50% od wartosci wyjsciowej, natychmiast odstawiamy heparyne",
+		"learned": false
+	},
+	" HIT I": {
+		"name": " HIT I",
+		"text": "	nieimmunologiczny, nie ma ryzyka zakrzepicy, wystepuje po 2-4 dniach,spadek plytek ponizej 100tys, mozna kontynuowac podawanie heparyny",
+		"learned": false
+	},
+	"Pentasacharydy": {
+		"name": "Pentasacharydy",
+		"text": "	Fondaparynux, hamuje cz Xa, nasila dzialanie ATIII, nie wplywana czynnik IIa, podawana podskornie, Arixtra 12,5 i 5 mg, zastosowanie w zawale serca, zabiegach ortopedycznych, zylnej chorobie zakrzepowo-zatorowej jezeli nie mozna podac heparyny",
+		"learned": false
+	},
+	"gdzie maja znaczenie heparyny a gdzie p/plytk": {
+		"name": "gdzie maja znaczenie heparyny a gdzie p/plytk",
+		"text": "	p/plytk w zakrzepicy tetniczej,heparyny w zakrzepicy zylnej		",
+		"learned": false
+	},
+	"doustne antykoagulanty": {
+		"name": "doustne antykoagulanty",
+		"text": "	antagonisci wit K	",
+		"learned": false
+	},
+	"antagonisci wit K inf": {
+		"name": "antagonisci wit K inf",
+		"text": "	hamuja synt protrombiny, cz II,VII,IX,X w watrobie, dzialajatylko in vivo, potrzebuja czasu na dzialanie ok 3 dni, nioe do szybkiego wlaczenia, liczne interakcje z lekami i pokarmem, dawkowanie pod kontrola INR (2-3,5 wydluzony ten wskaznik), dawkowanie 1xd o stalej porze ale dawka indywidualna, dawki nie musza byc takie same kazdego dnia kontrola mion raz na miesiac",
+		"learned": false
+	},
+	"dlaczego wit K potrzebna": {
+		"name": "dlaczego wit K potrzebna",
+		"text": "	do karboksylacji kw glutaminowego czynnikow II, VII,IX,X wwatrobie			",
+		"learned": false
+	},
+	"pacjent z zatorowoscia lek nagle wlaczony": {
+		"name": "pacjent z zatorowoscia lek nagle wlaczony",
+		"text": "	heparyny, bo ant wit K potrzebuja czasu",
+		"learned": false
+	},
+	"Acenokumarol": {
+		"name": "Acenokumarol",
+		"text": "		Acenocumarol WZF tabl 1mg, 4 mg; Sintrom 4mg",
+		"learned": false
+	},
+	"Warfaryna": {
+		"name": "Warfaryna",
+		"text": "	Warfarin 3 i 5 mg	",
+		"learned": false
+	},
+	"wskazania do ant wit K": {
+		"name": "wskazania do ant wit K",
+		"text": "	chor zat-zakrzep, zakrzepica zyl glebokich, zatorowoscplucna, sztuczne zastawki !! do konca zycia, migotanie przeds, krazenia pozaustrojowe;LECZENIE DLUGOTERMINOWE A NIE WSTEPNE",
+		"learned": false
+	},
+	"dzial nieporz VKA": {
+		"name": "dzial nieporz VKA",
+		"text": "	powiklania krwotoczne, obrzek Quinckego- naczynioruchowyreakcja alergiczna, zespol purpurowych stop wynik zatorow cholesterolowych naczynkonczyn dolnych, martwica skory k. dolnych posladkow po mikrozatorach w krazneiu,nietolerancja zimna, priapizm- przewlekly wzwod, wypadanie wlosow",
+		"learned": false
+	},
+	"przeciwwskazania VKA": {
+		"name": "przeciwwskazania VKA",
+		"text": "	skazy krwotoczne, choroba wrzodowa, niewydolnoscwatroby, ciaza, ciezkie nadcisnienie tetnicze, zaawansowany wiek",
+		"learned": false
+	},
+	"interakcje nasilajace VKA": {
+		"name": "interakcje nasilajace VKA",
+		"text": "	ASA, NLPZ, heparyna,azole - leki p/grzybiczne,makrolidy, fluorochinolony, IPP, alkohol, allopurynol, amidoran, cymetydyna, ",
+		"learned": false
+	},
+	"interakcje hamujace VKA": {
+		"name": "interakcje hamujace VKA",
+		"text": " karbamazepina- induktor cyt P450 nasila rozklad lekow, barbiturany tjw, leki antykoncepcyjne tjw, wit K z suplementow, pokarmy jak brukselka i inne zawierajace duza ilosc wit K",
+		"learned": false
+	},
+	"nieprawidlowe INR": {
+		"name": "nieprawidlowe INR",
+		"text": "	ponizej 2 - wzrost o 70% ryzyka udaru mozgu; wiecej niz 3 - 2krotnie wieksze ryzyko krwawienia	",
+		"learned": false
+	},
+	"NOAC": {
+		"name": "NOAC",
+		"text": "	doustne, mechanizm niezalezny od wit K, riwaroksaban, dabigatran,apiksaban		",
+		"learned": false
+	},
+	"Riwaroksaban": {
+		"name": "Riwaroksaban",
+		"text": "	bezposrednio blokuje Xa; 1xd Xarelto; wydalany przez nerki w33%, mniej szkodliwy u pacj z niewydolnosci nerek, jezeli GFR<15 nie podajemy;",
+		"learned": false
+	},
+	"dabigatran": {
+		"name": "dabigatran",
+		"text": "	bezposredni inh trombiny IIa ; wydalany przez nerki w 80%, 2xdPradaxa tabl 0,075; 0,110; 0,150 przy GFR<30 ml/min nie podajemy",
+		"learned": false
+	},
+	"apiksaban": {
+		"name": "apiksaban",
+		"text": "	bezposrednio blokuje Xa, wydalany przez nerki w 25%, dawkowany2xd, przy GFR< 15 nie podajemy; Eliquis tabl 0.0025g",
+		"learned": false
+	},
+	"dzialania nieporzadane NOAC": {
+		"name": "dzialania nieporzadane NOAC",
+		"text": "	dyspepsja, wzrost ryzyka krwawien z przewodupokarmowego		",
+		"learned": false
+	},
+	"wskazania do NOAC": {
+		"name": "wskazania do NOAC",
+		"text": "	profilaktyka ChZZ u pacjentow z migotaniem przedsniezastawkowym i po alloplastyce stawu biodrowego/kolanowego",
+		"learned": false
+	},
+	"zalety NOAC": {
+		"name": "zalety NOAC",
+		"text": "	nie wymagaja kontroli INR, nie wchodza z interakcje zpozywieniem, krotki okres poltrwania, mniejsze ryzyko przedawkowania",
+		"learned": false
+	},
+	"wady NOAC": {
+		"name": "wady NOAC",
+		"text": "	mala dostepnosc lekow odwracajacych dzialanie, cena, koniecznosckontroli funkcji nerek min 1x rok	",
+		"learned": false
+	},
+	"terapia pomostowa": {
+		"name": "terapia pomostowa",
+		"text": " leczeniep/krzepliwe w okresie okolooperacyjnym u osob przyjmujacych VKA; odstawiamy VKA 4-5 dni przed zabiegiem, wlaczamy heparyne drobnoczasteczkowa, dzien przed zabiegiem ostatnia dawka i odstawiamy heparyne, po zabiegu wlaczamy razem heparyne drobnoczast i VKA, gdy INR osiaga porzadana wartosc 2-3,5 odstawiamy heparyne i zostawiamy VKA",
+		"learned": false
+	},
+	"leczenie przeciwkrzepliwe w FA": {
+		"name": "leczenie przeciwkrzepliwe w FA",
+		"text": " celem jest profilaktyka powiklan zatorowo-zakrzepowych, stosowane u wszystkich poza chorymi z niskim ryzykiem tj <65lat, lub z izolowanym FA, ryzyko szacowane na podstawie specjalnych skal, stosowane sa VKA lub NOAC",
+		"learned": false
+	},
+	"leki fibrynolityczne": {
+		"name": "leki fibrynolityczne",
+		"text": " aktywuja plazminogen do utworzenia plazminy i rozpuszczenia skrzepu",
+		"learned": false
+	},
+	"wskazania do fibrynolitykow": {
+		"name": "wskazania do fibrynolitykow",
+		"text": "	swiezy zawal serca STEMI, swiezy udar mozgu,ostra zakrzepica tetnicza, zakrzepica zylna, zatorowosc plucna",
+		"learned": false
+	},
+	"przeciwwskazania do fibrynolitykow": {
+		"name": "przeciwwskazania do fibrynolitykow",
+		"text": "	BEZWZGLEDNE: przebyty udarkrwotoczny, udar niedokrwienny do 6 mies wczesniej, uraz glowy lub operacja do 3 tyg wczesniej, krwawienie z p/pokarmowego, znaczne zaburzenie krzepniecia WZGLEDNE : TIA, przyjmowanie dooustnych koagulantow, ciaza, resuscytacja urazowa, nadcisnienie lekooporne, zaawansowana choroba watroby, IZW, czynna choroba wrzodowa",
+		"learned": false
+	},
+	"dzialania nieporzadane fibrynolitykow": {
+		"name": "dzialania nieporzadane fibrynolitykow",
+		"text": "	powiklania krwotoczne, reakcje alergiczne,wysypka, skurcz oskrzeli, wstrzas,	",
+		"learned": false
+	},
+	"co znosi objawy przedawkowania fibrynolitykow": {
+		"name": "co znosi objawy przedawkowania fibrynolitykow",
+		"text": "  aprotynina",
+		"learned": false
+	},
+	"fibrynolityki preparaty": {
+		"name": "fibrynolityki preparaty",
+		"text": "	streptokinaza- kompleks z plazminogenem, aktywyje wolnyplazminogen; urokinaza - tkankowy aktyw plazminog; rtPA",
+		"learned": false
+	},
+	"leki zwiekszajace krzepliwosc": {
+		"name": "leki zwiekszajace krzepliwosc",
+		"text": "	kwas traneksamowy, wit K, Etamsylat, lekipomocnicze jak wit C, rutyna, venoruton, calcium dobesilate, zmniejszaja przepuszczalnosc naczyn i zwiekszaja ich elastycznosc, leki dzialajace miejscowo- adrenalina, gabki zelatynowe, trombina; leki substytucyjne",
+		"learned": false
+	},
+	"kwas traneksamowy": {
+		"name": "kwas traneksamowy",
+		"text": " blokuje przemiane plazminogenu w plazmine hamujac osoczowe aktywatory plazminogenu; Exacyl roztw do inj 500mg; roztw doustny 100mg/ml po 10 ml; tabl 500mg, dawkowanie 2-4g/d w 2-3 dawkach",
+		"learned": false
+	},
+	"wskazania do kwasu traneksamowego": {
+		"name": "wskazania do kwasu traneksamowego",
+		"text": "	krwawienia w przypadku przedawkowanialekow fibrynolitycznych	",
+		"learned": false
+	},
+	"wit K": {
+		"name": "wit K",
+		"text": "	kofaktor karboksylacji kw glutaminowego czynnikow krzepniecia, Vitacondraz, amp 10mg; wskazania - krwawienia po przedawkowaniu VKA, dziala powoli, przy INR< 4 5mg obniza ten wskaznik do 1,4 w 48h, wg wytycznych pediatrycznych suplementowana u noworodkow",
+		"learned": false
+	},
+	"Etamsylat": {
+		"name": "Etamsylat",
+		"text": "	uszczelnia i zmniejsza kruchosc naczyn, zwieksza ilosc plytek, niewplywa na czynniki krzepniecia, Cyclonamna tab, amp 250mg, 3x2 tabl/d; wskazania wprofilaktyce leczenia krwawien naczyniowych	",
+		"learned": false
+	},
+	"wskazania dla lekow pomocniczych": {
+		"name": "wskazania dla lekow pomocniczych",
+		"text": "	wit C, rutyna itp; w niewydolnosci zylnej iretinopatiach np cukrzycowych	",
+		"learned": false
+	},
+	"leki substytucyjne": {
+		"name": "leki substytucyjne",
+		"text": "	dostarczaja brakujacego czynnika krzepniecia u osob zhemofilia np stezone preparaty czynnika VIII w hemof A, IX w hemofilii B",
+		"learned": false
+	},
+}

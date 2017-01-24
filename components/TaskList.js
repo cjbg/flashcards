@@ -8,8 +8,8 @@ import {
  } from "react-native";
 
 import { TaskRow }  from "./TaskRow";
-import { styles } from "../constants/Styles";
-import { flashcardStyles } from "../constants/Styles";
+import flashcardStyles from "../constants/FlashcardStyles";
+import styles from "../constants/Styles.js";
 
 export class TaskList extends React.Component{
   constructor(props, context){
@@ -157,7 +157,7 @@ export class TaskList extends React.Component{
         <TouchableHighlight
           onPress={this.onReloadStarted.bind(this)}
           style={styles.button}>
-          <Text style={styles.ButtonText}>
+          <Text style={styles.buttonText}>
             Od nowa
           </Text>
         </TouchableHighlight>
@@ -168,24 +168,24 @@ export class TaskList extends React.Component{
       <View>
         <TouchableHighlight
           onPress={this.onLearnedStarted.bind(this)}
-          style={[flashcardStyles.button, flashcardStyles.buttonLearned]}>
-          <Text style={styles.ButtonText}>
+          style={[styles.button, flashcardStyles.buttonLearned]}>
+          <Text style={styles.buttonText}>
             {this.state.flashcardLearned}
             </Text>
         </TouchableHighlight>
 
         <TouchableHighlight
           onPress={this.onNextStarted.bind(this)}
-          style={flashcardStyles.button}>
-          <Text style={styles.ButtonText}>
+          style={styles.button}>
+          <Text style={styles.buttonText}>
             Następna
           </Text>
         </TouchableHighlight>
 
         <TouchableHighlight
           onPress={this.props.onNavBack.bind(this)}
-          style={[flashcardStyles.button, flashcardStyles.buttonExit]}>
-          <Text style={styles.ButtonText}>
+          style={[styles.button, flashcardStyles.buttonExit]}>
+          <Text style={styles.buttonText}>
             Zakończ
           </Text>
         </TouchableHighlight>
