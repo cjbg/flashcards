@@ -8,6 +8,7 @@ import {
   View,
 } from "react-native";
 
+import CheckBox from 'react-native-checkbox';
 import { ExponentLinksView } from "@exponent/samples";
 import styles from "../constants/Styles.js";
 
@@ -19,6 +20,13 @@ import meds3 from "../assets/meds3";
 import anticoagulants from "../assets/anticoagulants";
 
 export default class LinksScreen extends React.Component {
+  constructor(props) {
+    super(props);
+    this.state = {
+      isRandomFlashcards: true
+    };
+  }
+
   static route = {
     navigationBar: {
       visible: false,
@@ -64,6 +72,7 @@ export default class LinksScreen extends React.Component {
             flashcards={sleepMeds}
             groupTitle={"Nowe"}
             onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
             />
         );
       case "sleepMedsOld":
@@ -72,6 +81,7 @@ export default class LinksScreen extends React.Component {
             flashcards={sleepMedsOld}
             groupTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
             />
         );
       case "meds2Updated":
@@ -80,6 +90,7 @@ export default class LinksScreen extends React.Component {
             flashcards={meds2Updated}
             groupTitle={"Aktualizacja - Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
             />
         );
       case "meds3":
@@ -88,6 +99,7 @@ export default class LinksScreen extends React.Component {
             flashcards={meds3}
             groupTitle={"Trzecia część"}
             onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
             />
         );
       case "anticoagulants":
@@ -96,7 +108,8 @@ export default class LinksScreen extends React.Component {
             flashcards={anticoagulants}
             groupTitle={"Antykogulanty"}
             onNavBack={this.onNavBack.bind(this)}
-          />
+            isRandomFlashcards={this.state.isRandomFlashcards}
+            />
         )
       default:
         return (
@@ -149,10 +162,20 @@ export default class LinksScreen extends React.Component {
             <TouchableHighlight
               onPress={this.onAnticogulantsStarted.bind(this)}
               style={styles.button}>
-                <Text style={styles.buttonText}>
-                  Antykogulanty
+              <Text style={styles.buttonText}>
+                Antykogulanty
                 </Text>
             </TouchableHighlight>
+
+            <View style={styles.checkboxContainer}>
+              <CheckBox
+                label='Losowa kolejność'
+                checked={this.state.isRandomFlashcards}
+                onChange={(checked) => this.setState({
+                  isRandomFlashcards: !this.state.isRandomFlashcards
+                })}
+                />
+            </View>
 
           </ScrollView>
         );

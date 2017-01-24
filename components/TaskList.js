@@ -5,173 +5,203 @@ import {
   TouchableHighlight,
   Text,
   View,
- } from "react-native";
+} from "react-native";
 
-import { TaskRow }  from "./TaskRow";
+import { TaskRow } from "./TaskRow";
 import flashcardStyles from "../constants/FlashcardStyles";
 import styles from "../constants/Styles.js";
 
-export class TaskList extends React.Component{
-  constructor(props, context){
+export class TaskList extends React.Component {
+  constructor(props, context) {
     super(props, context);
 
-    let flashCard = this.getRandomFlashCard();
     this.state = {
-      currentFlashCard: flashCard.name,
-      currentFlashCardText: flashCard.text,
+      currentFlashcard: "",
+      currentFlashcardText: "",
+      currentFlashcardNumber: 0,
       flashcardLearned: "Umiem",
-      showFlashcardName: true
+      showFlashcardName: true,
     };
+
+    let flashcard = this.getFlashcard();
+    this.state.currentFlashcard = flashcard.name;
+    this.state.currentFlashcardText = flashcard.text;  
   };
 
-  getFlashCard(randomNumber){
-    let counter = 0;
-    for (var key in this.props.flashcards) {
-      if (counter === randomNumber) {
-        return this.props.flashcards[key];
-      };
-      counter++;
+getFlashcard() {
+  if (this.props.isRandomFlashcards) {
+    return this.getRandomFlashcard();
+  }
+  else {
+    return this.getNextFlashcard();
+  }
+};
+
+getSelectedFlashCard(randomNumber) {
+  let counter = 0;
+  for (var key in this.props.flashcards) {
+    if (counter === randomNumber) {
+      return this.props.flashcards[key];
     };
+
+    counter++;
   };
+};
 
-  getRandomFlashCard(){
-    let randomNumber = 0;
-    let randomFlashCardName = "";
-    let randomFlashCardLearned = false;
-    let length = Object.keys(this.props.flashcards).length;
+getNextFlashcard() {
+  let length = Object.keys(this.props.flashcards).length;
 
-    do{
-      randomNumber = this.getRandomNumber(length);
-      randomFlashCard = this.getFlashCard(randomNumber);
-    }
-    while(randomFlashCard.learned == "true");
+  do {
+    flashcard = this.getSelectedFlashCard(this.state.currentFlashcardNumber);
+  }
+  while (flashcard.learned == "true");
 
-    return randomFlashCard;
-  };
-
-  setFlashCardLearned(flashCardName){
-    this.props.flashcards[flashCardName].learned = "true";
-  };
-
-  getRandomNumber(length){
-    return Math.floor((Math.random() * length) + 0);
-  };
-
-  allFlashCardsAnswered(){
-    for (var key in this.props.flashcards) {
-      if (this.props.flashcards[key].learned === false) {
-        return false;
-      };
-    };
-    return true;
+  if (this.state.currentFlashcardNumber === length - 1) {    
+    this.state.currentFlashcardNumber = 0;
+  }
+  else {
+    this.state.currentFlashcardNumber = this.state.currentFlashcardNumber + 1;
   }
 
-  toggleFlashcard(){
-    this.setState({
-      showFlashcardName: !this.state.showFlashcardName
-    });
+  return flashcard;
+};
+
+getRandomFlashcard() {
+  let randomNumber = 0;
+  let length = Object.keys(this.props.flashcards).length;
+
+  do {
+    randomNumber = this.getRandomNumber(length);
+    randomFlashCard = this.getSelectedFlashCard(randomNumber);
   }
+  while (randomFlashCard.learned == "true");
 
-  setRandomFlashcard(){
-    let randomFlashcard = this.getRandomFlashCard();
-    this.setState({currentFlashCard: randomFlashcard.name});
-    this.setState({currentFlashCardText: randomFlashcard.text});
-  };
+  return randomFlashCard;
+};
 
-  reloadFlashcards(){
-    for (var key in this.props.flashcards) {
-      this.props.flashcards[key].learned = false;
+setFlashCardLearned(flashCardName) {
+  this.props.flashcards[flashCardName].learned = "true";
+};
+
+getRandomNumber(length) {
+  return Math.floor((Math.random() * length) + 0);
+};
+
+allFlashCardsAnswered() {
+  for (var key in this.props.flashcards) {
+    if (this.props.flashcards[key].learned === false) {
+      return false;
     };
   };
+  return true;
+}
+
+toggleFlashcard() {
+  this.setState({
+    showFlashcardName: !this.state.showFlashcardName
+  });
+}
+
+setFlashcard() {
+  let randomFlashcard = this.getFlashcard();
+  this.setState({ currentFlashcard: randomFlashcard.name });
+  this.setState({ currentFlashcardText: randomFlashcard.text });
+};
+
+reloadFlashcards() {
+  for (var key in this.props.flashcards) {
+    this.props.flashcards[key].learned = false;
+  };
+};
 
 
-  onLearnedStarted(){
-    if (this.state.showFlashcardName === false) {
-      this.toggleFlashcard();
-    }
-    if (this.state.currentFlashCard === "Koniec") {
+onLearnedStarted() {
+  if (this.state.showFlashcardName === false) {
+    this.toggleFlashcard();
+  }
+  if (this.state.currentFlashcard === "Koniec") {
+  }
+  else {
+    this.setFlashCardLearned(this.state.currentFlashcard);
+    if (this.allFlashCardsAnswered()) {
+      this.state.currentFlashcard = "Koniec";
     }
     else {
-      this.setFlashCardLearned(this.state.currentFlashCard);
-      if (this.allFlashCardsAnswered()) {
-        this.state.currentFlashCard = "Koniec";
-      }
-      else {
-        this.setRandomFlashcard();
-      }
-      this.forceUpdate();
-    }
-  };
-
-  onNextStarted(){
-    this.setRandomFlashcard();
-    if (this.state.showFlashcardName === false) {
-      this.toggleFlashcard();
+      this.setFlashcard();
     }
     this.forceUpdate();
-  };
+  }
+};
 
-  onFlashcardPressed(){
-    if (this.state.currentFlashCard !== "Koniec") {
-      this.toggleFlashcard();
-      this.forceUpdate();
-    }
-  };
+onNextStarted() {
+  this.setFlashcard();
+  if (this.state.showFlashcardName === false) {
+    this.toggleFlashcard();
+  }
+  this.forceUpdate();
+};
 
-  onReloadStarted(){
-    this.reloadFlashcards();
-    this.setRandomFlashcard();
-    this.setState({
-      showFlashcardName: true
-    });
-  };
+onFlashcardPressed() {
+  if (this.state.currentFlashcard !== "Koniec") {
+    this.toggleFlashcard();
+    this.forceUpdate();
+  }
+};
 
-  renderFlashcard(){
-    if (this.state.showFlashcardName) {
-      return(
+onReloadStarted() {
+  this.reloadFlashcards();
+  this.setFlashcard();
+  this.setState({
+    showFlashcardName: true
+  });
+};
+
+renderFlashcard() {
+  if (this.state.showFlashcardName) {
+    return (
       <TouchableHighlight
         onPress={this.onFlashcardPressed.bind(this)}
         style={flashcardStyles.flashcardButton}>
-          <Text style={flashcardStyles.label}>
-            {this.state.currentFlashCard}
-          </Text>
-        </TouchableHighlight>
-      );
-    }
-    else {
-      return(
-        <TouchableHighlight
-          onPress={this.onFlashcardPressed.bind(this)}
-          style={[flashcardStyles.flashcardButton, flashcardStyles.flashcardBackButton]}>
-            <Text style={flashcardStyles.label}>
-              {this.state.currentFlashCardText}
-            </Text>
-          </TouchableHighlight>
-      );
-    }
+        <Text style={flashcardStyles.label}>
+          {this.state.currentFlashcard}
+        </Text>
+      </TouchableHighlight>
+    );
   }
+  else {
+    return (
+      <TouchableHighlight
+        onPress={this.onFlashcardPressed.bind(this)}
+        style={[flashcardStyles.flashcardButton, flashcardStyles.flashcardBackButton]}>
+        <Text style={flashcardStyles.label}>
+          {this.state.currentFlashcardText}
+        </Text>
+      </TouchableHighlight>
+    );
+  }
+}
 
-  renderButtons(){
-    if (this.state.currentFlashCard === "Koniec") {
-      return(
-        <TouchableHighlight
-          onPress={this.onReloadStarted.bind(this)}
-          style={styles.button}>
-          <Text style={styles.buttonText}>
-            Od nowa
+renderButtons() {
+  if (this.state.currentFlashcard === "Koniec") {
+    return (
+      <TouchableHighlight
+        onPress={this.onReloadStarted.bind(this)}
+        style={styles.button}>
+        <Text style={styles.buttonText}>
+          Od nowa
           </Text>
-        </TouchableHighlight>
-      );
-    }
-    else {
-      return(
+      </TouchableHighlight>
+    );
+  }
+  else {
+    return (
       <View>
         <TouchableHighlight
           onPress={this.onLearnedStarted.bind(this)}
           style={[styles.button, flashcardStyles.buttonLearned]}>
           <Text style={styles.buttonText}>
             {this.state.flashcardLearned}
-            </Text>
+          </Text>
         </TouchableHighlight>
 
         <TouchableHighlight
@@ -190,31 +220,32 @@ export class TaskList extends React.Component{
           </Text>
         </TouchableHighlight>
       </View>
-      );
-    }
-  };
-
-  renderTitle(){
-    return(
-        <Text style={flashcardStyles.smallText}>
-          {this.props.groupTitle}
-        </Text>
     );
-  };
+  }
+};
 
-  render() {
-    return(
-      <View>
-        {this.renderTitle()}
-        {this.renderFlashcard()}
-        {this.renderButtons()}
-      </View>
-    );
-  };
+renderTitle() {
+  return (
+    <Text style={flashcardStyles.smallText}>
+      {this.props.groupTitle}
+    </Text>
+  );
+};
+
+render() {
+  return (
+    <View>
+      {this.renderTitle()}
+      {this.renderFlashcard()}
+      {this.renderButtons()}
+    </View>
+  );
+};
 };
 
 TaskList.propTypes = {
-  onNavBack:  React.PropTypes.func.isRequired,
+  onNavBack: React.PropTypes.func.isRequired,
   flashcards: React.PropTypes.object.isRequired,
   groupTitle: React.PropTypes.string.isRequired,
+  isRandomFlashcards: React.PropTypes.bool.isRequired,
 };

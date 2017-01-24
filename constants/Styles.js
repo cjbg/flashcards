@@ -3,7 +3,7 @@ import { StyleSheet } from "react-native";
 
 module.exports = StyleSheet.create({
     container: {
-    flex: 1,
+        flex: 1,
         paddingTop: 15,
     },
     button: {
@@ -27,6 +27,11 @@ module.exports = StyleSheet.create({
         marginBottom: 20,
         borderBottomWidth: 2,
         borderBottomColor: "black",
+    },
+    checkboxContainer: {
+        marginHorizontal: 10,
+        marginTop: 20,
+        marginBottom: 20
     },
     headerText: {
         fontSize: 26,
