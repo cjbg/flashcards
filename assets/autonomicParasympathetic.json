@@ -1,0 +1,322 @@
+{
+	"acetylocholina neuroprzekaznik ": {
+		"name": "acetylocholina neuroprzekaznik ",
+		"text": "dla ukl przywsp, wl przed za i pozazwojowe, dziala na rec M(gruczoly wydz zew, m gladki p pok i oddech, moczowego, oko, serce pozostale) i N (charakt dla plytki nerwowo miesniowej, pobudza je)skurcz miesni, nie moze byc stasowana jaki lek, natychmiast degradowana, zwieksza przepuszczalnosd dla jon�w Na i K",
+		"learned": false
+	},
+	"Acetylocholinesteraza ": {
+		"name": "Acetylocholinesteraza ",
+		"text": "hydrolizuje acetylocholine do kw octowego i choliny; cholina wykorzystywana do odtworzenia Ach",
+		"learned": false
+	},
+	"droga impulsu ": {
+		"name": "droga impulsu ",
+		"text": "impuls powoduje depolaryzacje zakooczenia nerwowego - przesuwanie pecherzyka w kierunku blony presynaptycznej i uwalnianie Ach z pech. do szczeliny synaptycznej- polaczenie z rec M i N bl postsynaptycznej.",
+		"learned": false
+	},
+	"Receptory muskarynowe ": {
+		"name": "Receptory muskarynowe ",
+		"text": "M1-M5; M1 OUN. kom okl zoladk; M2 ukl serc i oddech; M3 oddech i endokrynny; gruczoly",
+		"learned": false
+	},
+	"zniesienie dzialania w rec N ": {
+		"name": "zniesienie dzialania w rec N ",
+		"text": "leki zwiotczajace, niedepolaryzujace- oplaszcza receptor, nie umozliwia depolaryzacji - pawulon, rukuronium, cisatrakurium, D-tubokuraryna",
+		"learned": false
+	},
+	"Co blokuje Atropina? ": {
+		"name": "Co blokuje Atropina? ",
+		"text": "dzialanie muskarynowe",
+		"learned": false
+	},
+	"Co blokuje D-tubokuraryna? ": {
+		"name": "Co blokuje D-tubokuraryna? ",
+		"text": "dzialanie nikotynowe",
+		"learned": false
+	},
+	"odtrutka na leki zwiotczajace niedepolaryzujace ": {
+		"name": "odtrutka na leki zwiotczajace niedepolaryzujace ",
+		"text": "nadmiar acetylocholiny",
+		"learned": false
+	},
+	"dzialanie przeciwmuskarynowe ": {
+		"name": "dzialanie przeciwmuskarynowe ",
+		"text": "atropina, blokuje rec M nie oddzialowuje na N",
+		"learned": false
+	},
+	"efekt pobudzenia rec M na oczy ": {
+		"name": "efekt pobudzenia rec M na oczy ",
+		"text": "zwezenie zrenic, akomodacja do blizy, zmniejsz cisc wewnatrzgalkowego, odplyw cieczy wodnistej- poszerzenie kanalu do odplywu",
+		"learned": false
+	},
+	"efekt pobudz rec M na serce ": {
+		"name": "efekt pobudz rec M na serce ",
+		"text": "chronotropowo (-) zwolnienie akcji serca, dromotropowo(-) zwolnienie przewodnictwa",
+		"learned": false
+	},
+	"efekt pobudz rec M ukl oddech ": {
+		"name": "efekt pobudz rec M ukl oddech ",
+		"text": "dusznosc, wzrost wydzieliny,",
+		"learned": false
+	},
+	"efekt pob rec M ppok ": {
+		"name": "efekt pob rec M ppok ",
+		"text": "skurcz m gladkich, wzrost wydzielaniarozluznienie zwieraczy",
+		"learned": false
+	},
+	"efekt pob rec M pecherz moczowy ": {
+		"name": "efekt pob rec M pecherz moczowy ",
+		"text": "skurcz sciany rozluznienie zwieraczy",
+		"learned": false
+	},
+	"rec M3 i M2 ": {
+		"name": "rec M3 i M2 ",
+		"text": "m2 serce, m3 oskrzela",
+		"learned": false
+	},
+	"efekt pob rec M gruczoly ": {
+		"name": "efekt pob rec M gruczoly ",
+		"text": "wzrost wydzielania",
+		"learned": false
+	},
+	"efekt pob rec M naczynia ": {
+		"name": "efekt pob rec M naczynia ",
+		"text": "rozszerzanie, ale b krotko, nie maja znaczenia",
+		"learned": false
+	},
+	"parasympatykomimetyki ": {
+		"name": "parasympatykomimetyki ",
+		"text": "pobudzaja ukl przywspolczulny; tylko rec M",
+		"learned": false
+	},
+	"cholinomimetyki ": {
+		"name": "cholinomimetyki ",
+		"text": "dzialaja na rec M iN,",
+		"learned": false
+	},
+	"wskazania do cholinmemyt. ze wzgl na pobudzanie M: ": {
+		"name": "wskazania do cholinmemyt. ze wzgl na pobudzanie M: ",
+		"text": "jaskra, zatrucie atropina, chAlzheimera - tylko te coprzechodza do oun, atoniajelit i pecherza moczowego,przy zatruciu TLPD ineuroleptykami klasycznymi- cholinolityki",
+		"learned": false
+	},
+	"wskazania do cholinmem. ze wzgl na pob N ": {
+		"name": "wskazania do cholinmem. ze wzgl na pob N ",
+		"text": "mistenia gravis, niedowlady m poprzprazkowanych - uciski, urazy, rehabilitacja,odwracanie bloku nerw-miesniowego posrodkach zwiotczajacych niedepolaryz.",
+		"learned": false
+	},
+	"inne leki cholinolityczne ": {
+		"name": "inne leki cholinolityczne ",
+		"text": "TLPD, neuroleptyki klasyczne, lekip/histaminowe I generacji, leki antyarytmiczne Ia(chinidyna)",
+		"learned": false
+	},
+	"podzial cholinomimetykow ": {
+		"name": "podzial cholinomimetykow ",
+		"text": "1)bezposrednio dzialajace-pobudza rpM lacza sie z recmuskarynowym Pilocarpina (parasympatykomimetyk),2)posrednio - pobudza rec m i n hamuja rozkladAch,wyrozniamy odwracalne i nieodwracalne hamujaacetylcholinoesteraze",
+		"learned": false
+	},
+	"cholinomim. dzial bezposrednio ": {
+		"name": "cholinomim. dzial bezposrednio ",
+		"text": "PILOCARPINA, ACETYLOCHOLINA - za krotko, brakzastosowania, CARBACHOL - jaskra, BETANECHOL -znoszenie atoni jelit i pecherza",
+		"learned": false
+	},
+	"pilocarpina kiedy i preparat ": {
+		"name": "pilocarpina kiedy i preparat ",
+		"text": "pobudzenie rec M i N w m rzeskowym imiesniu zwieracza zrenicy, glownie wskazanie jaskra,zsp sjorgena, 2% pilocarpinum - krople do oczu s4x1-2 kropli, krotko dziala, zwieksza wydzielanie lez(Sjorgen); obniza cisn sr�dgalkowe na 4-8h, kr�tkiczas T1/2, stosowana w zapaleniu tecz�wki",
+		"learned": false
+	},
+	"pilocarp dzial nieporz ": {
+		"name": "pilocarp dzial nieporz ",
+		"text": "bole oka, zaburzenia akomodacji",
+		"learned": false
+	},
+	"leki dzialajace posrednio ": {
+		"name": "leki dzialajace posrednio ",
+		"text": "inh acetylocholinoesterazy,zwiekszaja ilosd Ach wszczelinie synapt odwracalne, Neostygmina,pirydostygmina - glownie miastenia i niedowlady,ambenonium, distygmina, fizostygmina, edrofonium- b krotki okres poltrwania, w diagnostyce miasteni;DZIALAJA OSRODKOWO - riwastygmina, donepezil,galantamina - w ch alzheimera",
+		"learned": false
+	},
+	"neostygmina ": {
+		"name": "neostygmina ",
+		"text": "odwracanie zwiotczenia w anastezjologii, silniej dzialana rec N plytke m-nerw niz M, nie dziala osrodkowonieprzenika do oun, dodatkowe dzialanie z rec mbradykardzia, dusznosc, zwezenie oskrzeli, obkurczeniebl miesn p pok - PODAJEMY ATROPINEZAPOBIEGAJAC DODATKOWYM EFEKTOMNIEPORZADANYM NEOSTYGMINY",
+		"learned": false
+	},
+	"po co stosujemy atropine przy neostygminie ": {
+		"name": "po co stosujemy atropine przy neostygminie ",
+		"text": "zapobieganie bradykardii, skurczu mppok, nadmiernemu wydzielaniu zoskrzeli i skurczowi oskrzeli",
+		"learned": false
+	},
+	"choloba alzchemera ": {
+		"name": "choloba alzchemera ",
+		"text": "niedobor acetylocholiny, zmniejszenie impulsacji,podajac leki cholinomimetyki dzialajace osrodkowe -zwiekszamy dlugosc samodzielnej egzystencji,wlaczamy natychmiast po rozpoznaniu, leki te rozwijajatolerancje, zwiekszamy osrodkowa akt cholinergiczna, nie lecza- poprawiaja egzystencje",
+		"learned": false
+	},
+	"donepezil ": {
+		"name": "donepezil ",
+		"text": "yasnal 5; yasnal 10 -tabl",
+		"learned": false
+	},
+	"riwastygmina ": {
+		"name": "riwastygmina ",
+		"text": "exelon",
+		"learned": false
+	},
+	"galantamina ": {
+		"name": "galantamina ",
+		"text": "glownie prz niedowladach, miastenia, nivalin amp0.0025; 0.005 oraz Reminyl tabl 0.004g",
+		"learned": false
+	},
+	"dzialania nieporzadane cholinomimetyk�w ": {
+		"name": "dzialania nieporzadane cholinomimetyk�w ",
+		"text": "biegunki, wymioty b�le brzucha, drzenie,kurcze miesni, napady drgawek,bradykardia, bloki S-A, A-V",
+		"learned": false
+	},
+	"przeciwwskazania do cholinomim ": {
+		"name": "przeciwwskazania do cholinomim ",
+		"text": "mechaniczne zatrzymanie moczu, stany spastyczne ppok, astma POCHP, choroba wrzodowa, chorparkinsona, padaczka obnizaja prog drgawkowy,zaburz przewodzenia, zawal, hipotonia, ciaza",
+		"learned": false
+	},
+	"nieodwracalne inhib Ach-esterazy ": {
+		"name": "nieodwracalne inhib Ach-esterazy ",
+		"text": "nie maja znaczenia terapeutycznego, tyljkotoksykologiczne, gazy bojowe i srodki ochronyroslin, blokuja Ach-esteraze, nagromadzenie Ach wszczelinie- efekty nadmiernego pobudzenia rec Mi N",
+		"learned": false
+	},
+	"leki parasympatykolityczne ": {
+		"name": "leki parasympatykolityczne ",
+		"text": "konkurencyjni antagonisci rec muskarynowego,blokuja receptor Muskarynowy,nie wplywaja na recN efekty blokady odwrotne niz wparasympatykomimetykach, zmniejsz wydzielgruczolow, rozkurcz m rzeskowego i zwieraczazrenicy, porazenie akomodacji, mniej napietasoczewka , utrudnienie odplywu cieczy wodnistej",
+		"learned": false
+	},
+	"wskazania do parasympatykolityka ": {
+		"name": "wskazania do parasympatykolityka ",
+		"text": "1)stany spastyczne p.pok, drog zolciowych,moczowych - BUTYLOBROMEK SCOPOLAMINY,OKSYFENONIUM;2) bradykardia zatokowa -ATROPINA, BELLAPAN,3) anestezjologia -premedykacja, zmniejszenie wydzielania gruczolow,zniesienie pobudzenia n X mechanicznego i poanastetykach, zapobieganie objawom z pobudzeniarec M, 4)rozszerzenie zrenicy - badanie dna oka, 5)choroba parkinsona, 6)POCHP - br IPrATROPIUM, brTIOTROPIUM, br GLIKOPIroNIUM- podstawowagrupa lekow w pochp, 7)pecherz nadreaktywnyOXYBUTYLINA, SOLIFENACYNA, 8)zatrucie grzybamimuskarynowymi i zw fosfoorganicznymi - Atropina",
+		"learned": false
+	},
+	"dlaczego w anestezjologi ": {
+		"name": "dlaczego w anestezjologi ",
+		"text": "podajac atropine po gazach bojowych/ pestycydachznosimy objawyb z rec M, zostaja z N czyli drzeniaczy pozazenia",
+		"learned": false
+	},
+	"dlaczego w ch parkinsona ": {
+		"name": "dlaczego w ch parkinsona ",
+		"text": "choroba leczona l-dopa, dopamina antagonistyczniez ach, zablokowanie ach wzrost dopaminy, nie leczy,poprawia objawy ruchowe, zmniejsza sztywnosc,drzenia, TRIHEKSAFENIDYL, PRINIDOL",
+		"learned": false
+	},
+	"badanie dna oka ": {
+		"name": "badanie dna oka ",
+		"text": "pochodne atropiny - Tropicamid, nie atropina bo dlugodzialala",
+		"learned": false
+	},
+	"leczenie bradykardi ": {
+		"name": "leczenie bradykardi ",
+		"text": "1 rzut - atropina 2 rzut adrenalina",
+		"learned": false
+	},
+	"objawy nieporzadane cholinolit ": {
+		"name": "objawy nieporzadane cholinolit ",
+		"text": "suchosc w jamioe ustnej, tachykardia, zaburzeniawidzenia,, zaparcia atoniczne, zaburzenia oddawaniamoczu- przerost gruczolu krokowego",
+		"learned": false
+	},
+	"przeciwwskazania ": {
+		"name": "przeciwwskazania ",
+		"text": "jaskra, przerost gruczolu krokowego, tachykardia,zaparcia atoniczne, niedroznosc porazenna,zanikowy niezyt bl sluz zoladka, prowadzeniesamochodu po kroplach, przebywanie w wysokichtemp",
+		"learned": false
+	},
+	"podzial parasympatykolitykow ": {
+		"name": "podzial parasympatykolitykow ",
+		"text": "1)naturalne - atropina, scopolamina;2) syntetyczne",
+		"learned": false
+	},
+	"naturalne preparat ": {
+		"name": "naturalne preparat ",
+		"text": "atropina - atropinum sulfuricum iv im; amp 0,5mg,1mg; krople do oczu 1% , w bradykardi,premedykacji, zatrucie zw fosforoorganicznymi,rozszerzanie zrenicy dziala do 10 dni, w bradykardi0,5mg amp jezeli nie wystarcza to max 3mg/d; wzatruciu duzo wieksze wiecej niz 10mg",
+		"learned": false
+	},
+	"asystolia a atropna ": {
+		"name": "asystolia a atropna ",
+		"text": "nie podajemy!!,",
+		"learned": false
+	},
+	"wskazania do Atropiny ": {
+		"name": "wskazania do Atropiny ",
+		"text": "bradykardia, premedykacja, zatrucie zw fosforoorg,",
+		"learned": false
+	},
+	"kiedy nie stosujemy atropiny ": {
+		"name": "kiedy nie stosujemy atropiny ",
+		"text": "POCHP, astma, parkinson, bole kolkowe",
+		"learned": false
+	},
+	"zatrucie atropina ": {
+		"name": "zatrucie atropina ",
+		"text": "pobudzenie rec M w oun, pobudzenie, szal pozniejspiaczka",
+		"learned": false
+	},
+	"kolejnosc objawow dzialania atropiny w zaleznosci od dawki ": {
+		"name": "kolejnosc objawow dzialania atropiny w zaleznosci od dawki ",
+		"text": "1) zmniejszone wydz sliny,sluzu w drogachoskrzelowych,p.pok, suchesluzowki i spojowki - 2)rozszerzenie zrenic,zahamowanie akomodacjido blizy, wzrost tetna, 3)rozkurcz m wypieraczamoczu, retencja moczu,4)zmniejszenie i zahamowanie motoryki jeliti wydziel zoladk",
+		"learned": false
+	},
+	"preparaty zlozone z atropina ": {
+		"name": "preparaty zlozone z atropina ",
+		"text": "reasec(A+ difenoksylat) - lek p/biegunkowy;atropina zabezpieczeniem przedprzedawkowaniem, predzej pacjent odczujeobjawy przedawk atropiny niz opioidu;bellapan - tabl w bradykardi",
+		"learned": false
+	},
+	"Parasympatykolityki syntetyczne ": {
+		"name": "Parasympatykolityki syntetyczne ",
+		"text": "stosowane do leczenia stan�w spastycznychjamy brzusznej, pecherza nadreaktywnego,stan�w spastychnych ukl oddech",
+		"learned": false
+	},
+	"syntetyczne parasympatykolityki ": {
+		"name": "syntetyczne parasympatykolityki ",
+		"text": "Oxyphenonium, Hyoscine butylbromide,chlorowodorek oksybutyniny, bromek ipratropium,bromek tiotropium, bromek aklidinium,",
+		"learned": false
+	},
+	"Oxyphenonium ": {
+		"name": "Oxyphenonium ",
+		"text": "Spasmophen tabl 5mg ; stany spastyczne jamybrzusznej",
+		"learned": false
+	},
+	"Hyoscine butylobromide ": {
+		"name": "Hyoscine butylobromide ",
+		"text": "scopolan czopki 10mg, tabl 10mgbuscopan 10mg, forte 20mgscopolan compositum( z metamizolem)buscolysin amp 20 mg iv im sc; stany spastycznejamy brzusznej!! 3xd; czopek doraznie,",
+		"learned": false
+	},
+	"cholinolityki w urologi ": {
+		"name": "cholinolityki w urologi ",
+		"text": "w pecherzu nadreaktywnym, zmniejszaja parcienaglace, pech moczowy unerwiony przez wlprzywspolczulne, rp M3, 1)oksybutynina: ditropansolifenacyna vesicare 5mg; 10mg 1x1tabl;2)tolterodyna- detrusitol; uroflow 1 i 2mg tabl; 3)fesoterodyna - Toviaz 4 i 8 mg tabl ;4) darifenacynaEmselex 7,5 i 15 mg tabl",
+		"learned": false
+	},
+	"cholinolityki w pochp i astmie ": {
+		"name": "cholinolityki w pochp i astmie ",
+		"text": "zablokowanie rec m2 rozkurcz oskrzeli, na sercechronotropowo dodatnio i dromotropowo dodatnio- zabl rec M2, dzialania nieporzadane, lekibronchodilatacyjne powinny miec duzepowinowactwo do m3 a male do m2 zeby niepowodowaly dzialan nieporzadanych sercowych,znosza spoczynkowe napiecie w drogachoddecoowych, RODZAJE: krotkodzialajace - bromipratropium SAMA; dlugo bromek tiotropium, brglikopironium, br umeklidynium",
+		"learned": false
+	},
+	"SAMA ": {
+		"name": "SAMA ",
+		"text": "nieselektywny, krotko dziala, 4xd 1-2 inhalacji;hamuje tez m3; br ipratropium - Atrovent N aerozol,4xd dawkowanie; Atrovent plyn do inhalacji donebulizatora; preparaty zlozone (ipr+ fenoterol - b2mimetyk) Berodual N aerozol 4xd; Berodual plyn donebulizacji 4x 0,5 - 1,0 ml lub jednorazowo doraznie 1ml",
+		"learned": false
+	},
+	"LAMA ": {
+		"name": "LAMA ",
+		"text": "bromek tiotropium; wzglednie selektywny, dluzejwiaze sie z m3 szybciej oddysocjowuje od m2,mniejsze ryzyko dz niep z ukl krazenia; Spiriva 18ugproszek do inhalacji w kapsulkach- inhalatorproszkowy 1xd 1 kaps wziewnie!! w S.zainhalowane/ wziewne/ proszek do inhalacji wkapsulkach",
+		"learned": false
+	},
+	"bromek glikopyronium ": {
+		"name": "bromek glikopyronium ",
+		"text": "wybiorczy do m3, seebri breezhaler pr do inh 55ug",
+		"learned": false
+	},
+	"bromek umeklidynium ": {
+		"name": "bromek umeklidynium ",
+		"text": "incruse pr do inhalacji 55ug",
+		"learned": false
+	},
+	"dzialania nieporzadane wziewnych parasympatykolit ": {
+		"name": "dzialania nieporzadane wziewnych parasympatykolit ",
+		"text": "kaszel, suchosc w jamieustnej, niesmak w ustach,tachykardia, mozliwy skurczoskrzeli paradoksalny",
+		"learned": false
+	},
+	"czy parasympatykolityki dzialaja hipotensyjnie? ": {
+		"name": "czy parasympatykolityki dzialaja hipotensyjnie? ",
+		"text": "nie, nie znosza skurczumiesni gladkich naczynkrwionosnych",
+		"learned": false
+	},
+}

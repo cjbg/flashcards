@@ -1,0 +1,397 @@
+{
+	"leki pobudzajace rec B2 kr�tkodzialajace ": {
+		"name": "leki pobudzajace rec B2 kr�tkodzialajace ",
+		"text": "SALBUTAMOL, FENOTEROL; stosowane w przerywaniu napad�w dusznosci, przedwczesnych porodach,",
+		"learned": false
+	},
+	"dzial niep lek�w pobudz.B2 kr�tkodzial ": {
+		"name": "dzial niep lek�w pobudz.B2 kr�tkodzial ",
+		"text": "drzenia miesniowe tachykardia b�le glowy",
+		"learned": false
+	},
+	"leki pob rc B2 dlugodzial ": {
+		"name": "leki pob rc B2 dlugodzial ",
+		"text": "SALMETEROL, FORMOTEROL; w stanach spastycznych oskrzeli, astmie POCHP do przewleklego leczenia,",
+		"learned": false
+	},
+	"dzial niep lek�w pob B2 dlugodz ": {
+		"name": "dzial niep lek�w pob B2 dlugodz ",
+		"text": "drzenia miesniowe tachykardia, b�le glowy, hipokaliemia, hiperglikemia,",
+		"learned": false
+	},
+	"B blokery/ B adrenolityki ": {
+		"name": "B blokery/ B adrenolityki ",
+		"text": "blokuja rec B-adrenergiczne, zwalniaja akcje serca- chrono(-), oslabiaja kurczliwosd -inotrop (-), zmniejszaja pobudliwosd i przewodnictwo- batmo i dromotrop(-), zmniejsz uwaln angiotensyny II i reniny, skurcz naczyo obwod, skurcz oskrzeli",
+		"learned": false
+	},
+	"Podzial B-bloker�w ": {
+		"name": "Podzial B-bloker�w ",
+		"text": "1) nieselektywne - blokuja B1 i2/kardioselektywne- B1 2) wazodilatacyjne 3)lipofilne/hydrofilne 4) ISA +/ ISA -",
+		"learned": false
+	},
+	"mechanizmy wazodilatacji ": {
+		"name": "mechanizmy wazodilatacji ",
+		"text": "blokowanie rec A1 adrenergicznego, pobudzanie B3adrenergicznego",
+		"learned": false
+	},
+	"B-blokery nieselektywne ": {
+		"name": "B-blokery nieselektywne ",
+		"text": "I gen, PROPANOLOL, SOTALOL, TYMOLOL, PINDOLOL, KARWEDILOL",
+		"learned": false
+	},
+	"B-blok kardioselektywne ": {
+		"name": "B-blok kardioselektywne ",
+		"text": "II gen, METOPROLOL, BISOPROLOL, BETAKSOLOL, CLIPROLOL, NEBIWOLOL dluzszy okres dzialania",
+		"learned": false
+	},
+	"B-blokery wazodilatacyjne ": {
+		"name": "B-blokery wazodilatacyjne ",
+		"text": "III gen, KARWEDILOL, LABETALO nieselektywne; NEBIWOLOL, CELIPROLOL kardioselektywne, wszystkie z 3 gen maja wlasciwosci wazodilatacyjne",
+		"learned": false
+	},
+	"B-blokery lipofilne inf ": {
+		"name": "B-blokery lipofilne inf ",
+		"text": "wystepuje efekt pierwszego przejscie, kr�tki t1/2, przenikaja do oun, METOPROLOL,PROPANOLOL, KARWEDILOL, nie musi byd redukowana dawka w niewyd nerek",
+		"learned": false
+	},
+	"B-blokery hydrofilne ": {
+		"name": "B-blokery hydrofilne ",
+		"text": "slabo wchlaniane, nie metabolizowane w watrobie, dlugi t1/2, redukcja dawki w niewydolnosci nerek, ATENOLOL, SOTALOL",
+		"learned": false
+	},
+	"Co oznacza ISA ": {
+		"name": "Co oznacza ISA ",
+		"text": "slaba aktywnosd agonistyczna wobec rec B adrenergicznych przy zachowanej aktywnosci antagonistycznej",
+		"learned": false
+	},
+	"Wskazania do b-bloker�w ": {
+		"name": "Wskazania do b-bloker�w ",
+		"text": "1)choroba wieocowa opr�cz postaci naczynioskurczowej 2) zawal serca 3) niewydolnosd serca 4) nadcisnienie tetnicze 5) zaburzenia rytmu 6) migrena, nadczynnosd tarczycy, drzenia miesniowe, jaskra, nadcisnienie wrotne",
+		"learned": false
+	},
+	"dzialania nieporzadane ": {
+		"name": "dzialania nieporzadane ",
+		"text": "bradykardia, bloki A-V, hipotonia, ochlodzenie kooczyn dolnych, obturacja oskrzeli, zmeczenie b�le glowy, zaburzenia snu, uposledzenie tolerancji wysilku, impotencja,zaburzenia metaboliczne, nasilaja insulinoopornosd i zmniejszaja lipolize- najbardziej I gen",
+		"learned": false
+	},
+	"Kt�re B-blok u pacjent�w z cukrzyca i hiperlipidemia? ": {
+		"name": "Kt�re B-blok u pacjent�w z cukrzyca i hiperlipidemia? ",
+		"text": "kardioselektywne i wazodilatacyjne",
+		"learned": false
+	},
+	"b-blok kt�re bezpieczniejsze? ": {
+		"name": "b-blok kt�re bezpieczniejsze? ",
+		"text": "wazodilatacyjne w nadcisnieniu, kardioselektywne bezpieczniejsze niz nieselektywne u pacjent�w z chorobami obturacyjnymi oskrzeli",
+		"learned": false
+	},
+	"b-blokery a hiperglikemia ": {
+		"name": "b-blokery a hiperglikemia ",
+		"text": "powoduja obnizenie wydzielania insuliny i obnizenie przeplywu przez mikrokrazenie w miesniach, spadek zuzycia glukozy, hiperinsulinemia prowadzaca do insulinoopornosci, wzrost glikemii i insulinemii na czczo,",
+		"learned": false
+	},
+	"b-blokery a hipoglikemia ": {
+		"name": "b-blokery a hipoglikemia ",
+		"text": "pobudzenie glikogenolizy i mobilizacja glukozy w odp na hipoglikemie, moga maskowad hipoglikemie,",
+		"learned": false
+	},
+	"odstawianie b-bloker�w ": {
+		"name": "odstawianie b-bloker�w ",
+		"text": "nie odstawiamy nagle, proces trwa okolo 2 tyg, po naglym odstawieniu pojawia sie wzrost cisnienia, zaburzenia rytmu, zaostrzenie dlawicy piersiowej",
+		"learned": false
+	},
+	"Przeciwwskazania do b-bloker�w ": {
+		"name": "Przeciwwskazania do b-bloker�w ",
+		"text": "bradykardia, blok A-V powyzej Ist, astma oskrzelowa, (zaawansowana niewyd serca, zarostowa miazdzyca tt kooczyn dolnych, luszczyca- ostroznie)",
+		"learned": false
+	},
+	"Podstawowe leki w nadcisnieniu tetniczym ": {
+		"name": "Podstawowe leki w nadcisnieniu tetniczym ",
+		"text": "1) diuretyki tiazydowe 2) B-blokery 3) inhibitory enzymu konwertujacego angiotensyne IKA 4) sartany 5) blokery kanal�w Ca",
+		"learned": false
+	},
+	"Podst leki w ChNS ": {
+		"name": "Podst leki w ChNS ",
+		"text": "1) poprawiaja rokowania ASA, statyny= hipolipemizujace, B-blokery, IKA; 2) redukujace objawy azotany B-blokery, Ca blokery, otwierajace kanaly K",
+		"learned": false
+	},
+	"Podstawowe leki w Niewydolnosci serca ": {
+		"name": "Podstawowe leki w Niewydolnosci serca ",
+		"text": "IKA, diuretyki, B-blokery, Ca-blokery, sartany, azotany",
+		"learned": false
+	},
+	"korzystne dzialanie B-blok w niewyd serca ": {
+		"name": "korzystne dzialanie B-blok w niewyd serca ",
+		"text": "spadek kurczliwosci serca, czestosci rytmu, cisnienia tetniczego, zapotrzebowania na tlen, wydzielania reniny, lipolizy, hamowanie ukl RAA, wydluzenie okresu rozkurczu, zwiekszenie przeplywu krwii w warstwie podwsierdziowej,",
+		"learned": false
+	},
+	"dzialanie b-bloker�w w nadcisnieniu ": {
+		"name": "dzialanie b-bloker�w w nadcisnieniu ",
+		"text": "zmniejszenie aktywm osr naczynioruchowego, blokowanie presynaptycznych rec beta-adrenerg, zmniejsz aktywn baroreceptor�w, redukcja obciazenia nastepczego i pojemnosci minutowej, rozszerzaja naczynia",
+		"learned": false
+	},
+	"dzialanie antyarytmiczne b-blok ": {
+		"name": "dzialanie antyarytmiczne b-blok ",
+		"text": "przedluzaja czas trwania pot czynnosciowego, zwalniaja przewodzenie, wydluzaja refrakcje wezla AV, zmniejszaja akt osrodk�w ektopowych, zwalniaja akcje serca, zmniejszaja wplyw stymulacji ukl wsp�lcz np przez stres",
+		"learned": false
+	},
+	"b-blokery leki pierwszego wyboru ": {
+		"name": "b-blokery leki pierwszego wyboru ",
+		"text": "w profilaktyce leczenia nawrotu migotania przedsionk�w u chorych po zawale, niewydolnosci serca i z nadcisnieniem tetniczym, kontrola rytmu kom�r u pacjent�w z utrwalonym migotaniem przedsionk�w, leczenie arytmi komorowej",
+		"learned": false
+	},
+	"Propanolol inf ": {
+		"name": "Propanolol inf ",
+		"text": "nieselektywny, zmniejsz przeplyw watrobowy, obniza nadcisn wrotne, hamuje konwersje T4 w T3 na obwodzie; Propanolol 10 i 40 mgtabl, 1 mg amp",
+		"learned": false
+	},
+	"Atenolol ": {
+		"name": "Atenolol ",
+		"text": "kardioselektywny, Atenolol 25/50/100 0.025g/ 0.05g/0.1g",
+		"learned": false
+	},
+	"Betaksolol ": {
+		"name": "Betaksolol ",
+		"text": "kardioselektywny, Lokren 20 - tabl 20 mg; Betoptic 0,5% krople do oczu= jaskra, podwyzszone cisn. wewnatrzgalkowe",
+		"learned": false
+	},
+	"Labetalol ": {
+		"name": "Labetalol ",
+		"text": "nieselektywny, leczenie nadcisnienia w ciazy, dzialanie A1 adrenolityczne",
+		"learned": false
+	},
+	"Metoprolol ": {
+		"name": "Metoprolol ",
+		"text": "Metocard 50mg tabl; MetoHEXAL 50/100 tabl 50 i 100mg oraz 200 ret= 200 mg; Betaloc ZOK 25/5 0/100 tabl o spow uwaln",
+		"learned": false
+	},
+	"Bisoprolol ": {
+		"name": "Bisoprolol ",
+		"text": "wysoce kardioselektywny, Bisocard 5 i 10 mg tabl; Concor Cor 1.25/2.5/3.75/5/7.5/10 = tabl 1,25mg itd; Bisohexal 5/10 = tabl 5 mg 10 mg",
+		"learned": false
+	},
+	"Karwsedilol ": {
+		"name": "Karwsedilol ",
+		"text": "nieselektywny, ma korzystny profil metaboliczny, ma dodatkowe dzialanie rozszerzajace naczynia, antyoksydant, dziala antyagregacyjnie, antyproliferacyjnie, zwieksza uwalnianie NO ze sr�dblonka; Avedol 6,25 mg, 12,5 mg, 25 mg/ Atram 6.25/12.5/25",
+		"learned": false
+	},
+	"Nebiwolol ": {
+		"name": "Nebiwolol ",
+		"text": "wysoce kardioselektywny, ISA -, nasila synt NO, nie wplywa korzystnie na potencje, Nebilet, Nedal, Ebivol 5mg",
+		"learned": false
+	},
+	"Sotalol ": {
+		"name": "Sotalol ",
+		"text": "nieselektywny, ISA -, ma wlasciwosci antyarytmiczne, Bisotal 40/80/160 = tabl 40 mg itd.; Sotahexal 40/80/160, dawkowanie 80-160/d w dw�ch dawkach",
+		"learned": false
+	},
+	"Timolol ": {
+		"name": "Timolol ",
+		"text": "krople okulistyczne, zablokowanie rec B2- skurcz miesnia rzeskowego- napiecie wiezadla grzebieniastego kata tecz�wkowo rog�wkowego- sprawniejsze przechodzenie ciecz zkomory przedniej do kanalu Schlamma, Oftensin",
+		"learned": false
+	},
+	"receptory beta w sercu ": {
+		"name": "receptory beta w sercu ",
+		"text": "70% beta 1 30% beta 2",
+		"learned": false
+	},
+	"leki pobudzajace beta1 i 2 ": {
+		"name": "leki pobudzajace beta1 i 2 ",
+		"text": "izoprenalina i orciprenalina niedost w polsce",
+		"learned": false
+	},
+	"beta2 mimetyki a tolerancja ": {
+		"name": "beta2 mimetyki a tolerancja ",
+		"text": "powoduja tolerancje ktora jest wynikiem down regulation, zmniejszenie gestosci receptorow, zapobiega temu laczenie GKS, b2mim nasilaja dzialanie GKS",
+		"learned": false
+	},
+	"Leczenie astmy ": {
+		"name": "Leczenie astmy ",
+		"text": "GKS + b2 mimetyk, nie mozna leczyc samym krotkodzialc b2mim = wzrost incydentow nacz-serc bo w sercu tez sa rec b2, dlugodzialajace tez nie= down regulation,najczesciej leki sa laczone w jednym inhalatorze",
+		"learned": false
+	},
+	"b2mim leki ": {
+		"name": "b2mim leki ",
+		"text": "salbutamol, fenoterol, salmeterol, formoterol, indakaterol",
+		"learned": false
+	},
+	"b2 mim wskazania ": {
+		"name": "b2 mim wskazania ",
+		"text": "stany spastyczne oskrzeli, astma pochp, porod przedwczesny",
+		"learned": false
+	},
+	"cholinolityki a b2 mim ": {
+		"name": "cholinolityki a b2 mim ",
+		"text": "cholinolityki 1 wybor w astmie, w pochp i b2mimetyki i cholinolityki, cholinolityki obnizaja napiecie spoczynkowe, dluzsze i powolniejsze dzialanie",
+		"learned": false
+	},
+	"efekt dzialania b2mim w ukl oddech ": {
+		"name": "efekt dzialania b2mim w ukl oddech ",
+		"text": "relaksacja i rozkurcz oskrzeli, stymulacja mech rzeskowo-sluzowego, poprawia oczyszczanie oskrzeli, przeciwzapalnie, zmniejszaja degranulacje mastocytow i eozynofili, zmniejszaja przepuszczalnosc naczyn",
+		"learned": false
+	},
+	"mechanizm dzialania b2mim ": {
+		"name": "mechanizm dzialania b2mim ",
+		"text": "pobudza cyklaze adenylanowa, wzrost cAMP aktywuje kinazy bialkowe PKA, obnizenie stezenia jonow Ca, rozkurcz miesni gladkich",
+		"learned": false
+	},
+	"podzial b2mimetykow ": {
+		"name": "podzial b2mimetykow ",
+		"text": "1)szybko i krotko dzialajace= salbutamol, fenoterol, do przerywania napadow 2) szybko i dlugo= formoterol 3) pozno i dlugo = sarmeterol, leczenie przewlekle",
+		"learned": false
+	},
+	"co decyduje o szybkosci i czasie dzialania ": {
+		"name": "co decyduje o szybkosci i czasie dzialania ",
+		"text": "szybkosc= hydrofilnosc im bardziej tym krocej, czas= dlugosc lancucha, im dluzszy tym dluzej",
+		"learned": false
+	},
+	"SABA ": {
+		"name": "SABA ",
+		"text": "mimetyki krotkodzialajace, szybko dzialaja, do doraznego przerywania dusznosci, slbutamol, fenoterol",
+		"learned": false
+	},
+	"salbutamol ": {
+		"name": "salbutamol ",
+		"text": "ventolin=aerozol 100ug/dawke; 1x2dawki; ventolin dysk 200ug/dawke max 4x; roztwor do nebulizacji 0,1%(2,5 mg salbutamolu), 0,2%(5mg) odpowiednio 1;2mg/ml po 2,5 ml dawkowanie 2,5-5 mg, max 4x; na recepcie w celu doraznego przerywania dusznosci; 1 amp do komory nebulizacyjnej, w razie potrzeby powtorzyc po 30 min, nie rozcienczamy",
+		"learned": false
+	},
+	"roznica miedzy aerozolem a dyskiem ": {
+		"name": "roznica miedzy aerozolem a dyskiem ",
+		"text": "aerozol potrzebuje mniejsza sila ciagu ale musi byc zgranie w czasie nacisniecie wdech latwiejsze dla wyniszczonych pacjentow, w przypadku dyskow potrzeba wiekszej sily nacisku ale nie potrzebna koordynacja bo inhalacja aktywowana wdechem, nie czuc ze sie cos wdycha",
+		"learned": false
+	},
+	"berodual w kroplach ": {
+		"name": "berodual w kroplach ",
+		"text": " rozcienczamy w NaCl, dawka okolo 20 kropli",
+		"learned": false
+	},
+	"Fennoterol ": {
+		"name": "Fennoterol ",
+		"text": "berotec N 100 aerozol; berodual N ( fenoterol+ br ipratropium-cholinolityk) aerozol 4xd, berodual krople",
+		"learned": false
+	},
+	"LABA ": {
+		"name": "LABA ",
+		"text": "dlugodzialajace b2mim,",
+		"learned": false
+	},
+	"Formoterol ": {
+		"name": "Formoterol ",
+		"text": "szybki poczatek i dlugo dziala, mozna uzyc do przerywania napadow i leczenia przewleklego, Oxis turbuhaler 4,5ug/dawke 9ug/dawke; Foradil, zafiron, oxodil proszek do inhalacji 12ug, przyjmowac wziewnie 2x1 kapsulka do inhalacji Oxidil pph 60kaps z aerolizerem, do przerywania napadu doraaznie 1-2 wdechow",
+		"learned": false
+	},
+	"Salmeterol ": {
+		"name": "Salmeterol ",
+		"text": "tylko do lecz przewleklego, lipofilny, w postaci aerozolu lub dyski serevent 25ug/dawke 2x1 nhalacja ,ax 2x4 dysk 50ug/dawke, nie do przerwanie napadu( pozno i dlugo)",
+		"learned": false
+	},
+	"Indakaterol ": {
+		"name": "Indakaterol ",
+		"text": "ultradlugodzialajacy",
+		"learned": false
+	},
+	"lek bronchodilatacyjny do doraznego przerwania dusznosci": {
+		"name": "lek bronchodilatacyjny do doraznego przerwania dusznosci",
+		"text": "rpventolin 100ug/dawkein aerosolo1oplubberotec N 100 100ug/dawkein aerosolo1ops. 1-2 inhalacje w celu doraznego przerwania napadu dusznosci",
+		"learned": false
+	},
+	"lek w nebulizacji krotkodzialajacy": {
+		"name": "lek w nebulizacji krotkodzialajacy",
+		"text": "RpVentolin 0,1%roztwor do nebulizaciampulki No 10s. doraznie do przerwania napadu dusznosci zawartosc 1 ampulki do komory nebulizatora, inhalowac przez 10min przy braku poprawy powtorzyc po 30 min",
+		"learned": false
+	},
+	"zlozony": {
+		"name": "zlozony",
+		"text": "rpBerodualroztwor do nebulizacji1ops. 20 kropli wraz z 1 amp soli fizjologicznej. Stosowac w nebulizacji 4xd",
+		"learned": false
+	},
+	"dlugodzialajacy b2mim o szybkim poczatku dzialania": {
+		"name": "dlugodzialajacy b2mim o szybkim poczatku dzialania",
+		"text": "rp.oxis 4,5ug/dawketurbohaler1ops. 2dzx1 wdechrpoxodil pph 12ug/dawkein capsulla ( proszek do inhalacji w kapsulkach)1ops. 2x dziennie 1 kapsulka wziewnie",
+		"learned": false
+	},
+	"dlugodzialajacy b2mim w postaci dysku": {
+		"name": "dlugodzialajacy b2mim w postaci dysku",
+		"text": "rpserevent dysk 50ug/dawke1 ops. 2x dziennie 1 wdech",
+		"learned": false
+	},
+	"efekt batmotropowy bblok ": {
+		"name": "efekt batmotropowy bblok ",
+		"text": "w leczeniu antyarytmicznym, 1szy wybor w tachykardii zatokowej wykorzystywane tez chronotropowy ujemny",
+		"learned": false
+	},
+	"co maja wszystkie bblok ": {
+		"name": "co maja wszystkie bblok ",
+		"text": "komponente antyarytmiczna",
+		"learned": false
+	},
+	"mechanizmy wazodilatacyjny bblok ": {
+		"name": "mechanizmy wazodilatacyjny bblok ",
+		"text": "karwedilol i labet blokuje alfa1, nebiwolol uwalnia NO przez pobudzenie beta3, celiprolol - pobudza b2",
+		"learned": false
+	},
+	"metyl-DOPA ": {
+		"name": "metyl-DOPA ",
+		"text": "pobudza osr alfa 2, obniza cisnienie, u pacjentek ciezarnych 1szy wybor",
+		"learned": false
+	},
+	"receptory w oun ": {
+		"name": "receptory w oun ",
+		"text": "alfa2 i rec imidazolowe, pobudzanie ich powoduje spadek cisnienia, np metyl-dopa na alfa2 a imidazolowe rilmenidyna i moksonidyna; lek pobudzajace oba klonidyna= leki osrodkowe leczace nadcisnienie oporne",
+		"learned": false
+	},
+	"leki hipotensyjne u ciezarnych ": {
+		"name": "leki hipotensyjne u ciezarnych ",
+		"text": "metyl-dopa i labetalol",
+		"learned": false
+	},
+	"dla pacjentow z chorobami obturacyjnymi ": {
+		"name": "dla pacjentow z chorobami obturacyjnymi ",
+		"text": "lepsze kardioselektywne bo nie zablokuja beta2 w oskrzelach( zklociloby to mozliwosc rozkurczu a nawet skurczy oskrzela)",
+		"learned": false
+	},
+	"wplyw bblok na gosp lipidowa ": {
+		"name": "wplyw bblok na gosp lipidowa ",
+		"text": "starsze gen niekorzystny nowsze co najmniej obojetny",
+		"learned": false
+	},
+	"korzysci bblok w niewydolnosci serca ": {
+		"name": "korzysci bblok w niewydolnosci serca ",
+		"text": "zmniejszenie obciazen przez zablokowanie ulk RAA i zmniejszeniezapotrzebowania na tlen przez inotropowo i chronotropowo ujemnie",
+		"learned": false
+	},
+	"dlaczego bblok w ch wiencowej ": {
+		"name": "dlaczego bblok w ch wiencowej ",
+		"text": "zmniejszenie zapotrzebowania na tlen, wydluza faze rozkurczu",
+		"learned": false
+	},
+	"lek w leczeniu samoistnego drzenia miesniowego ": {
+		"name": "lek w leczeniu samoistnego drzenia miesniowego ",
+		"text": "propanolol, lub inny nieselektywny, blokada rec b2 w miesniach",
+		"learned": false
+	},
+	"bblok a astma i pochp ": {
+		"name": "bblok a astma i pochp ",
+		"text": "w astmie nie stosujemy, w pochp kardioselektywne",
+		"learned": false
+	},
+	"bbloker nieuposledzajacy potencji i libido ": {
+		"name": "bbloker nieuposledzajacy potencji i libido ",
+		"text": "newibolol",
+		"learned": false
+	},
+	"bloki AV a bblokery ": {
+		"name": "bloki AV a bblokery ",
+		"text": "powyzej 1 stopnia nie przepisujemy albo odstawiamy gdy wywolaja bloki powyzej 2 i 3 stopnia",
+		"learned": false
+	},
+	"druga grupa lekow przeciwjaskrowych ": {
+		"name": "druga grupa lekow przeciwjaskrowych ",
+		"text": "bblokery w kroplach betaksolol, pierwsza byla cholinomimetyki Pilocarpina",
+		"learned": false
+	},
+	"statyny ": {
+		"name": "statyny ",
+		"text": "obnizanie poziomu cholesterolu, maja dzialanie plejotropowe- korzystne dodatkowe wlasciwosci lekow,",
+		"learned": false
+	},
+}

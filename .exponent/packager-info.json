@@ -1,8 +1,8 @@
 {
-  "packagerPort": null,
-  "exponentServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "packagerPort": 19001,
+  "exponentServerNgrokUrl": "https://9m-pic.jczabator.flashcards.exp.direct",
+  "packagerNgrokUrl": "https://packager.9m-pic.jczabator.flashcards.exp.direct",
+  "ngrokPid": 15044,
   "exponentServerPort": 19000,
-  "packagerPid": null
+  "packagerPid": 15524
 }

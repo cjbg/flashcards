@@ -1,0 +1,427 @@
+{
+	"neuroprzekazniki ukl wsp��lcz. ": {
+		"name": "neuroprzekazniki ukl wsp��lcz. ",
+		"text": "adrenalina i noradrenalina, dzialaja za posrednictwem rec alfa (1 i 2) beta (1,2,3,4)",
+		"learned": false
+	},
+	"receptory alfa 1 ": {
+		"name": "receptory alfa 1 ",
+		"text": "znajduja sie postsynapt. pobudzaja uwalnianie NA, znajduja sie w naczyniach i dolnej czesci ukl moczowego, powoduja zwezenie naczyo, wzrost cisnienia tetniczego, zwiekszenie napiecia w ukl.mocz",
+		"learned": false
+	},
+	"receptory alfa2 ": {
+		"name": "receptory alfa2 ",
+		"text": "presynaptycznie, hamuja uwalnianie NA, w OUN i naczyniach, zmniejszaja cisnienie",
+		"learned": false
+	},
+	"Obnizanie cisnienia przez rec alfa? ": {
+		"name": "Obnizanie cisnienia przez rec alfa? ",
+		"text": "blokujac alfa 1 lub pobudzajac alfa2",
+		"learned": false
+	},
+	"receptory beta 1 ": {
+		"name": "receptory beta 1 ",
+		"text": "w sercu, aparat przyklebuszk nerek, efekt inotropowy, chronotropowy, batmotropowy, dromotrfopowy dodatni, wzrost uwalniania reniny",
+		"learned": false
+	},
+	"receptory beta 2 ": {
+		"name": "receptory beta 2 ",
+		"text": "w oskrzelach, macicy i naczyniach, pobudzenie powoduje rozkurcz oskrzeli, rozkurcz naczyo i efekt tokolityczny",
+		"learned": false
+	},
+	"Co to adrenomimetyk/ lityk? ": {
+		"name": "Co to adrenomimetyk/ lityk? ",
+		"text": "lek pobudzajacy bezposrednio rec alfa lub beta/ blokujacy bezposrednie rec A lub B",
+		"learned": false
+	},
+	"Co to sympatykomimetyk? ": {
+		"name": "Co to sympatykomimetyk? ",
+		"text": "lek pobudzajacy ukl wsp�lczulny w r�znych mechanizmach",
+		"learned": false
+	},
+	"Co to sympatykolityk? ": {
+		"name": "Co to sympatykolityk? ",
+		"text": "lek hamujacy ukl wsp�lcz przez dzialanie pozareceptorowe",
+		"learned": false
+	},
+	"Leki pobudzajace gl�wnie rec A ": {
+		"name": "Leki pobudzajace gl�wnie rec A ",
+		"text": "1) dzialajace og�lnie =we wstrzasiew i hipotoni : NOREPINEFRYNA, ETILEFRYNA, MIDODRYNA; 2)dzialajace miejscowo= zapalny i alergiczny niezyt nosa i spoj�wek NAFAZOLINA, KSYLOMETAZOLINA, OKSYMETAZOLINA, TETRYZOLINA, TYMAZOLINA",
+		"learned": false
+	},
+	"Leki pobudzajace rec A i B ": {
+		"name": "Leki pobudzajace rec A i B ",
+		"text": "1) dzialajace bezposrednio : EPINEFRYNA, DOPAMINA, 2) dzialajace posrednio EFEDRYNA,TYRAMINA 3) o przewazajacym dzialaniu osrodkowym AMFETAMINA, KOKAINA",
+		"learned": false
+	},
+	"Norepinefryna inf ": {
+		"name": "Norepinefryna inf ",
+		"text": "silny agonista rec alfa 1 i 2; slabsz beta 1, bslabo pobudza beta2; powoduje skurcz we wszystkich naczyniach zawyjatkiem wieocowych- powoduje wzrost przeplywu wieocowego, powoduje wzrost cisn sk i rozk, mozepowodowad odruchowa bradykardie",
+		"learned": false
+	},
+	"dlaczego odruchowa bradykardia? ": {
+		"name": "dlaczego odruchowa bradykardia? ",
+		"text": "wzrost cisnienia powoduje odbarczenie barorec iwzrost stymulacji przywsp�lcz= bradykardia",
+		"learned": false
+	},
+	"wskazania do NA ": {
+		"name": "wskazania do NA ",
+		"text": "wstrzas- dziala natychmiast i b. kr�tko, 2-5min; podawana pozajelitowowe wlewie kroplowym",
+		"learned": false
+	},
+	"Etilefryna ": {
+		"name": "Etilefryna ",
+		"text": "Effortil tabl i krople w hipotoni",
+		"learned": false
+	},
+	"Mididrina ": {
+		"name": "Mididrina ",
+		"text": "Gutron tabl w hipotoni",
+		"learned": false
+	},
+	"Nafazolina ": {
+		"name": "Nafazolina ",
+		"text": "Rhinazin krople do nosa i oczu",
+		"learned": false
+	},
+	"Ksylometazolin ": {
+		"name": "Ksylometazolin ",
+		"text": "otrivin krople i zel do nosa",
+		"learned": false
+	},
+	"oksymetazolin ": {
+		"name": "oksymetazolin ",
+		"text": "oxalin Acatar kropl do nosa",
+		"learned": false
+	},
+	"Tetryzolina ": {
+		"name": "Tetryzolina ",
+		"text": "Visine, Tyzine kropl do oczu",
+		"learned": false
+	},
+	"Tymazolina ": {
+		"name": "Tymazolina ",
+		"text": "Thymazen do nosa, krople",
+		"learned": false
+	},
+	"Adrenalina inf ": {
+		"name": "Adrenalina inf ",
+		"text": "agonista erc A1,2 i B1,2; dziala ino i chronotropowo dodatnio,powoduje skurcz lozyska naczyn sk�ry bl sluz i nerek, silnie podwyzsza cisnienie krwi, rozszerza oskrzela",
+		"learned": false
+	},
+	"Adrenalina wskazania ": {
+		"name": "Adrenalina wskazania ",
+		"text": "wstrzas anafilaktyczny, reakcje nadwrazliwosci, reanimacja, miejscowetamowanie krwawieo, przedluzenie dzialania lek�w miejscowo znieczulajacych",
+		"learned": false
+	},
+	"Adrenalina a Ostra niew serca i wstrzas kardiogenny ": {
+		"name": "Adrenalina a Ostra niew serca i wstrzas kardiogenny ",
+		"text": "nie jest lekiem pierwszeko rzutu!!,przyspiesza rytm i zwieksza zapotrzebowanie na tlen",
+		"learned": false
+	},
+	"Adrenalina drogi podania ": {
+		"name": "Adrenalina drogi podania ",
+		"text": "domiesniowo, dozylnie, doszpikowo, sc,",
+		"learned": false
+	},
+	"Adrenalina preparaty ": {
+		"name": "Adrenalina preparaty ",
+		"text": "Adrenalina WZF 1mg/1ml, ampulkostrzykawka 0,3mg/0,3ml;Anapen 0.3mg/0.3ml, Anapen junior 0,15mg/0.3ml , max 1mg lub Adrenalina WZF 0,1% 1mg/1mlstosujemy0,1- 0,3 mg w 10ml NaCl w powolnym wlewie dozylnie",
+		"learned": false
+	},
+	"Dopamina dzialanie ": {
+		"name": "Dopamina dzialanie ",
+		"text": "1) pobudzenie rec dopamin (nerki oun serce m�zg)= poprawaprzeplywu nerkowego, diurezy, rozszerz naczyn nerkowych 2) w zaleznosci od dawki pobudza B1-B2-A iB- Alfa 3) uwalnia NA z zakoodzeo nerwowych",
+		"learned": false
+	},
+	"dopamina efekty kliniczne ": {
+		"name": "dopamina efekty kliniczne ",
+		"text": "wzrost GFR, poprawa przeplywu nerkowego, inotropowododatnio, zwezenie naczyo( zalezy od dawki)",
+		"learned": false
+	},
+	"dopamina wskazania ": {
+		"name": "dopamina wskazania ",
+		"text": "wstrzas kardiogenny, septyczny, hipowolemiczny, ostraniewydolnosd krazenia",
+		"learned": false
+	},
+	"dopamina dawkowanie ": {
+		"name": "dopamina dawkowanie ",
+		"text": "2-5 ug/kg/min",
+		"learned": false
+	},
+	"Dobutamina ": {
+		"name": "Dobutamina ",
+		"text": "dziala na B1, inotropowo dodatnio, wskazania jak dladopaminy, nie wplywa na rec D, slabo na A1 i B2, Dobutamine fiolki 0,25g",
+		"learned": false
+	},
+	"Efedryna inf ": {
+		"name": "Efedryna inf ",
+		"text": "bezposrednio- pobudza gl�wnie rec B ale A tez, posredniozwieksza wydzielanie NA, hamuje reuptake i hamuje MAO",
+		"learned": false
+	},
+	"efedryna dzial nieporzadane ": {
+		"name": "efedryna dzial nieporzadane ",
+		"text": "wzrost cisnienia, tachykardia, pobudzienie oun, bezsennosd,niepok�j, drzenie kooczyn, uzaleznienie, przy odstawieniu zjawisko z odbicia",
+		"learned": false
+	},
+	"kiedy stosowad efedryne? ": {
+		"name": "kiedy stosowad efedryne? ",
+		"text": "jedynie do anemizacji blon sluzowych",
+		"learned": false
+	},
+	"Pseudoefedryna ": {
+		"name": "Pseudoefedryna ",
+		"text": "slabsze dzialanie na ukl serc-nacz niz efedryna, do anemizacji blsluzowej, w preparatach zlozonych Acatar, Ibuprom zatoki, Modafen Gripex",
+		"learned": false
+	},
+	"Dzialania nieporzadane alfa adrenomim og�lnych ": {
+		"name": "Dzialania nieporzadane alfa adrenomim og�lnych ",
+		"text": "tachykardia, b�le wieocowe, zwiekszeniezapotrzebowania na tlen, arytmia, zwyzki cisnienia, nudnosci, wymioty , niepok�j",
+		"learned": false
+	},
+	"dzialania nieporzadane alfa adrenomim miejscowych ": {
+		"name": "dzialania nieporzadane alfa adrenomim miejscowych ",
+		"text": "obrzek malzowin nosowych, hyperreaktywnosdbl sluz nosa + t.j og�lne",
+		"learned": false
+	},
+	"Przeciwwskazania do alfa adrenomimeyk�w ": {
+		"name": "Przeciwwskazania do alfa adrenomimeyk�w ",
+		"text": "pheochromacytoma, tyreotoksykoza, chorobawieocowa, przerost gruczolu krokowego",
+		"learned": false
+	},
+	"alfa1 adrenolityki ": {
+		"name": "alfa1 adrenolityki ",
+		"text": "zmniejszenie ilosci NA i A w szczelinie, zmniejszenie cisnieniatetniczego, zmn skurczu m gladkich, zmn oporu obwodowego, zmniejszenie objaw�w obstrukcji sterczu,zaczynamy od malej dawki, podajemy przed snem, najlepiej forma retard",
+		"learned": false
+	},
+	"Wskazania do alf1 adrenolityk�w ": {
+		"name": "Wskazania do alf1 adrenolityk�w ",
+		"text": "nadcisnienie tetnicze, przerost gruczolu krokowego( moga bydstosowane nawet u os�b z zaburz gosp lipidowej i weglowodanowej, stanami spastycznymi oskrzeli)",
+		"learned": false
+	},
+	"Dzialania niep A1adrenolityk�w ": {
+		"name": "Dzialania niep A1adrenolityk�w ",
+		"text": "hipotonia, omdlenia ortostatyczne, zawroty glowy",
+		"learned": false
+	},
+	"przeciwwskazania A1adrenolityk�w ": {
+		"name": "przeciwwskazania A1adrenolityk�w ",
+		"text": "niewyr�wnana niewydolnosd serca",
+		"learned": false
+	},
+	"A1 adrenolityki preparaty ": {
+		"name": "A1 adrenolityki preparaty ",
+		"text": "Terazosyna, Doksazosyna,Tamsulozyna, Urapidyl",
+		"learned": false
+	},
+	"Doksazosyna ": {
+		"name": "Doksazosyna ",
+		"text": "t1/2 22h; Cardura tabl 1, 2 ,4 mg; Cardura XL 4 i 8 mg; Kamiren1,2,4mg",
+		"learned": false
+	},
+	"Uroselektywne A1 adrenolityki ": {
+		"name": "Uroselektywne A1 adrenolityki ",
+		"text": "Tamsulozyna= Omnic 0.4 kaps o przedl uwaln 0.4mg; Tanyzkaps 0.4mg; Urapidyl= Ebrantil amp 5mg do doraznego obnizenia cisnienia",
+		"learned": false
+	},
+	"NA iA neurotransmiter w wloknach pozazwojawch, w przedzwojowych Achrec alfa2 ": {
+		"name": "NA iA neurotransmiter w wloknach pozazwojawch, w przedzwojowych Achrec alfa2 ",
+		"text": "autoreceptory, odpowiadaja za hamowanie uwalniania NA, zlokalizowane na bloniepresynaptycznej",
+		"learned": false
+	},
+	"leki hipotensyjne dzialajaco osrodkowo- ": {
+		"name": "leki hipotensyjne dzialajaco osrodkowo- ",
+		"text": "dzialaja na alfa2, pobudzaja i zmniejszaja cisnienie",
+		"learned": false
+	},
+	"zwiekszenie napiecia w ukl moczowym- ": {
+		"name": "zwiekszenie napiecia w ukl moczowym- ",
+		"text": "upacjentow z lagodnym przerostwm gruczolu krokowego,objawy towarzyszace spowodowane sa wlasnie tym zwiekszonym napiecie",
+		"learned": false
+	},
+	"beta1 � ": {
+		"name": "beta1 � ",
+		"text": "charakt dla serca",
+		"learned": false
+	},
+	"rec charakterystyczne dla oskrzeli ": {
+		"name": "rec charakterystyczne dla oskrzeli ",
+		"text": "M2, M3, beta2",
+		"learned": false
+	},
+	"nadmierna aktywacja ukl RAA ": {
+		"name": "nadmierna aktywacja ukl RAA ",
+		"text": "przyczyna niewydolnosci serca i nadcisnieniaprzewaga w naczyniach alfa jeden mimo ze sa beta 2 tez, jezeli NA polaczy sie w naczyniach z alfa1 i beta2 to i tak sie skurczy, bo wiecej alfa",
+		"learned": false
+	},
+	"Norepinefryna w jakim rodzaju wstrzasu ": {
+		"name": "Norepinefryna w jakim rodzaju wstrzasu ",
+		"text": "najchetniej w strzasieseptycznym, ale moze byc w kazdym",
+		"learned": false
+	},
+	"paradpks norepinefryny ": {
+		"name": "paradpks norepinefryny ",
+		"text": "przede wszystkim pobudza alfa 1 skurcz naczynpobudzeniebaroreceptorow-pobudzenie nX- bradykardia mimo tego ze tez dziala na beta 1 ktorepowinny dawac tachykardie",
+		"learned": false
+	},
+	"adrenalina ": {
+		"name": "adrenalina ",
+		"text": "w rownym stopniu pobudza alfa i beta",
+		"learned": false
+	},
+	"adrenalina w jakim wstrzasie ": {
+		"name": "adrenalina w jakim wstrzasie ",
+		"text": "anafilaktycznym pierwszy wybor",
+		"learned": false
+	},
+	"Adrenlia a rko ": {
+		"name": "Adrenlia a rko ",
+		"text": "defibrylacja w migotaniu komor,adrenalina po 3-ciej nieskutecznej defibrylacji, w asystolii od razu, droga podania doszpikoa Isz, IIgidozylna, nie podajemy dotchawiczo(do rurki intubacyjnej nie)",
+		"learned": false
+	},
+	"Mechanizmy zatrzymania krazenia ": {
+		"name": "Mechanizmy zatrzymania krazenia ",
+		"text": "migotanie komor- do defibrylacji iasystolia- nie defibrylujemydo defibrylacji sa okreslone rytmy m.in migotanie komor, schemat defibrylacja, defibrylacja defibrylacjaadrenalina defibrylacjaw asystolii od razu adrenalina!!!",
+		"learned": false
+	},
+	"W bradykardii ": {
+		"name": "W bradykardii ",
+		"text": "1 wybor atropina, 2gi adrenalina",
+		"learned": false
+	},
+	"Wstrzas kardiogenny ": {
+		"name": "Wstrzas kardiogenny ",
+		"text": "1szy wybor dopamina 2gi adrenalina",
+		"learned": false
+	},
+	"Adrenalina z lidokaina ": {
+		"name": "Adrenalina z lidokaina ",
+		"text": "przedluza dzialanie lek. Znieczulajacych, zmniejszenie krwawienia np poekstrakcji zeba",
+		"learned": false
+	},
+	"ampulkostrzykawki z adrenalina ": {
+		"name": "ampulkostrzykawki z adrenalina ",
+		"text": "zwiazane ze wstrzasem anafilaktycznym do samodzielnego stosowaniaprzez pacjenta",
+		"learned": false
+	},
+	"zalecenia do ampulkostrzykawek ": {
+		"name": "zalecenia do ampulkostrzykawek ",
+		"text": "dorosli i dzieci 0,5 mg 6-12 rz 0,3 mg ponizej 6rz 0,15; max 1mg, ALEnie ma amp po 0,5 mg",
+		"learned": false
+	},
+	"u pacjenta z asystolia ": {
+		"name": "u pacjenta z asystolia ",
+		"text": "adrenalina po to zeby wywolac miogotanie komor moc defibrylowac, pacjentaz migotaniem komor latwiej uratowac dzieki mozliwosci defibrylacji",
+		"learned": false
+	},
+	"dopamina a nerki ": {
+		"name": "dopamina a nerki ",
+		"text": "zwiekszenie filtracji, poprawia przeplyw nerkowy, pobudza D3, uzywana wewstrzasie kardiogennym,",
+		"learned": false
+	},
+	"wstrzas kardiogenny ": {
+		"name": "wstrzas kardiogenny ",
+		"text": "spadek cisnienia wywolany spadkiem kurczliwosci serca, po npzawale, podanie dopaminy w malych dawkach zwiekszajac przeplyw nerkowy- sprawia ze pacjentzaczyna oddawac mocz poprawia warunki hemodynamiczne pobudzanie rec dopaminergicznych, wwiekszych dawkach pobudzanie beta 1 i alfa 1 ale te nie korzystne wiec nie wiecej niz 5ug",
+		"learned": false
+	},
+	"dopamina w dawce 3-5ug ": {
+		"name": "dopamina w dawce 3-5ug ",
+		"text": "pobudza beta1 sercowe, zwieksznie kurczliwosci i obj wyrzutowej",
+		"learned": false
+	},
+	"dopamina w dawce powyzej 5ug ": {
+		"name": "dopamina w dawce powyzej 5ug ",
+		"text": "pobudzanie alfa 1, jest to efekt presyjnyniekorzystny, slabeserce nie bedzie w stanie przelamac wiekszego oporu na obwodzie",
+		"learned": false
+	},
+	"w przebiegu niewyd lewokom ": {
+		"name": "w przebiegu niewyd lewokom ",
+		"text": "pogorszenie filtracji i stanu nerek i na odwrot, spadek przeplywu wnerkach obciaza serce, serce i nerki zawsze w korelacji",
+		"learned": false
+	},
+	"dopamina kiedy i jak ": {
+		"name": "dopamina kiedy i jak ",
+		"text": "I szy wybor wstrzas kardiogenny, pourazowy, septyczny, pooperacjach kardiochirurgicznych, dekompensacja PNS, wstrzas prowadzacy do niewydolnosci nerek",
+		"learned": false
+	},
+	"dobutamina roznica od dopaminy ": {
+		"name": "dobutamina roznica od dopaminy ",
+		"text": "nie poprawia przeplywu nerkowego, silniej inotropowo,bardziej poprawia kurczliwosc",
+		"learned": false
+	},
+	"anemizacja bl sluzowej � ": {
+		"name": "anemizacja bl sluzowej � ",
+		"text": "pobudzenie alfa 1 obkurczenie naczyn bl sluzowej,",
+		"learned": false
+	},
+	"jak lek dziala posredio ": {
+		"name": "jak lek dziala posredio ",
+		"text": "dziala na poziomie szczeliny np hamowanie wychwytu, enzymow,",
+		"learned": false
+	},
+	"jezeli trafia pacjent z tachykardia arytmia ": {
+		"name": "jezeli trafia pacjent z tachykardia arytmia ",
+		"text": "warto zapytac czy nie kupil preparatu zpseudoefedryna, gripex zatoki, modafen itp",
+		"learned": false
+	},
+	"leki donosowe max ": {
+		"name": "leki donosowe max ",
+		"text": "3-7dni, nie dluzej, mozna wyksztalcic rhinitis medicamentosa!!!",
+		"learned": false
+	},
+	"Recepta na adrenaline": {
+		"name": "Recepta na adrenaline",
+		"text": "adrenalina wzf ",
+		"learned": false
+	},
+	"0,3mg/0,3 ml3 ampulkostrzykawkis 1 ampulkostrzykawke wstrzyknac domiesniowo w przednio boczna czesc uda w przypadku ostrejreakcji anafilaktycznej. w przypadku braku poprawy powtorzyc dawke po 5-15 min": {
+		"name": "0,3mg/0,3 ml3 ampulkostrzykawkis 1 ampulkostrzykawke wstrzyknac domiesniowo w przednio boczna czesc uda w przypadku ostrejreakcji anafilaktycznej. w przypadku braku poprawy powtorzyc dawke po 5-15 min",
+		"text": "w przypadku migotania komor",
+		"learned": false
+	},
+	"Adrenalina wzf 0,1% 1mgin ampulis No 3s. w przypadku migotania komor / zabiegow resuscytacyjnych podac jedna amp dozylnie/ doszpikowopo trzeciej nieskutecznej defibrylacji!!! w asystoli natychmiast!!!": {
+		"name": "Adrenalina wzf 0,1% 1mgin ampulis No 3s. w przypadku migotania komor / zabiegow resuscytacyjnych podac jedna amp dozylnie/ doszpikowopo trzeciej nieskutecznej defibrylacji!!! w asystoli natychmiast!!!",
+		"text": "lek hipotensyjny dla pacjenta z nadcisnieniem i przerostem gruczolu krokowego",
+		"learned": false
+	},
+	"Doksazosyna": {
+		"name": "Doksazosyna",
+		"text": "w naczyniach rec alfa 1 B ",
+		"learned": false
+	},
+	"leki naczynioselektywne nie wplywa na prostate": {
+		"name": "leki naczynioselektywne nie wplywa na prostate",
+		"text": "w prostacie alfa 1 A ",
+		"learned": false
+	},
+	"uroselektywny, nie wplywa na naczynia (prawie)": {
+		"name": "uroselektywny, nie wplywa na naczynia (prawie)",
+		"text": "efekt pierwszej dawki ",
+		"learned": false
+	},
+	"gwaltowne spadki cisnienia po rozpoczeciu leczenia lekamihipotensyjnymi np doksazosyna, pozniej organizm sie przyzwyczaja, leki o przedluzonym uwalnianiuredukuja ten efekt": {
+		"name": "gwaltowne spadki cisnienia po rozpoczeciu leczenia lekamihipotensyjnymi np doksazosyna, pozniej organizm sie przyzwyczaja, leki o przedluzonym uwalnianiuredukuja ten efekt",
+		"text": "efekty kliniczne alfa 1 adrenolitykow ",
+		"learned": false
+	},
+	"po ok 2 tyg": {
+		"name": "po ok 2 tyg",
+		"text": "dzial nieporzadane adrenolityki ",
+		"learned": false
+	},
+	"hipotonia, omdlenia ortostatyczne, ortostat zawroty glowy,zaburzenia ejakulacji": {
+		"name": "hipotonia, omdlenia ortostatyczne, ortostat zawroty glowy,zaburzenia ejakulacji",
+		"text": "urapidyl, ",
+		"learned": false
+	},
+	"wysoce selektywny w stosunku do naczyn, do doraznego stosowania w obnizeniu cisnienia,nie pierwszy wybor": {
+		"name": "wysoce selektywny w stosunku do naczyn, do doraznego stosowania w obnizeniu cisnienia,nie pierwszy wybor",
+		"text": "lek u pacjenta z tendencja do hipotoni i z rozrostem gr krokowego",
+		"learned": false
+	},
+	"rpOmnic 0,4 0,4mgin tabulettis1ops 1x1 tabl dziennie": {
+		"name": "rpOmnic 0,4 0,4mgin tabulettis1ops 1x1 tabl dziennie",
+		"text": "lek na nadcisnienie z problemami ukl mocz",
+		"learned": false
+	},
+}

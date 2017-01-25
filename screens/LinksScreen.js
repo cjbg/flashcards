@@ -19,6 +19,9 @@ import meds2Updated from "../assets/meds2Updated";
 import meds3 from "../assets/meds3";
 import anticoagulants from "../assets/anticoagulants";
 import steroids from "../assets/steroids";
+import parasympathetic from "../assets/autonomicParasympathetic";
+import symphateticPart1 from "../assets/symphateticPart1";
+import blockers from "../assets/blockers";
 
 export default class LinksScreen extends React.Component {
   constructor(props) {
@@ -68,6 +71,23 @@ export default class LinksScreen extends React.Component {
   onSteroidsStarted(){
     this.nav.push({
       name: "steroids",
+    })
+  }
+
+  onParasympatheticStarted(){
+    this.nav.push({
+      name: "parasympathetic",
+    })
+  }
+  
+  onSymphateticPart1Started(){
+    this.nav.push({
+      name: "symphateticPart1",
+    })
+  }
+  onBlockersStarted(){
+    this.nav.push({
+      name: "blockers",
     })
   }
 
@@ -127,17 +147,44 @@ export default class LinksScreen extends React.Component {
             isRandomFlashcards={this.state.isRandomFlashcards}
             />
         )
+      case "parasympathetic":
+        return (
+           <TaskList
+            flashcards={parasympathetic}
+            groupTitle={"UKLAD AUTONOMICZNY CZESC PRZYWSPOLCZOLNA"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+            />
+        )
+      case "symphateticPart1":
+        return(
+          <TaskList
+            flashcards={symphateticPart1}
+            groupTitle={"Układ Autonomiczny 2 – Współczulny część 1"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+            />
+        )
+      case "blockers":
+        return(
+          <TaskList
+            flashcards={blockers}
+            groupTitle={"b-blokery"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+            />
+        )
       default:
         return (
           <ScrollView
             style={styles.container}
             contentContainerStyle={this.props.route.getContentContainerStyle()}>
 
-            <View style={styles.headerContainer}>
+            {/*<View style={styles.headerContainer}>
               <Text style={styles.headerText}>
                 Grupy
             </Text>
-            </View>
+            </View>*/}
 
             {/* TODO: Use taskRow component to populate automaticaly list of fhashcard groups
             Store flashcard groups in separate json
@@ -173,6 +220,30 @@ export default class LinksScreen extends React.Component {
               <Text style={styles.buttonText}>
                 Trzecie
             </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onParasympatheticStarted.bind(this)}
+              style={styles.button}>
+                <Text style={styles.buttonText}>
+                 Część przywspółczólna
+                </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onSymphateticPart1Started.bind(this)}
+              style={styles.button}>
+                <Text style={styles.buttonText}>
+                 Współczulny część 1
+                </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onBlockersStarted.bind(this)}
+              style={styles.button}>
+                <Text style={styles.buttonText}>
+                 b-blokery
+                </Text>
             </TouchableHighlight>
 
             <TouchableHighlight
