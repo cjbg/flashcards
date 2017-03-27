@@ -1,0 +1,282 @@
+{
+	"Diuretyki": {
+		"name": "Diuretyki",
+		"text": "	zwiekszaja wydzielanie sodu przez blokowanie resorpcji sodu w roznych fragmentach kanalikow nerkowych",
+		"learned": false
+	},
+	"podzial diuretykow": {
+		"name": "podzial diuretykow",
+		"text": "	osmotyczne, inibitory anhydrazy weglanowej, oszczedzajace potas, diuretyki tiazydowe, tiazydopodobne, petlowe",
+		"learned": false
+	},
+	"dzialanie diuretykow petlowych": {
+		"name": "dzialanie diuretykow petlowych",
+		"text": "			dzialaja w petli Henlego w czesci wstepujacej, najsilniejsze jakie mamy, ",
+		"learned": false
+	},
+	"gdzie dzialaja tiazydy ": {
+		"name": "gdzie dzialaja tiazydy ",
+		"text": "			w kanaliku dalszym,  ",
+		"learned": false
+	},
+	"diuretyki oszczedzajace potas	": {
+		"name": "diuretyki oszczedzajace potas	",
+		"text": "		kanalik zbiorczy ",
+		"learned": false
+	},
+	"diuretyki osmottyczne": {
+		"name": "diuretyki osmottyczne",
+		"text": "	mannitol, przechodzi niewchlaniany przez nerki, pociaga za soba wode i usuwa jej nadmiar, dziala w klebuszkach",
+		"learned": false
+	},
+	"inh anhydr wegl": {
+		"name": "inh anhydr wegl",
+		"text": "	dzialaja w kanaliku blizszym, obnizaja cisnienie wewnatrzgalkowej, Acetazolamid, Dorzolamid anhydraza dziala na wydzielanie cieczy wodnistej ",
+		"learned": false
+	},
+	"Acetazolamid": {
+		"name": "Acetazolamid",
+		"text": "Dorzolamid",
+		"learned": false
+	},
+	"wskazania dla lek moczopedn	": {
+		"name": "wskazania dla lek moczopedn	",
+		"text": "obrzeki (na tle NSA, marskosci watroby, chorob nerek)nadcisnienie etnicze- przewlekle tiazydy i tiazydopodobne, doraznie w nadcisnieniu tetniczym petlowe(wyjatek Torasemid ktory moze byc i doraznie i przewlekle a jest petlowym); jaskra, hiperaldosteronizm, zatrucia",
+		"learned": false
+	},
+	"leki w jaskrze	": {
+		"name": "leki w jaskrze	",
+		"text": "Pilokarpina(cholinomimetyk), betoptic(b.bloker), inhibitor anhydrazy weglanowej",
+		"learned": false
+	},
+	"diuretyki oszczedzajace potas": {
+		"name": "diuretyki oszczedzajace potas",
+		"text": "			MRA czyli antagonisci aldosteronu Spironolakton i eplerenon.............; maja profil metaboliczny obojetny, zmniejszaja ilosc Na, ziekszaja K",
+		"learned": false
+	},
+	"Spironolakton": {
+		"name": "Spironolakton",
+		"text": "	blokuje rec dla aldosteronu w cewce zbiorczej i koncowym odcinku kanalika dalszego, zwiekszajac wydalanie sodu i h2o; dodatkowy efekt glownie nieporzadany jest antag rtecept androgennych, powoduje ginekomastie, mlekotok i zaburzenia miesiaczkowania, obnizenie potencji, stosowany u kobiet z wirylizacja ze wzgledu na dzialanie antyandrogenowe np w zesp policystycznych jajnikow, nie ma silnego efektu moczopednego; 1) slaby diuretyk 2) opozniony poczatek dzialania 3) czesto laczony z tiazydami lub diuret petlowymi nasilajac ich dzialanie i zapobiega hipoglikemii 4) hamuje nasilone wloknienie w scianach dlatego tez w NS",
+		"learned": false
+	},
+	"preparaty spironolaktonu": {
+		"name": "preparaty spironolaktonu",
+		"text": "	Spironol tabl 100 i 25 mg; Verospiron 25, 50,100mg 1x1 tabl dziennie dziala po 12h pelne dzialanie po kilku dniach",
+		"learned": false
+	},
+	"Eplerennon": {
+		"name": "Eplerennon",
+		"text": "	selektywny antag rec dla aldosteronu, nie dziala antyandrogenowo, mniej dzialan nieporzadanych, slaby diuretyk, powoduje hiperkaliemie; Inspra tabl 25, 50mg 1x1 tabl",
+		"learned": false
+	},
+	"przeciwwskazana dla MRA": {
+		"name": "przeciwwskazana dla MRA",
+		"text": "	hiperkaliemia, kreatynina>2,4 GFR<30, ciaza i karmienie piersia, niewydolnosc kory nadnerczy, ostroznie przy laczeniu z innymi lekami podwyzszajacymi potas",
+		"learned": false
+	},
+	"dzialania nieporzadane MRA": {
+		"name": "dzialania nieporzadane MRA",
+		"text": "	hiperkalemia, pogorszenie funkcji nerek, dodatkowo spironolakton powoduje ginekomastie, impotenceje, objawy z p.pokarmowego nasilaja gastrotoksycznosc NLPZ!!!(hamowanie syntezy kolagenu i gorsze gojenie wrzodow)",
+		"learned": false
+	},
+	"Amilorid": {
+		"name": "Amilorid",
+		"text": "	wchodzi w sklad Tialoridu z hydrochlorotiazydem, zmniejsza aktywne wchlanianie sodu w koncowym odcinku ccewki dalszej i zbiorczej",
+		"learned": false
+	},
+	"tiazydy i diur tiazydopdobne	": {
+		"name": "tiazydy i diur tiazydopdobne	",
+		"text": "hamuja resorpcje na w cewce dystalnej i czesciowo w petli Henlego w ramieniu wstepujacym. maja dodatkowe dzialanie wazodilatacyjne- rozszerzaja naczynia dlatego czesto stosowane w leczeniu nadcisnienia",
+		"learned": false
+	},
+	"tiazydy przyklady": {
+		"name": "tiazydy przyklady",
+		"text": "	hydrochlorotiazyd ( Hydrochlorotiazydum tabl, 12,5mg i 25mg, dziala po 2h przez 6-12h), slabszy niz petlowe, mocniejszy diuretyk niz spironolakton i eplerenon",
+		"learned": false
+	},
+	"wskazania do tiazydu": {
+		"name": "wskazania do tiazydu",
+		"text": "	nadcisnienie tetnicze i przewlekla niewydolnosc serca z retencja plynow, male dawki moga byc stosowane u pacjentow z zaburzeniami metabolicznymi duze dawki maja niekorzystny profil metaboliczny",
+		"learned": false
+	},
+	"czy tiazydy skuteczne w niewyd nerek?": {
+		"name": "czy tiazydy skuteczne w niewyd nerek?",
+		"text": "	nie, spada jego efektywnosc, przy GFR <40 traci wlasciwosci diuretyczne, skutecznosc zalezy od stopnia niewydolnosci nerek",
+		"learned": false
+	},
+	"wplyw tiazydow na gospodarke elektrolitowa i weglowod-lipid?": {
+		"name": "wplyw tiazydow na gospodarke elektrolitowa i weglowod-lipid?",
+		"text": "	obniza stez Na,K,Mg,Cl w surowicy, podnosi stez kwasu moczowego Ca, fosforanow, glukozy i lipidow(tych 2 ostatnich jezeli sa w duzych dawkach) ",
+		"learned": false
+	},
+	"jak lek powoduje hipokalemie": {
+		"name": "jak lek powoduje hipokalemie",
+		"text": "		to jednoczesnie hipomagnezemie",
+		"learned": false
+	},
+	"dzialania nieporzadane tiazydow": {
+		"name": "dzialania nieporzadane tiazydow",
+		"text": "	hiperurykemia, hipotonia, hipokaliemia, w duzych dawkach niekorzystny profil metaboliczny",
+		"learned": false
+	},
+	"diuretyki tiazydopodobne": {
+		"name": "diuretyki tiazydopodobne",
+		"text": "	indapamid, chlortalidon",
+		"learned": false
+	},
+	"wskazania do diur tiazydopodobnych	": {
+		"name": "wskazania do diur tiazydopodobnych	",
+		"text": "nadcisnienie tetnicze",
+		"learned": false
+	},
+	"indapamid": {
+		"name": "indapamid",
+		"text": "	slaby diuretyk, dzialanie diuretyczne podobne do spironolaktonu, ma efekt wazodilatacyjny, nie jest zarejestrowany w niewydolnosci serca, nie oczekujemy od niego znacznego zwiekszenia diurezy, mniejsze ryzyko hipokaliemi niz tiazydy, korzystny albo co najmniej obojetny profil metaboliczny, pobudza wytwarzanie NO, zmniejsza agregacje PLT, zmniejsza produkcje wolnych rodnikow, hamuje rozwoj miazdzycy, hamuje procesy zapalne- efekt plejotropowy",
+		"learned": false
+	},
+	"indapamid preparaty": {
+		"name": "indapamid preparaty",
+		"text": "	Tertensif SR, Diuresin SR Indix SR po 1,5 mg 1x1 tabl, najczesniej jako dodatek do IKA, sartanow, antagonistow Ca czy bblok lub przy bardzo lekkim nadcisnieniu",
+		"learned": false
+	},
+	"chlortalidon": {
+		"name": "chlortalidon",
+		"text": "	dziala silnie diuretycznie, tez ma efekt wazodilatacyjny, stosowany w nadcisnieniu tetniczym,",
+		"learned": false
+	},
+	"chlortalidon preparaty": {
+		"name": "chlortalidon preparaty",
+		"text": "	chlortalidon tabl 0.05 1 tabl co 2-3 dni (t1/2 wynosi ok72h)",
+		"learned": false
+	},
+	"diuretyki petlowe": {
+		"name": "diuretyki petlowe",
+		"text": "	najsilniejsza grupa, kompetycyjnie wspolzawodnicza z jonami Cl- o wiazanie z transportem Na/K/2Cl- w grubosciennej czesci ramienia wstepujacego petli hentlego, hamuja resorbcje sodu, powoduja kaliuremie- utrate potasu i hipokalemie,( hamowanie wchlaniania Na powoduje wzrost jego stez w kanaliku dalszym i zwieksza wydzielanie K do jego swiatla) zwieksza tendencje do tachyarytmi",
+		"learned": false
+	},
+	"diuretyki petlowe inf	": {
+		"name": "diuretyki petlowe inf	",
+		"text": "najsilniejsze diuretyki, ich efekt w mniejszym stopniu zalezy od GFR, dzialaja szybko, Furosemid krotkodzialajacy stosowany glownie w celu doraznego obnizenia wolemii i zmniejszeniu objawow przewodnienia, Torsemid- dlugodzial, furosemid ma niekorzystny profil metab",
+		"learned": false
+	},
+	"jezeli pacjent ma GFR<40 ktory diuretyk?": {
+		"name": "jezeli pacjent ma GFR<40 ktory diuretyk?",
+		"text": "	petlowy-furosemid",
+		"learned": false
+	},
+	"zastosowania diuretykow petlowych": {
+		"name": "zastosowania diuretykow petlowych",
+		"text": "	gwaltowny skok cisnienia, obrzeki w ostrej niewyd lewokomorowej",
+		"learned": false
+	},
+	"diuretyki petlowe preparaty": {
+		"name": "diuretyki petlowe preparaty",
+		"text": "	Furosemid krotki okres poltrwania, nie moze byc tylko raz podawany, niekorzystny metabolicznie, jest OTOTOKSYCZNY;  Torasemid dlugi okres poltrwania, moze byc podawany raz, silniejszy lek diuretyczny niz furosemmid ale nie ma gwaltownego efektu diuretycznego",
+		"learned": false
+	},
+	"wskazania do diuretykow petlowych	": {
+		"name": "wskazania do diuretykow petlowych	",
+		"text": "niewydolnosc serca, przewlekla podawane p.o jak i ostra niewyd lewokomorowa - obrzek pluc i.v, nadcisnienie tetnicze, przelom nadcisnieniowy i.v do doraznego obnizania cisnienia, przewlekla terapia HA preferowany torasemid w malych dawkach, niewydolnosc watroby i niewydolnosc nerek - obrzeki wynikajace z zaatrzymania plynow!!!. podajemy rano",
+		"learned": false
+	},
+	"5 podstawowych  grup do leczenia HA": {
+		"name": "5 podstawowych  grup do leczenia HA",
+		"text": " 	IKa sartany, bblok wazodilatacyjne, blokery kan Ca, diuretyki tiazydowe i tiazydopodobne",
+		"learned": false
+	},
+	"Wplyw diur petlowych na gosp elektrolit i wegl-lipid": {
+		"name": "Wplyw diur petlowych na gosp elektrolit i wegl-lipid",
+		"text": "	spadek stez potasu, sodu, chloru, magnezu, wapnia,fosforany, zwiekszenie kwasu moczowego a w przypadku furosemidu glukozy i lipidow",
+		"learned": false
+	},
+	"Furosemid preparaty	": {
+		"name": "Furosemid preparaty	",
+		"text": "amp i tabl Furosemidum tabl 0,04  1x1 dziala po 0,5h przez 4-6h amp 0.02 podawac poczatkowo 1 amp dozylnie, dziala b szybko po 5-15 min, KONTROLA ELEKTROLITOW",
+		"learned": false
+	},
+	"Torasemid inf": {
+		"name": "Torasemid inf",
+		"text": "	nie dziala ototoksycznie, podwojny punkt uchwytu czyli petla i receptor dla aldosteronu, ma troche wlasciwosci spironolaktonu. zmniejsza wloknienie miokardium 4x silniejszy niz furosemid, powoduje mniejsza utrate potasu, dlugi okres dzialania tabl Trifas COR 0.005, Trifas 10 0.01, Torsemed 5,10,20mg, Toramide 2,5 ; 5;10mg, w nadcisnieniu mniejsze do leczenia przewleklego, wieksze dawki w niewydolnosci serca 1x1 tabl",
+		"learned": false
+	},
+	"dzialania nieporzadane diur petlowych": {
+		"name": "dzialania nieporzadane diur petlowych",
+		"text": "	hipokaliemia, hiperurykemia, niekorzystny profil met do furosemidu, ototoksycznosc-dla furosemidu, hipotensja i zapasc przy zbyt szybkim podawaniu, ",
+		"learned": false
+	},
+	"leki moczopedne obnizajace sod	": {
+		"name": "leki moczopedne obnizajace sod	",
+		"text": "	oszczedzajace potas, tiazydy,tiazydopodobne,petlowe",
+		"learned": false
+	},
+	"leki moczop obnizajace potas	": {
+		"name": "leki moczop obnizajace potas	",
+		"text": "petlowe tiazydy, tiazydopodobna najmniej",
+		"learned": false
+	},
+	"dzialanie diuretykow na Ca i fosforany": {
+		"name": "dzialanie diuretykow na Ca i fosforany",
+		"text": "	tiazydy podnosza w sur, petlowe obnizaja",
+		"learned": false
+	},
+	"dzialanie diuretykow a kwas moczowy": {
+		"name": "dzialanie diuretykow a kwas moczowy",
+		"text": "	wzrost po tiazydach i petlowych",
+		"learned": false
+	},
+	"ktore diuret maja niekorzystny profil metaboliczny": {
+		"name": "ktore diuret maja niekorzystny profil metaboliczny",
+		"text": "	tiazydy i furosemid",
+		"learned": false
+	},
+	"diuretyki uszereg sila dzialania": {
+		"name": "diuretyki uszereg sila dzialania",
+		"text": "			oszczedzajace potas, tiazydopodobne, tiazydy, petlowe",
+		"learned": false
+	},
+	"diuretyki w niewydolnosci serca i HA": {
+		"name": "diuretyki w niewydolnosci serca i HA",
+		"text": "	furosemid, hydrochlorotiazyd, torasemid, spironolakton",
+		"learned": false
+	},
+	"ktory diuretyk NIE w niewyd serca?": {
+		"name": "ktory diuretyk NIE w niewyd serca?",
+		"text": "	indapamid, tylko do obnizania cisnienia",
+		"learned": false
+	},
+	"dzialania nieporzadane calej grupy diuretykow	": {
+		"name": "dzialania nieporzadane calej grupy diuretykow	",
+		"text": "hipokalemia, hiponatremia, hipomagnezemia, hiperglikemia  i hiperlipidemia, ototoksycznosc, hiperurykemia, hyperkalcemia, ginekomastia, impotencja, hirsutyzm - spironolakton ",
+		"learned": false
+	},
+	"wybrane interakcje diuretykow	": {
+		"name": "wybrane interakcje diuretykow	",
+		"text": "		tiazydy / diur petlowe i glikozydy= zaburzenia rytmu; tiazydy /diur petlowe i NLPz= pogorszenie diurezy i wzrost cisnienia; tiazydy petlowe i leki hipoglikemizujace= hiperglikemia; tiazydy i antykoagulanty doustne= krwawienia; diur petlowe i antybiotyki aminoglikozydowe i asa=ototoksycznosc; spironolakton i IKA lub At1= hiperkalemia; diur petlowe i cefalosporyny= nefrotoksycznosc",
+		"learned": false
+	},
+	"rp na lek hipotensyjny 1szego wyboru z nefropatia cukrzycowa": {
+		"name": "rp na lek hipotensyjny 1szego wyboru z nefropatia cukrzycowa",
+		"text": "Rp Prestarium 5	5mg in tabulettis 1 ops 1x1 tabl lub Enarenal      5mgin tabulettis 1op s. 1x1 tabl",
+		"learned": false
+	},
+	"Rp na lek do doraznego obnizenia cisnienia": {
+		"name": "Rp na lek do doraznego obnizenia cisnienia",
+		"text": "Rp Captopril 25mg in tabulettis 1op s.1 tabletka podjezykowo w celu obnizenia cisnienia tetniczego",
+		"learned": false
+	},
+	"Rp na lek hipotensyjny u pacjenta z kaszlem po Ika": {
+		"name": "Rp na lek hipotensyjny u pacjenta z kaszlem po Ika",
+		"text": "Rp Xartan 50mg  in tabulettis 1op s.1x1tabl",
+		"learned": false
+	},
+	"Rp na selektywnego antagoniste rec mineralokortykosteroid": {
+		"name": "Rp na selektywnego antagoniste rec mineralokortykosteroid",
+		"text": "Rp Inspra 25mgin tabulettis 1op s. 1x1 tabl",
+		"learned": false
+	},
+	"Rp Pacjent z niew serca otrzymuje IKA i b.bloker co jeszcze podac?": {
+		"name": "Rp Pacjent z niew serca otrzymuje IKA i b.bloker co jeszcze podac?",
+		"text": "Spironolakton lub epleronon",
+		"learned": false
+	},
+}

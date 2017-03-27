@@ -1,0 +1,107 @@
+{
+	"msca dzialania antagonistow ca	": {
+		"name": "msca dzialania antagonistow ca	",
+		"text": "		1) miesnie gladkie naczyn krwionosnych, rozkurcza naczynia wiencowe i obwodowe tylko tetnicze, 2k)omorki ukl bodzcotw przew SA i AV dromotropowo ujemnie i chronotrop ujemnie, 3)kardiomiocyty - zmniejszaja kurczliwosc - inotropowy ujemny",
+		"learned": false
+	},
+	"podzial blokerow kan ca": {
+		"name": "podzial blokerow kan ca",
+		"text": "	 pochodne dihydropirydynowe , pochodne fenyloalkiloaminy, pochodne benzotiazepiny",
+		"learned": false
+	},
+	"pochodne dihydropirydynowe": {
+		"name": "pochodne dihydropirydynowe",
+		"text": "	krotkodzialajaca - nifedypina; dlugodzialajace - amlodypina, lacydypina, nitrendypina, lerkanidypina, ",
+		"learned": false
+	},
+	"pochodne fenyloalkiloaminy": {
+		"name": "pochodne fenyloalkiloaminy",
+		"text": "	werapamil",
+		"learned": false
+	},
+	"pochodne benzotiazepiny": {
+		"name": "pochodne benzotiazepiny",
+		"text": "	diltiazem",
+		"learned": false
+	},
+	"krotkodzialajace poch dihydropir": {
+		"name": "krotkodzialajace poch dihydropir",
+		"text": "	szybko rozszerza naczynia ........",
+		"learned": false
+	},
+	"pochodne dlugodzial dihydropir": {
+		"name": "pochodne dlugodzial dihydropir",
+		"text": "		mniejszy wplyw na kurczliwosc akcji serca niz krotko = mniejsze prawdop odruchowej tachykardii, mniejszy wplyw na czestosc rytmu serca, nie zwalniaja HR, nie pogarszaja kurczliwosci MS, najbardziej dzialaja na naczynia rozszerzajac je, maly wplyw na kardiomiocyty i ukl  bodzcotwo-przew",
+		"learned": false
+	},
+	"wskazanie do poch dihydropir": {
+		"name": "wskazanie do poch dihydropir",
+		"text": "	nadcisnienie i choroba wiencowa, angina printzmetala, ",
+		"learned": false
+	},
+	"leki dlugodz poch dihydropir": {
+		"name": "leki dlugodz poch dihydropir",
+		"text": "	amlydopina = dlugi czas dzialania, Amlozek 0,005; 0,01  lacydypina ....., nitrendypina = Nitrendypina tabl 0,01; 0,02, ",
+		"learned": false
+	},
+	"pochodne niedihydropirydynowe": {
+		"name": "pochodne niedihydropirydynowe",
+		"text": "	oslabiaja kurczliwosc serca",
+		"learned": false
+	},
+	"pochodne fenyloalkiloaminy	": {
+		"name": "pochodne fenyloalkiloaminy	",
+		"text": "		zwalniaja przwodnictwo przeds-komorowe dromo oi chronoo ujemny, zwalniaja akcje serca, stosowane w tachyarytmi nadkomorowych, oslabia kurczliwosc przeciwwskazane w niewydolnosci serca, mozemy stosowac u pacjentow z migotaniem przedsionkow z szybka czynnoscia komor. efekt hipotensyjny NIE PIERWSZY WYBOR W NADCISNIENIU",
+		"learned": false
+	},
+	"pochodne benztiazepiny": {
+		"name": "pochodne benztiazepiny",
+		"text": "	diltiazem - wszystko jak werapamil",
+		"learned": false
+	},
+	"bajeczka	": {
+		"name": "bajeczka	",
+		"text": "poch dihydropir (kobiety)- powinowactwo do naczyn, nie dotykaja elektryki ukl bodzcotw;  werapamil i diltiazyd( mezczyzna) chrono i dromotrop ujemnie wieksze powinowactwo do elektryki - ukl przewodz, panowie oslabiaja kurczliwosc m serc, panie nie",
+		"learned": false
+	},
+	"pochodne niedihydropirydyn wskazania	": {
+		"name": "pochodne niedihydropirydyn wskazania	",
+		"text": "	arytmia tylko nadkomorowa bo nie maja efektu batmotropoweko, CHNS, nadcisn tetnicze, werapamil najsilniej hamuje kurczliwosc ",
+		"learned": false
+	},
+	"w arytmiach nadkomorowych i komorowych": {
+		"name": "w arytmiach nadkomorowych i komorowych",
+		"text": "	bblokery	",
+		"learned": false
+	},
+	"werapamil": {
+		"name": "werapamil",
+		"text": "	Isoptin 40, 80 3xd ; Isoptin SR 120; SR-E 240 2xd",
+		"learned": false
+	},
+	"z czym nie laczymy blok kan ca?	": {
+		"name": "z czym nie laczymy blok kan ca?	",
+		"text": "		z bblokerami, ne laczymy niedihydropir bo zwalniaja akcje serca i mozemy doprowadzic do bradykardii, dihydropirydynowe nie zwalniaja akcji serca",
+		"learned": false
+	},
+	"wskazania dla calej grupy ca blok": {
+		"name": "wskazania dla calej grupy ca blok",
+		"text": "	CHW nawet naczynioskurczowa, nadcisnienie tetnicze, tachyarytmie nadkomorowe, kardiomiopatia przerostowa( werapamil w duzym przeroscie miesniowki), =takze gdy  te choroby wspolistnieja z cukrzyca, zaburzeniami lipidowymi, astma i otyloscia = korzystny profil metaboliczny",
+		"learned": false
+	},
+	"dzialania niep blok ca": {
+		"name": "dzialania niep blok ca",
+		"text": "	bole glowy, czerwienie skory twarzy( rozszerz naczyn), obrzeki wokol kostek, hipotonia zaparcia,, przerostowe zapalenie dziasel; po werapamilu - bradykardia, bloki p-k, zaostrzenie niew serca",
+		"learned": false
+	},
+	"obrzeki wokol kostek po blok ca	": {
+		"name": "obrzeki wokol kostek po blok ca	",
+		"text": "	nie dajemy diuretyki, to nie sa czynnosciowe tylko z przemieszczenia, zmieniamy na inny lek, mozna dolaczyc IKA co zmniejsza obrzeki bo wplywaja tez na zyly!!!!!!",
+		"learned": false
+	},
+	"przeciwwskazania do blok ca	": {
+		"name": "przeciwwskazania do blok ca	",
+		"text": "hipotonia, niewyrownana niewyd krazenia, stenoza aortalna, bloki p-k powyzej 1 st, bradykardia",
+		"learned": false
+	},
+}

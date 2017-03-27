@@ -1,0 +1,147 @@
+{
+	"co robia leki inotr +": {
+		"name": "co robia leki inotr +",
+		"text": "	poprawiaja kurczliwosc miesnia sercowego",
+		"learned": false
+	},
+	"wskazania do lekow inotrop dodatnich": {
+		"name": "wskazania do lekow inotrop dodatnich",
+		"text": "	niewydolnosc sera ale nie poprawiaja rokowania, nie sa lekami pierwszego wyboru",
+		"learned": false
+	},
+	"jakie leki  w NS": {
+		"name": "jakie leki  w NS",
+		"text": "	ACEI/ AT1 + bblok+ diur oszczedzajacy potas",
+		"learned": false
+	},
+	"leki dzialajace inotropowo dodatnio ": {
+		"name": "leki dzialajace inotropowo dodatnio ",
+		"text": "	glikozydy naparstnicy, katecholaminy glownie dopamina, dobutamina i adrenalina, inhibitory fosfodiesterazy, lewosimendan",
+		"learned": false
+	},
+	"dzialanie  glikozydow nasercowych": {
+		"name": "dzialanie  glikozydow nasercowych",
+		"text": "	inotropowo dod, batmotropowo dod maja wlasciwosci arytmogenne, chronotropwo ujemnie i dromotropowo ujemnie, zwalniaja akcje serca i przewodnictwo przeds komorowe",
+		"learned": false
+	},
+	"mechanizm dzialania innotrop dodatniego glikozyd": {
+		"name": "mechanizm dzialania innotrop dodatniego glikozyd",
+		"text": "	blokowanie ATPazy Na/K w bl kom miesnia sercowego, powoduje to wzrost Ca wewnatrzkom i aktywuja komppl aktyna miozyna",
+		"learned": false
+	},
+	"mech dzial dromo i chrono ujemnie": {
+		"name": "mech dzial dromo i chrono ujemnie",
+		"text": "	hamuja przewodzenie w Sa i Av lub posrenio przez pobudzanie nerwu blednego, (hamuja tez uklad wspolczolnego co wtornie daje pobudzenie nerwu blednego) zwalniaja akcje serca i przewodnictwo",
+		"learned": false
+	},
+	"wskazania do glikozydow	": {
+		"name": "wskazania do glikozydow	",
+		"text": "migotanie przedsionkow z szybka akcja komor celem zmniejszenia rytmu komor i zaawansowana niewydolnosc serca. W zadnym nie jest pierwszego wyboru",
+		"learned": false
+	},
+	"migotanie przedsionkow": {
+		"name": "migotanie przedsionkow",
+		"text": "	nieskladne ruchy przedsionkow, krew zaczyna sie mieszac jak w shakerze i wytracaja sie skrzepy ktore moga powedrowac do mozgu, jezeli nie mozemy ustabilizowac tej arytmi wykorzystujemy dzialanie dromotropowe ujemne zwalniajac prace komor",
+		"learned": false
+	},
+	"Leki w zastoinowej niewydolnosci serca objawowo": {
+		"name": "Leki w zastoinowej niewydolnosci serca objawowo",
+		"text": "	IKA, bblok, antag aldosteronu, sartany, azotany, hydralazyna, digoksyna moczopedne",
+		"learned": false
+	},
+	"ktore z lekow w leczeniu zast niew serca poprawia przezycie": {
+		"name": "ktore z lekow w leczeniu zast niew serca poprawia przezycie",
+		"text": "	IKA, bblok, ant aldost, ",
+		"learned": false
+	},
+	"optymalne leczenie NS": {
+		"name": "optymalne leczenie NS",
+		"text": "	IKA lub ARB + bblok gdy nadal objawy spironolakton/eplerenoon, jezeli nadal Ef<35% rytm zatokowy >70/min lawabradyna celem zwolnienia rytmu serca, jezeli to nie pomaga a objawy zastoju plynow to diuretyki tiazyd lub petlowe, jezeli to nie dziala to glikozydy",
+		"learned": false
+	},
+	"dzialania nieporzadane glikozydow": {
+		"name": "dzialania nieporzadane glikozydow",
+		"text": "	bradykardia arytmie komorowe i nadkomorowe,bloki, brak laknienia, nudnosci, wymioty, biegunki maga powodowac hipokalemie, zawroty glowy, bole glowy, zmeczenie, zaburzenia widzenia zamazane widzenie na zolto",
+		"learned": false
+	},
+	"kazdy lek antyarytmiczny": {
+		"name": "kazdy lek antyarytmiczny",
+		"text": "	ma potencjal arytmogenny, ",
+		"learned": false
+	},
+	"digoksyna a arytmia": {
+		"name": "digoksyna a arytmia",
+		"text": "	przez dzialanie batmotropowe, bloki z dromotropowego, bradykardzia z chronotropowego glikozydow!!!",
+		"learned": false
+	},
+	"przeciwwskazania do glikozydow	": {
+		"name": "przeciwwskazania do glikozydow	",
+		"text": "blok AV II i III stopnia, hipokalemia, arytmie komorowe, rozkurczowa niewyd LK bo serce dobrze sie kurczy nie trzeba poprawiac, kardiomiopatia przerostowa, stenoza aortalna- zwiekszesie sily skurczu nie da efektu tylko serce sie szybciej zmeczy, zespoly preekscytacji idzie dodatkowa droga przewodnictwa przedsionk komorowego, taka osoba ma napady czestoskurczu",
+		"learned": false
+	},
+	"czynniki zwiekszajace wrazliwosc na naparstnice": {
+		"name": "czynniki zwiekszajace wrazliwosc na naparstnice",
+		"text": "		hipokalemia, hipomagnezemia, hiperkalcemia, niewydolnosc nerek- bo digoksyna wydalana przez neerki, hipoksja, hipotyreoza - niedoczynnosc tarczycy zwolniony metabolizm i zwiekszone ryzyko kumulacji, ostroznie u starszych osob",
+		"learned": false
+	},
+	"prepararty glikozydow naparstnicy": {
+		"name": "prepararty glikozydow naparstnicy",
+		"text": "	Digoxin = Digoxin 0.1mg lub roztwor do inj 0.5mg/2ml ; Metyldigoxin Bemecor tabl 0.1mg 1x1 tabl rano!!! moze bycw kroplach 0,6mg/ml, roztwor do inj 0.2mg/2ml , digoksyna latwo sie kumuluje, ma niski indeks terapeutyczny",
+		"learned": false
+	},
+	"objawy zatrucia naparstnica": {
+		"name": "objawy zatrucia naparstnica",
+		"text": "	ciezka arytmia- bigeminia, trigeminia, czestoskurcz komorowy, rozkojarzenie przedsionk komor, bradykardia, blok AV I II i III st, ",
+		"learned": false
+	},
+	"katecholaminy dzialanie": {
+		"name": "katecholaminy dzialanie",
+		"text": "	stosowane w stanach ostrych niewydolnosci serca, rozwijaja tachyfilaksje, szybko przestaja dzialac",
+		"learned": false
+	},
+	"inhibitory fosfodiesterazy III": {
+		"name": "inhibitory fosfodiesterazy III",
+		"text": "	zwiekszaja cAMP co powoduje naplyw Ca w kardiomiocytach i zwiekszaja kurczliwosc inotrop dod, odwrotnie w mm gladkich naczyn powodujac relaksacje miesniowki, wazodilatacje, rozszerzenie naczyn, zmniejszaja pre i afterload, dzialaja tez chronotropowo dodatnio",
+		"learned": false
+	},
+	"dzialanie antyarytmiczne digogsyny": {
+		"name": "dzialanie antyarytmiczne digogsyny",
+		"text": "	dromotropowy ujemny i chronotropowy ujemny( pozostale sa proarytmiczne)",
+		"learned": false
+	},
+	"preparaty inhib fosfod III": {
+		"name": "preparaty inhib fosfod III",
+		"text": "	 Amrinon, Milirinon, Enoksymon",
+		"learned": false
+	},
+	"w NS ": {
+		"name": "w NS ",
+		"text": "	preferowane IKA a nie sartany",
+		"learned": false
+	},
+	"w HA": {
+		"name": "w HA",
+		"text": "	IKA i sartany na rowni",
+		"learned": false
+	},
+	"1) rp. pacjent z Ns przyjmuje ramipril i bisocard, eplerenon nie dziala": {
+		"name": "1) rp. pacjent z Ns przyjmuje ramipril i bisocard, eplerenon nie dziala",
+		"text": "Rp Hydrochlorothiazidum 25mg in tabulettis 1 op s. 1x1 tabl ",
+		"learned": false
+	},
+	"dalej sa obrzeki, dusi sie, odstawiamy tiazyd!!": {
+		"name": "dalej sa obrzeki, dusi sie, odstawiamy tiazyd!!",
+		"text": "Rp.Torsemed  10mg in tabulettis 1op s. 1x1 ",
+		"learned": false
+	},
+	"2) rp. pacjent nadal nie ustabilizowany po torasemidzie, badamy najpierw elektrolity czy nie ma hipokalemi ": {
+		"name": "2) rp. pacjent nadal nie ustabilizowany po torasemidzie, badamy najpierw elektrolity czy nie ma hipokalemi ",
+		"text": "Digoxin 0,1mg in tabulettis 1op s. 1x1   ",
+		"learned": false
+	},
+	"3) rp na lek zlozony z sartanem": {
+		"name": "3) rp na lek zlozony z sartanem",
+		"text": "Polsart plus 80/12,5 in tabulettis  1op s 1x1 ",
+		"learned": false
+	},
+}

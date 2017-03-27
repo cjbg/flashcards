@@ -22,6 +22,10 @@ import steroids from "../assets/steroids";
 import parasympathetic from "../assets/autonomicParasympathetic";
 import symphateticPart1 from "../assets/symphateticPart1";
 import blockers from "../assets/blockers";
+import hypertensiveMeds from "../assets/HypertensiveMeds";
+import inotropicDrugs from "../assets/InotropicDrugsPositive";
+import diuretics from "../assets/Diuretics";
+import blockingCalcium from "../assets/BlockingCalciumMeds";
 
 export default class LinksScreen extends React.Component {
   constructor(props) {
@@ -68,26 +72,51 @@ export default class LinksScreen extends React.Component {
     })
   }
 
-  onSteroidsStarted(){
+  onSteroidsStarted() {
     this.nav.push({
       name: "steroids",
     })
   }
 
-  onParasympatheticStarted(){
+  onParasympatheticStarted() {
     this.nav.push({
       name: "parasympathetic",
     })
   }
-  
-  onSymphateticPart1Started(){
+
+  onSymphateticPart1Started() {
     this.nav.push({
       name: "symphateticPart1",
     })
   }
-  onBlockersStarted(){
+
+  onBlockersStarted() {
     this.nav.push({
       name: "blockers",
+    })
+  }
+
+  onHypertensiveMedsStarted() {
+    this.nav.push({
+      name: "HypertensiveMeds",
+    })
+  }
+
+  onInotropicDrugsStarted() {
+    this.nav.push({
+      name: "InotropicDrugs",
+    })
+  }
+
+  onDiureticsStarted() {
+    this.nav.push({
+      name: "Diuretics",
+    })
+  }
+
+  onBlockingCalciumStarted() {
+    this.nav.push({
+      name: "BlockingCalcium",
     })
   }
 
@@ -100,7 +129,7 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Nowe"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         );
       case "sleepMedsOld":
         return (
@@ -109,7 +138,7 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         );
       case "meds2Updated":
         return (
@@ -118,7 +147,7 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Aktualizacja - Leki na OUN: Leki anksiolityczne,  przeciw padaczkowe i nasenne"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         );
       case "meds3":
         return (
@@ -127,7 +156,7 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Trzecia część"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         );
       case "anticoagulants":
         return (
@@ -136,7 +165,7 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Antykogulanty"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         );
       case "steroids":
         return (
@@ -145,34 +174,70 @@ export default class LinksScreen extends React.Component {
             groupTitle={"Sterydy"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         )
       case "parasympathetic":
         return (
-           <TaskList
+          <TaskList
             flashcards={parasympathetic}
             groupTitle={"UKLAD AUTONOMICZNY CZESC PRZYWSPOLCZOLNA"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         )
       case "symphateticPart1":
-        return(
+        return (
           <TaskList
             flashcards={symphateticPart1}
             groupTitle={"Układ Autonomiczny 2 – Współczulny część 1"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
         )
       case "blockers":
-        return(
+        return (
           <TaskList
             flashcards={blockers}
             groupTitle={"b-blokery"}
             onNavBack={this.onNavBack.bind(this)}
             isRandomFlashcards={this.state.isRandomFlashcards}
-            />
+          />
+        )
+      case "HypertensiveMeds":
+        return (
+          <TaskList
+            flashcards={hypertensiveMeds}
+            groupTitle={"W chorobie nadciśnieniowej"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+          />
+        )
+      case "InotropicDrugs":
+        return (
+          <TaskList
+            flashcards={inotropicDrugs}
+            groupTitle={"Inotropowe dodatnie"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+          />
+        )
+      case "Diuretics":
+        return (
+          <TaskList
+            flashcards={diuretics}
+            groupTitle={"Leki moczopędne"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+          />
+        )
+      case "BlockingCalcium":
+        return (
+          <TaskList
+            flashcards={blockingCalcium}
+            groupTitle={"Blokujące kan wapniowe"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+          />
         )
       default:
         return (
@@ -225,24 +290,24 @@ export default class LinksScreen extends React.Component {
             <TouchableHighlight
               onPress={this.onParasympatheticStarted.bind(this)}
               style={styles.button}>
-                <Text style={styles.buttonText}>
-                 Część przywspółczólna
+              <Text style={styles.buttonText}>
+                Część przywspółczólna
                 </Text>
             </TouchableHighlight>
 
             <TouchableHighlight
               onPress={this.onSymphateticPart1Started.bind(this)}
               style={styles.button}>
-                <Text style={styles.buttonText}>
-                 Współczulny część 1
+              <Text style={styles.buttonText}>
+                Współczulny część 1
                 </Text>
             </TouchableHighlight>
 
             <TouchableHighlight
               onPress={this.onBlockersStarted.bind(this)}
               style={styles.button}>
-                <Text style={styles.buttonText}>
-                 b-blokery
+              <Text style={styles.buttonText}>
+                b-blokery
                 </Text>
             </TouchableHighlight>
 
@@ -262,6 +327,38 @@ export default class LinksScreen extends React.Component {
                 </Text>
             </TouchableHighlight>
 
+            <TouchableHighlight
+              onPress={this.onHypertensiveMedsStarted.bind(this)}
+              style={styles.button}>
+              <Text style={styles.buttonText}>
+                W chorobie nadciśnieniowej
+                </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onInotropicDrugsStarted.bind(this)}
+              style={styles.button}>
+              <Text style={styles.buttonText}>
+                O działaniu inotropowym dodatnim
+                </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onDiureticsStarted.bind(this)}
+              style={styles.button}>
+              <Text style={styles.buttonText}>
+                Moczopędne
+              </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onBlockingCalciumStarted.bind(this)}
+              style={styles.button}>
+              <Text style={styles.buttonText}>
+                Blokujące kan wapniowe
+              </Text>
+            </TouchableHighlight>
+
             <View style={styles.checkboxContainer}>
               <CheckBox
                 label='Losowa kolejność'
@@ -269,7 +366,7 @@ export default class LinksScreen extends React.Component {
                 onChange={(checked) => this.setState({
                   isRandomFlashcards: !this.state.isRandomFlashcards
                 })}
-                />
+              />
             </View>
 
           </ScrollView>
@@ -289,7 +386,7 @@ export default class LinksScreen extends React.Component {
           this.nav = nav;
         })}
         renderScene={this.renderScene.bind(this)}
-        />
+      />
     );
   };
 };

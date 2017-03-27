@@ -1,0 +1,292 @@
+{
+	"leki hipotensyjne": {
+		"name": "leki hipotensyjne",
+		"text": "blokujace RAA + b.bloker+alfa adrenolityki+ metyldopa",
+		"learned": false
+	},
+	"Jakie mamy leki blokujące RAA? ": {
+		"name": "Jakie mamy leki blokujące RAA? ",
+		"text": "	IKA, sartany, antagoniści aldosteronu, inhibitory reniny,pośrednio działają też b-blokery( karwedilol i nebiwolol)",
+		"learned": false
+	},
+	"pacjent  z astma i nadcisnieniem": {
+		"name": "pacjent  z astma i nadcisnieniem",
+		"text": "	NIE b.bloker, lepiej sartan niz IKA, bo IKA moze powodowac stany bronchospastyczne",
+		"learned": false
+	},
+	"jakie leki w ch.niedokrw serca": {
+		"name": "jakie leki w ch.niedokrw serca",
+		"text": "	b.bloker, ASA, IKA, statyny",
+		"learned": false
+	},
+	"pacjent z tachykardia i nadcisnieniem": {
+		"name": "pacjent z tachykardia i nadcisnieniem",
+		"text": "	dajemy b.bloker",
+		"learned": false
+	},
+	"leki poprawiajace jakosc zycia w chns": {
+		"name": "leki poprawiajace jakosc zycia w chns",
+		"text": "	azotany, b.blok, ca blok. inhibitory wezla zatokowego",
+		"learned": false
+	},
+	"leki stosowane w NS": {
+		"name": "leki stosowane w NS",
+		"text": "	b.bloker, IKA, diuretyki te ktore oszczedzaja potas(spironolakton)",
+		"learned": false
+	},
+	"sartany(ARB)": {
+		"name": "sartany(ARB)",
+		"text": "	blokuja rec AT1,",
+		"learned": false
+	},
+	"Układ RAA a ukł współczólny": {
+		"name": "Układ RAA a ukł współczólny",
+		"text": "	dodatnie sprzężenie zwrotne między RAA a ukł współcz; ukł współczólny pobudza RAA przez rec adrenergiczne w aparacie przykłębuszkowym co zwieksza sekrecję reniny a Ang II pobudza ośr adrenergiczne",
+		"learned": false
+	},
+	"uklad RAA": {
+		"name": "uklad RAA",
+		"text": "	renina katalizuje przejscie angiotensynogenu w angiotensyne 1, konwertaza angiotensyny ( lub chymaza, tonina,katepsyna szlaki alternatywne) przekszt AT1 w AT2 - aktywacja aldosteronu",
+		"learned": false
+	},
+	"AGT II a sciana naczyn": {
+		"name": "AGT II a sciana naczyn",
+		"text": "	kurczenie naczyn, przerost miesniowki naczyn, skurcz m gladkiej, retencja sodu i wody, wloknienie, zwieksza ilosc rec dla oxLDL, nasila miazdzyce, powstawanie ognisk stanu zapalnego",
+		"learned": false
+	},
+	"AT II a mozg": {
+		"name": "AT II a mozg",
+		"text": "	wzrost uczucia pragnienia, apetyt na sol, aktywacja wspolczulna, uwalnianie wazopresyny",
+		"learned": false
+	},
+	"ATII na serce": {
+		"name": "ATII na serce",
+		"text": "	przerost kardiomiocytow, nasilenie syntezy bialek przez fibroblasty- wloknienie, przerost LK, dziala inotropowo i chronotropowo dodatnio, poszerza strefe zawalu",
+		"learned": false
+	},
+	"jak hamowac raa": {
+		"name": "jak hamowac raa",
+		"text": "	hamujac renine(aliskiren), hamujac enzym konwertujacy angiotensyne, hamujac receptor dla angiotensyny - sartany, blokowanie aldosteronu( hamowanie rec dla aldosteronu)- diuretyk oszczedzajacy potas ",
+		"learned": false
+	},
+	"IKA i sartany czy sa moczopedne?": {
+		"name": "IKA i sartany czy sa moczopedne?",
+		"text": "	NIE",
+		"learned": false
+	},
+	"jakie mamy diuretyki?": {
+		"name": "jakie mamy diuretyki?",
+		"text": "			antagonisci aldosteronu tiazydowe i tiazydopodobne",
+		"learned": false
+	},
+	"co z antagonistami aldost oszczedzajacymi potas": {
+		"name": "co z antagonistami aldost oszczedzajacymi potas",
+		"text": "	hamuja raa i sa moczopedne",
+		"learned": false
+	},
+	"IKA i sartany ": {
+		"name": "IKA i sartany ",
+		"text": "	mają korzystny profil metaboliczny, nie zaburzają gospodarki lipidowej i węglowodanowej, mają działanie nefroprotekcyjne",
+		"learned": false
+	},
+	"Wskazania do  IKA": {
+		"name": "Wskazania do  IKA",
+		"text": "	nadciśnienie tętnicze, niewydolność serca, choroba wieńcowa z współistniejącym HA i NS, oraz wspolistnienie razem z HA, NS, ChNS inne choroby jak cukrzyca t2, nfropatia cukrzycowa, zawal, przerost LK. dyslipidemia, niedokrwienie kk dolnych, przebyte udary mozgu jako prewencja",
+		"learned": false
+	},
+	"chromanie przystankowe": {
+		"name": "chromanie przystankowe",
+		"text": "	zwezenie tt konczyn dolnych, ",
+		"learned": false
+	},
+	"schemat leczenie NS skurczowej": {
+		"name": "schemat leczenie NS skurczowej",
+		"text": "		objawy: obrzeki, uposledzona tolerancja wysilku, dusznosc przy lezeniu leczenie b.bloker+ IKA+ jezeli nie zareagowali na leczenie dolaczamy MRA(antag recept mineralokortykoidowego), jak po IKA kaszel to zamieniamy na sartan",
+		"learned": false
+	},
+	"dlaczego IKA": {
+		"name": "dlaczego IKA",
+		"text": " u pacjentow z HA i cukrzyca",
+		"learned": false
+	},
+	"co w przeroscie LK? ": {
+		"name": "co w przeroscie LK? ",
+		"text": "	IKA, sartan, mozna tez Ca-bloker",
+		"learned": false
+	},
+	"co w dyslipidemiach? ": {
+		"name": "co w dyslipidemiach? ",
+		"text": "	leki z dobrym profilem metabolcznym, IKA lepiej niz sartany ",
+		"learned": false
+	},
+	"Mechanizm działania IKA": {
+		"name": "Mechanizm działania IKA",
+		"text": "	obniżają ciśnienie tętnicze w wyniku rozkurczu naczyń i zmniejszenia oporu obwodowego, nie powodują odruchowej tachykardii bo hamuja ukl wspolczulny",
+		"learned": false
+	},
+	"Działanie nefroprotekcyjne": {
+		"name": "Działanie nefroprotekcyjne",
+		"text": "	polega na obniżeniu ciśnienia śródkłębuszkowego poprzez obniżenie ciśnienia systemowego i rozkurcz naczynia doprowadzającego do kłębuszka nerkowego, dlatego wlaczane w mikroalbuminuriach i nefropatiach cukrzycowych",
+		"learned": false
+	},
+	"Jak IKA wpływają na wydolność serca": {
+		"name": "Jak IKA wpływają na wydolność serca",
+		"text": "	zmniejszenia afterload i preload, poprawa przepływu nerkowego i zmniejszenie przerostu LK, rozszerzajac naczynia zmniejszaja obciazenie wstepnego i nastepcze, NIE DZIALAJA INO I CHRONOTROPOWO + ",
+		"learned": false
+	},
+	"Błędne koło niewydolności serca": {
+		"name": "Błędne koło niewydolności serca",
+		"text": "	przeciążenie serca prowadzi do spadku RR, w wyniku czego uruchomiony jest odruch z baroreceptorów i aktywowany ukł RAA i adrenergiczny. Powoduje  to wzrost preload i afterload oraz oporu naczyniowego, zaleganie krwi i dalsze przeciążenie serca",
+		"learned": false
+	},
+	"Działania nieporządane IKA": {
+		"name": "Działania nieporządane IKA",
+		"text": "	kaszel( suchy męczący, nasila się w pozycji leżącej, po kilku dniach do kilku miesięcy od rozpoczęcia terapii, najczęściej wymaga odstawienia leku), hipotonia, hiperkaliemia, obrzęk naczynioruchowy",
+		"learned": false
+	},
+	"Mechanizm powstawania kaszlu po IKA	": {
+		"name": "Mechanizm powstawania kaszlu po IKA	",
+		"text": "	konwertaza ANG I ma identyczną budowę z kinazą która rozkłada bradykininę; IKA hamując konwertazę AGT hamuje też enzym rozkładający bradykininę. Gromadząca się bradykinina w drzewie oskrzelowym powoduje kaszel",
+		"learned": false
+	},
+	"Działanie plejotropowe IKA": {
+		"name": "Działanie plejotropowe IKA",
+		"text": "	przeciwmiażdżycowe, przeciwzapalne, hamują przebudowę ściany naczyniowej, hamują przerost mięśnia sercowego, zapobiegają remodelingowi LK, poprawia insulinowrażliwość",
+		"learned": false
+	},
+	"Remodeling": {
+		"name": "Remodeling",
+		"text": "	niekorzystna przebudowa scian, np kulista kommmora w przebudowie i przeroscie LK",
+		"learned": false
+	},
+	"Przeciwwskazania do IKA": {
+		"name": "Przeciwwskazania do IKA",
+		"text": "	zwężenie tt nerkowych, ciąża,karmienie piersia, zaawansowana niewyd nerek GFR<30ml/min lub kreatynina > 2,5mg%; hiperkaliemia, cięzka stenoza aortalna, koraktacja aorty, HCM(kardiomiopatia), obrzęk naczynioruchowy w wywiadzie, ostrożnie w hipotonii",
+		"learned": false
+	},
+	"O czym musimy pamiętać przy IKA?": {
+		"name": "O czym musimy pamiętać przy IKA?",
+		"text": "	Teratogenność, ryzyko hiperkaliemii, kaszel",
+		"learned": false
+	},
+	"Preparaty IKA": {
+		"name": "Preparaty IKA",
+		"text": "	Captopril, Enalapril, Cilazapril, Chinapril, Lisinopril, Ramipril, Trandolapril, Perindopril, Zofenopril, ",
+		"learned": false
+	},
+	"Captopril": {
+		"name": "Captopril",
+		"text": "	tabl 0.0125; 0.025; 0.05 2-3x dziennie, dorażnie do obniżenia ciśnienia podjęzykowo 12,5mg",
+		"learned": false
+	},
+	"Enalapril": {
+		"name": "Enalapril",
+		"text": "	Enarenal tabl 5,10,20 mg; Enap roztw do wstrzykiwań 1,25mg",
+		"learned": false
+	},
+	"Cilazapril": {
+		"name": "Cilazapril",
+		"text": "	Inhibace tabl 0.5mg, 1mg, 2,5mg, 5mg",
+		"learned": false
+	},
+	"Chinapril": {
+		"name": "Chinapril",
+		"text": "	Accupro 5;10;20;40 = tyle samo mg",
+		"learned": false
+	},
+	"Lisinopril": {
+		"name": "Lisinopril",
+		"text": "	Lisiprol 5mg;10mg;20mg",
+		"learned": false
+	},
+	"Ramipril": {
+		"name": "Ramipril",
+		"text": "	Tritace, Polpril 2,5mg;5mg;10mg",
+		"learned": false
+	},
+	"Trandolapril": {
+		"name": "Trandolapril",
+		"text": "	Gopten 0,5mg; 2mg",
+		"learned": false
+	},
+	"Perindopril": {
+		"name": "Perindopril",
+		"text": "	Prestarium 5;10 = 5mg I 10mg tabl",
+		"learned": false
+	},
+	"Zofenopril": {
+		"name": "Zofenopril",
+		"text": "	Zofenil	tabl 7,5mg; 30mg",
+		"learned": false
+	},
+	"Dawkowanie IKA": {
+		"name": "Dawkowanie IKA",
+		"text": "	indywidualne,  u chorych z niewyd serca zaczynamy od małej dawki i powoli zwiększamy, u chorych z nadciśnieniem dawki mogą być nieco wyższe, na recepcie 1x1tabl",
+		"learned": false
+	},
+	"Wskazania do sartanów": {
+		"name": "Wskazania do sartanów",
+		"text": "	nadciśnienie, niewydolność serca przy nietolerancji IKA(tylko niektóre walsartan i kandesartan) ChNS- telmisartan",
+		"learned": false
+	},
+	"Przeciwwskazania": {
+		"name": "Przeciwwskazania",
+		"text": "	zwężenie tt nerkowych, ciąża, zaawansowana niewyd nerek GFR<30ml/min; hiperkaliemia, cięzka stenoza aortalna, koraktacja aorty, HCM, obrzęk naczynioruchowy w wywiadzie, ostrożnie w hipotonii",
+		"learned": false
+	},
+	"Działania nieporządane sartanów	": {
+		"name": "Działania nieporządane sartanów	",
+		"text": "hipotonia, hiperkaliemia, bóle głowy, zawroty głowy, osłabienie, nie powodują kaszlu bo nie zwiększają ilości bradykininy",
+		"learned": false
+	},
+	"Preparaty sartanów": {
+		"name": "Preparaty sartanów",
+		"text": "	Valsartan; Losartan; Eprosartan, Candesartan; Telmisartan; Olmesartan; Irbesartan",
+		"learned": false
+	},
+	"Valsartan	": {
+		"name": "Valsartan	",
+		"text": "Diovan 80 i 160; Co-Diovan 160/25; 160/12.5; 80/12.5 prep złozony, tabll (walsartan +hydrochlorotiazyd) dawki jak w nazwie w mg",
+		"learned": false
+	},
+	"Losartan": {
+		"name": "Losartan",
+		"text": "	Xartan tabl 50 mg; Lorista tabl 25, 50, 100 mg, obniza poziom kwasu moczowego w surowicy jako jedyny sartan!! u osob z dna moczanowa, hiperurykemia kw moczowy zwieksza ryzyko rozwoju nadcisnienia",
+		"learned": false
+	},
+	"lek hipotensyjny dla pacjentow z hiperurykemia": {
+		"name": "lek hipotensyjny dla pacjentow z hiperurykemia",
+		"text": "		sartan!! Losartan- Lorista 1x1 tabl",
+		"learned": false
+	},
+	"czego nie laczymy w leczeniu hipotensyjnym": {
+		"name": "czego nie laczymy w leczeniu hipotensyjnym",
+		"text": "	sartanu i ACEI (IKA) nie obnizono bardziej cisnienia a dodatkowo wieksza hiperkalemia i niewydolniosc nerek; reszte poloczen miedzy IKA sartanami blokerami Ca i diuret tiazydow mozna wykozystac( IKA z blok Ca; IKA z  diur tiaz; blok Ca z sartanem; blok Ca z diuret; sartan z diuret)",
+		"learned": false
+	},
+	"Dawkowanie sartanów": {
+		"name": "Dawkowanie sartanów",
+		"text": "	na ogól 1x1 dziennie, indywidualnie",
+		"learned": false
+	},
+	"Inhibitory reniny": {
+		"name": "Inhibitory reniny",
+		"text": "	Aliskiren – preparat Rasilez tabl 150mg",
+		"learned": false
+	},
+	"Preferowane połączenia leków hipotensyjnych": {
+		"name": "Preferowane połączenia leków hipotensyjnych",
+		"text": "	1)ACEI + antagonista wapnia 2) ACEI + diuretyk tiazydowy 3) ARB+ antagonista wapnia 3) ARB+ diuretyk tiazydowy",
+		"learned": false
+	},
+	"Połączenie aliskirenu z IKA": {
+		"name": "Połączenie aliskirenu z IKA",
+		"text": "	zwiększa ryzyko hiperkaliemii i niewydolności nerek",
+		"learned": false
+	},
+	"Treapia HA": {
+		"name": "Treapia HA",
+		"text": "	może być rozpoczęta od monoterapii jak i od połączenie dwóch leków, wszystkie leki hipotensyjne są równoważne, dobieramy zgodnie ze wskazaniami, przeciwwskazaniami i innymi chorobami, jezeli nie dzialaja 3 leki mamy cisnienie oporne to idziemy do lekow kolejnych wyborow np doksazosyna lub ant rec mineralokortyk. Spironolakton",
+		"learned": false
+	},
+}
