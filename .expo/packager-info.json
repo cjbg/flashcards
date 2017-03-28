@@ -1,0 +1,10 @@
+{
+  "packagerPort": 19001,
+  "exponentServerNgrokUrl": null,
+  "packagerNgrokUrl": "https://packager.9m-pic.cjbg.flashcards.exp.direct",
+  "ngrokPid": 20036,
+  "exponentServerPort": 19000,
+  "packagerPid": 18648,
+  "expoServerPort": 19000,
+  "expoServerNgrokUrl": "https://9m-pic.cjbg.flashcards.exp.direct"
+}
