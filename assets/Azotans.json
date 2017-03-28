@@ -1,0 +1,152 @@
+{
+	"ChNS patogeneza": {
+		"name": "ChNS patogeneza",
+		"text": "	ograniczony przeplyw krwii przez istniejaca blaczke miazdzycowa",
+		"learned": false
+	},
+	"ChNS jak leczymy": {
+		"name": "ChNS jak leczymy",
+		"text": "	zwiekszamy ukrwienie, zmniejszamy zapotrzebowanie- zwolnienie, wydluzenie fazy rozkurczu, oslabienie kurczliwosci,  redukcja obciążeń, rozszerzenie naczyn wiencowych= bblok, blokery ca",
+		"learned": false
+	},
+	"Lleki poprawiające rokowanie w ChNS": {
+		"name": "Lleki poprawiające rokowanie w ChNS",
+		"text": "	Ika/sartany, bblokery, statyny, p.plytkowe, diuretyki oszcz potas",
+		"learned": false
+	},
+	"Leki redukujące objawy w ChNS		": {
+		"name": "Leki redukujące objawy w ChNS		",
+		"text": "	azotany, ca blokery, inhibitory węzła zatokow –iwabradyna, leki metaboliczne ",
+		"learned": false
+	},
+	"leki stosowane w HA i IHD": {
+		"name": "leki stosowane w HA i IHD",
+		"text": "	bblok, ca bloker, ika sartany",
+		"learned": false
+	},
+	"leki w HA		": {
+		"name": "leki w HA		",
+		"text": "bblok, IKA, sartany, ca blokery, diuretyki, alfa adrenolityki, ",
+		"learned": false
+	},
+	"leki w IHD		": {
+		"name": "leki w IHD		",
+		"text": "bblok, IKA, sartany, ca blokery, ASA, nitraty, inhibit węzła zatok, statyny, trimetazydyna",
+		"learned": false
+	},
+	"azotany inf	": {
+		"name": "azotany inf	",
+		"text": "sa prolekami, donorami tlenku azotu, ",
+		"learned": false
+	},
+	"mechanizm dzialania nitratow": {
+		"name": "mechanizm dzialania nitratow",
+		"text": "			jako donory NO aktywuja cyklace GTP, powoduja wzrost cGMP, defosforylacje polaczen miozynowych i rozkurcz naczyn GLOWNIE ZYLNE ",
+		"learned": false
+	},
+	"efekty dzialania nitratow": {
+		"name": "efekty dzialania nitratow",
+		"text": "	zmniejszenie obciazen, preload przez rozkurcz naczyń żylnych, oraz afterload rozkurcz tetniczych-zmniejszenie zapotrzebowania na tlen, rozkurcz nasierdzowych tt wiencowych i poprawa ukrwienia zmniejszenie cisnienia w krazeniu plucnym) pozniej tetnicze najslabiej wiencowe",
+		"learned": false
+	},
+	"hemodynamiczna reakcja ukł krążenia na nitraty": {
+		"name": "hemodynamiczna reakcja ukł krążenia na nitraty",
+		"text": "		zmniejszenie ciśnienia tętniczego i przyspieszenie akcji serca w odp na spadek RR",
+		"learned": false
+	},
+	"nitraty zastosow": {
+		"name": "nitraty zastosow",
+		"text": "	ChW dodatkowe, nie poprawiaja przezycia, zastoinowa niewyd serca, obrzek pluc, angina printzmetala, nadcisnienie tetnicze do doraznego obnizenia cisnienia",
+		"learned": false
+	},
+	"dzialania nieporzadane nitratow": {
+		"name": "dzialania nieporzadane nitratow",
+		"text": "		bole glowy- rozszerzenie tt oponowych, zaczerwienie twarzy, zawroty glowy, oslabienie hipotonia, tachykardia, nudnosci wymioty,",
+		"learned": false
+	},
+	"przerciwwskazania": {
+		"name": "przerciwwskazania",
+		"text": "	hipotonia <90 cisn skurczowe, zawal prawej komory( nie jest w stanie wygenerowac odpowiedniego rzutu a my jeszcze nie dostarczamy odpowiedniej ilosci krwii mozemy wywolac niewydolnosc), jaskra, stosowanie inhib fosfodiesterazy 5 ( sildenafil,wardenafil niebezpieczenstwo ciezkiej hipotonii) , zwezajaca HCM, zaciskające zap osierdzia, tamponada",
+		"learned": false
+	},
+	"sildenafil": {
+		"name": "sildenafil",
+		"text": "	viagra, inhibitor fosfodiesterazy 5 hamuje rozklad cGMP, powoduje kumulacje cGMP i hipotonia",
+		"learned": false
+	},
+	"zasady dawkowania azotanow	": {
+		"name": "zasady dawkowania azotanow	",
+		"text": "prep podjezykowe- doraznie bo powoduja tachyfilaksje, w terapii ciaglej stosowac leki w nierownych odstepach czasu np dluzsza przerwa nocna, zapobiega to rozwojowi tolerancji dlatego doraznie w bolach wiencowych zeby dzialaly ",
+		"learned": false
+	},
+	"podzial azotanow": {
+		"name": "podzial azotanow",
+		"text": "	trójazotan glicerolu NTG, dwuazotan izosorbitolu ISDN, monoazotan izosorbidu ISMN, tetraazotan pentaerytrolu",
+		"learned": false
+	},
+	"NTG wskazania preparat": {
+		"name": "NTG wskazania preparat",
+		"text": "	przerwanie bólu dławicowego, doraźne obniżenie ciśnienia, Nitromint aerozol do stos podjęzykowo, 1-2 dawki w razie potrzeby",
+		"learned": false
+	},
+	"Nitrogliceryna inf": {
+		"name": "Nitrogliceryna inf",
+		"text": "	nie działa podawana doustnie, silnie rozkładana przez sok żołądkowy, silny efekt pierwszego przejścia w wątrobie",
+		"learned": false
+	},
+	"ISDN dawkowanie": {
+		"name": "ISDN dawkowanie",
+		"text": "	Sorbonit",
+		"learned": false
+	},
+	"ISMN dawkowanie": {
+		"name": "ISMN dawkowanie",
+		"text": "	Effox, mononit, 10mg 2-3xd 8-12-17h bo między ostatią a pierwszą musi być  12 h przerwy. 20-40 mg 2xd, między tabletkami 7-8h w dzień i przerwa nocna 16h czyli przyjmować o 8 i 15, powyżej 40mg 1xd co 24h",
+		"learned": false
+	},
+	"Interakcje ISDN i ISMN": {
+		"name": "Interakcje ISDN i ISMN",
+		"text": "	alkohol i inne leki hipotensyjne nasilają ich działanie hipotensyjne, NLPZ osłabiają działanie Ng",
+		"learned": false
+	},
+	"Tetraazotan pentaerytrolu": {
+		"name": "Tetraazotan pentaerytrolu",
+		"text": "	pentaerytrol",
+		"learned": false
+	},
+	"Molsidomina inf": {
+		"name": "Molsidomina inf",
+		"text": "	lek o działaniu podobnym do azotanów, odszczepia NO, nie nadaje się do przerywania bólu wieńcowego,",
+		"learned": false
+	},
+	"Molsidomina wskazania": {
+		"name": "Molsidomina wskazania",
+		"text": "	przewlekła choroba wieńcowa, p/wsk i dział nieporz jak azotany",
+		"learned": false
+	},
+	"Trimetazydyna inf	": {
+		"name": "Trimetazydyna inf	",
+		"text": "inhibitor tiolazy 3ketoacylo koenzymu A biorącego udział w b oksydacji. Przesuwa to produkcję en na korzyść cukrów, mniej potrzeba en do wytworzania ATP z cukrów niz z tłuszczy, zmniejsza to zapotrzebowanie energetyczne serca, ",
+		"learned": false
+	},
+	"Skąd serce czerpie energię": {
+		"name": "Skąd serce czerpie energię",
+		"text": "	WKT 80%, 10-20% węglowodany i mleczany ",
+		"learned": false
+	},
+	"Trimetazydyna preparaty": {
+		"name": "Trimetazydyna preparaty",
+		"text": "	Setal MR, Preductal MR 0.035",
+		"learned": false
+	},
+	"Trimetazydyna dział nieporz": {
+		"name": "Trimetazydyna dział nieporz",
+		"text": "	nudności, wymioty, wzdęcia brzucha, występowanie zespołu Parkinsonowskiego, zaburzenia ruchowe, RLS, niestabilność choduu drżenie, wtedy odstawiamy, większe prawdopod u osób 75+ i z niewyd nerek, ",
+		"learned": false
+	},
+	"Iwabradyna inf": {
+		"name": "Iwabradyna inf",
+		"text": "	zwalnia akcję serca przez selektywne hamowanie prądu rozrusznikowego w kom węzła zatokowego, zmniejszenie czynności serca zmniejsza zapotrzebowanie na tlen , w CHNS i NS,  Procoralan tabl 0.005 i 0.0075 2x1ta",
+		"learned": false
+	},
+}

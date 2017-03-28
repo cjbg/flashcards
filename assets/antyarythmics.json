@@ -1,0 +1,152 @@
+{
+	"depolaryzacja i repolaryzacja": {
+		"name": "depolaryzacja i repolaryzacja",
+		"text": "  - 1)naplyw jodow Na do kom, 2)ustanie naplyw jonow 3)iueczka sodu a wymiana na K",
+		"learned": false
+	},
+	"4 gr lekow antyarytmicznych": {
+		"name": "4 gr lekow antyarytmicznych",
+		"text": "	kl I - blokujace kanal sodowy- opozniaja powstanie potencjalu; kl II bblokery; klIII hamujace kan potasowy- przedluza repolaryzacje; kl IV leki blokujace kan Ca niedihydropirydynowe",
+		"learned": false
+	},
+	"jakie wlasciwosci maja leki antytarytmiczne": {
+		"name": "jakie wlasciwosci maja leki antytarytmiczne",
+		"text": "	proarytmogenne, szczegolnie u chorych z uszkodzeniem serca np po zawale, po stanie zapalnym",
+		"learned": false
+	},
+	"KL I lekow antyarytmiczn	": {
+		"name": "KL I lekow antyarytmiczn	",
+		"text": "stabilizuja bl komorkowa, hamuja wnikanie Na i ucieczke potasu, Ia- byla chinidyna, Ib- lidokaina lek znieczulajacy; Ic – propafenon",
+		"learned": false
+	},
+	"Chinidyna dzial nieporz	": {
+		"name": "Chinidyna dzial nieporz	",
+		"text": "pogorszenie kurczliwości LK, działania atropinopodobne, bloki, arytmie, asystolia, zaburzenia przewodzenia, torsade de pointes, biegunka, obniżenie ciśnienie krwii",
+		"learned": false
+	},
+	"Propafenon": {
+		"name": "Propafenon",
+		"text": "	blokuje kan Na, kanaly Ca i receptory b-adrenergicznew 2-3 dawkach, podawany u osob ze zdrowa lewa komora u pacjentow bez organicznej wady serca, najczesciej w arytmiach nadkomorowych - MIGOTANIE PRZEDSIONKOW strategia tabletki w kieszeni jednorazowo 600mg po w celu samodzielnego przerwania napadu migotania, w arytmiach komorowych też",
+		"learned": false
+	},
+	"Propafenon preparat": {
+		"name": "Propafenon preparat",
+		"text": "	, Rythmonorm 150, 300 mg, dawk d 450-600mg w 2-3 dawkach",
+		"learned": false
+	},
+	"Lidokaina": {
+		"name": "Lidokaina",
+		"text": "	dziala tylko na komory; w arytmiach komorowych, nie dzialaja inotrop ujemnie, nie oslabia kurczliwosci LK, ma dzialanie osrodkowe drzenia, parastezje, oszolomienie, dzialaa b.szybko ale krotko",
+		"learned": false
+	},
+	"wskazania lidokaina": {
+		"name": "wskazania lidokaina",
+		"text": "	arytmie komorowe pozawalowe, przedawkowanie glikozydow, znieczulenie ",
+		"learned": false
+	},
+	"klasa II": {
+		"name": "klasa II",
+		"text": "	bblokery, zwalniaja akcje serca, zwalniaja przewodzenie, wydluzaja refrakcje AV, zmniejszaja aktywnosc osrodkow ektopowych-batmotropowy, zmniejszaja wplyw stymujacji ukl wspolczulnego na serce ( stres wysilek, tyreotoksykoza, AMI)",
+		"learned": false
+	},
+	"wskazania dla kl II": {
+		"name": "wskazania dla kl II",
+		"text": "	arytmie nadkomorowe i komorowe tez przy wspolistnieniu NS, ChNS, zawału",
+		"learned": false
+	},
+	"klasa III": {
+		"name": "klasa III",
+		"text": "	blokowanie kanalu potasowego, wydluzaja czas trwania pot czynnosciowego czyli QT, leki posiadajace ryzyko wywolana " baletu serca" sotalol- b bloker ale nalezy do III kl blokuje kanaly K nieselektywny bbloker; Amiodaron",
+		"learned": false
+	},
+	"sotalol": {
+		"name": "sotalol",
+		"text": "	Sotahexal 40;80;160 mg 2xd, pod kontrola akcji serca > 55",
+		"learned": false
+	},
+	"amiodaron": {
+		"name": "amiodaron",
+		"text": "	wplywa na wiele kanalow jonowych nie tylko K, ma dodatkowe cechy blokuje rec alfa i beta, rozszerza naczynia takze wiencowe, nie dziala istotnie iinotropowo ujemnie, bardzo dlugi okres poltrwania akumuluje sie!!!! nie pogarsza niewydolnosci LK, mozna w niewydolnosci serca, moze powodowac zaburzenia tarczycy, do arytmi nadkomorowych i komorowych!!!",
+		"learned": false
+	},
+	"amiodaron preparat": {
+		"name": "amiodaron preparat",
+		"text": "	Cordarone 0,2 tabl, p.o dawka nasycajaca 0,6g/24h przez tydzien 3xd 1 tabl, pozniej podtrzymujaca 1 tabl dziennie; w celu przerwania mig mozna w ampulkach i.v 0,15; FA 5mg/kg przez 1 h pozniej wlew",
+		"learned": false
+	},
+	"dzialania niep amiodaronu": {
+		"name": "dzialania niep amiodaronu",
+		"text": "	niekorzystny endokrynologicznie- ma czasteczke jodu powoduje nadczynnosc lub niedoczynnosc tarczycy; zlogi w rogowce, wloknienie pluc, obj dyspeptyczne, obj nerwowo-miesniowe neuropatia obwodowa, oslabienie mm. proksymalnych, fotodermatozy, bradykardia, bloki AV, hipotensja przy podaniu i.v, hamuje konwersje T4 do T3, powoduje efekt Wolffa Chaikoffa akumulacje jodu i przeladowanie tarczycy - niedoczynnosc; lub niedoczynnosc zespol jod-basedow",
+		"learned": false
+	},
+	"leki powodujace wydluzenie QT		": {
+		"name": "leki powodujace wydluzenie QT		",
+		"text": "	neuroleptyki klasyczne, TLPD, antyhist I gen, kl III lekow antyarytmicznych",
+		"learned": false
+	},
+	"dronedaron": {
+		"name": "dronedaron",
+		"text": "	odpowiednik amiodaronu bez czast jodu, obecnie ograniczone wskazania",
+		"learned": false
+	},
+	"klasa IV": {
+		"name": "klasa IV",
+		"text": "	blokery kan Ca werapamil i diltiazem, wskazanie szybkie nadkomorowe arytmie",
+		"learned": false
+	},
+	"inny lek": {
+		"name": "inny lek",
+		"text": "	adenozyna-otwiera kan potasowe i przeladowanie komorki, do przerywania tylko doraznie, do okreslonych arytmi nadkomorowych, zwalnia przewodnictwo w wezle SA, czas poltrwania to sekundy, zwalnia czestosc rytmu zatokowego, podawana w bolusie. musi byc intensywny nadzor kardiologiczny moze powodowac asystolie",
+		"learned": false
+	},
+	"dzialania niep adennozyny": {
+		"name": "dzialania niep adennozyny",
+		"text": "	zaczerwienienie, skurcz oskrzeli, krotkotrwala asystolia, bol w kl piersiowej, nudnosci bradykardia, bloki AV, dusznosc",
+		"learned": false
+	},
+	"kiedy włączamy leki antyarytm	": {
+		"name": "kiedy włączamy leki antyarytm	",
+		"text": "kiedy arytmia zagraża życiu, pogarsza wydolność serca jest źle tolerowana,  najpierw szukamy przyczyny organicznej później leczymy antyarytmicznymi",
+		"learned": false
+	},
+	"TLPD i neuroleptyki": {
+		"name": "TLPD i neuroleptyki",
+		"text": "	nasilają działanie leków antyarytmicznych",
+		"learned": false
+	},
+	"Co suplementujemy przy leczeniu arytmi?": {
+		"name": "Co suplementujemy przy leczeniu arytmi?",
+		"text": "	Mg i K",
+		"learned": false
+	},
+	"Kardiowersja farmakologiczna u osób bez choroby organicznej serca": {
+		"name": "Kardiowersja farmakologiczna u osób bez choroby organicznej serca",
+		"text": "	dajemy propafenon",
+		"learned": false
+	},
+	"Kardiow farmak u osób z chor serca": {
+		"name": "Kardiow farmak u osób z chor serca",
+		"text": "	dajemy amiodaron + strategia tabl w kieszeni propafenon doraźnie",
+		"learned": false
+	},
+	"Leki kontrolujące rytm komór": {
+		"name": "Leki kontrolujące rytm komór",
+		"text": "	bblok(sotalol, metoprolol), ca blok niedihydropir (werapamil diltiazem)  digoxyna, jeżeli te nie są skuteczne to AMIODARON",
+		"learned": false
+	},
+	"rp na lek antyar kl Ic z napadowym mig przeds": {
+		"name": "rp na lek antyar kl Ic z napadowym mig przeds",
+		"text": "Rp Rythmonorm 150mg in tabulettis 1op S 3xd 1 tabletka ",
+		"learned": false
+	},
+	"rp na strategie nabl w kieszeni - przerwanie ambulatoryjnie migotania ": {
+		"name": "rp na strategie nabl w kieszeni - przerwanie ambulatoryjnie migotania ",
+		"text": "Rp Rythmonorm 300mg in tabulettis 1op S. Stosowac do przerwania napadu 2 tabletki jednorazowo doustnie!!! ",
+		"learned": false
+	},
+	"Rp na lek antyarytm z arytmia komorowa z kardiomiopatia pozawalowa": {
+		"name": "Rp na lek antyarytm z arytmia komorowa z kardiomiopatia pozawalowa",
+		"text": "Rp (bblok lub amiodaron) jezeli bedzie dodane ze zaburzenia tarczycy to bbloker Cordarone 0,2 in tabulettis 1op S. 3xd 1 tabl przez tydnien nastepnie 1xd 1 tabl doustnie!!!!!!!! ",
+		"learned": false
+	},
+}

@@ -26,6 +26,9 @@ import hypertensiveMeds from "../assets/HypertensiveMeds";
 import inotropicDrugs from "../assets/InotropicDrugsPositive";
 import diuretics from "../assets/Diuretics";
 import blockingCalcium from "../assets/BlockingCalciumMeds";
+import antyarithmics from "../assets/antyarythmics";
+import azotans from "../assets/Azotans";
+
 
 export default class LinksScreen extends React.Component {
   constructor(props) {
@@ -117,6 +120,18 @@ export default class LinksScreen extends React.Component {
   onBlockingCalciumStarted() {
     this.nav.push({
       name: "BlockingCalcium",
+    })
+  }
+
+  onAntyarythmicsStarted(){
+    this.nav.push({
+      name:"antyarithmics",
+    })
+  }
+
+  onAzotansStarted(){
+    this.nav.push({
+      name:"azotans",
     })
   }
 
@@ -239,6 +254,24 @@ export default class LinksScreen extends React.Component {
             isRandomFlashcards={this.state.isRandomFlashcards}
           />
         )
+      case "antyarithmics":
+        return(
+          <TaskList
+            flashcards={antyarithmics}
+            groupTitle={"Leki antyarytmiczne"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+          />
+        )
+      case "azotans":
+        return(
+          <TaskList
+            flashcards={azotans}
+            groupTitle={"Azotany"}
+            onNavBack={this.onNavBack.bind(this)}
+            isRandomFlashcards={this.state.isRandomFlashcards}
+          />
+        )
       default:
         return (
           <ScrollView
@@ -356,6 +389,22 @@ export default class LinksScreen extends React.Component {
               style={styles.button}>
               <Text style={styles.buttonText}>
                 Blokujące kan wapniowe
+              </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight 
+              onPress={this.onAntyarythmicsStarted.bind(this)}
+              style={styles.button}>
+              <Text style={styles.buttonText}>
+                Leki antyarytmiczne
+              </Text>
+            </TouchableHighlight>
+
+            <TouchableHighlight
+              onPress={this.onAzotansStarted.bind(this)}
+              style={styles.button}>
+              <Text style={styles.buttonText}>
+                Azotany
               </Text>
             </TouchableHighlight>
 
